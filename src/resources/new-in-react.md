@@ -1,9 +1,8 @@
 ---
-name: "New in React"
+title: "New In React"
 url: "http://newinreact.com"
-price: 0
-pricePerPeriod: ""
-format: ["blog", "video"]
-subjects: ["react", "javascript"]
-featured: true
+price: "0"
+pricePerPeriod: "n/a"
+format: "blog,video"
+subject: [react, javascript]
 ---

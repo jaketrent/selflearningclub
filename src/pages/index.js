@@ -9,7 +9,7 @@ const IndexPage = ({ data }) => (
     <Link to="/page-2/">Go to page 2</Link>
     {data.allMarkdownRemark.edges.map(({ node }) => (
       <div>
-        <Link to={node.fields.slug}>{node.frontmatter.name}</Link>
+        <Link to={node.fields.slug}>{node.frontmatter.title}</Link>
       </div>
     ))}
   </div>
@@ -26,10 +26,11 @@ export const query = graphql`
           }
           frontmatter {
             title
-            name
             url
             price
-            featured
+            pricePerPeriod
+            format
+            subject
           }
         }
       }
