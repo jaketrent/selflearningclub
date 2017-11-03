@@ -2,7 +2,11 @@
 title: "Modern DevTools"
 url: "https://moderndevtools.com/"
 price: "93"
-pricePerPeriod: "once"
-format: "video,tool"
-subject: [javascript, debugging]
+pricePerPeriod: once
+format: 
+- video
+- tool
+subject: 
+- javascript
+- debugging
 ---

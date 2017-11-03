@@ -2,7 +2,11 @@
 title: "Skyrocket in Android and Node.js"
 url: "https://futurestud.io/"
 price: "60"
-pricePerPeriod: "semiannually"
-format: "tutorial,video"
-subject: [android, node]
+pricePerPeriod: semiannually
+format: 
+- tutorial
+- video
+subject: 
+- android
+- node
 ---

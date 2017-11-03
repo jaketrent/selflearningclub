@@ -11,8 +11,10 @@ const nameColumns = line => ({
   subjects: line[5],
 })
 
-const makeTags = line => Object.assign({}, line, {
-  tags: '[' + line.subjects.trim().split(",").join(', ') + ']'
+const seperateParts = line => Object.assign({}, line, {
+  //diffPricePeriod: '\n- ' + line.pricePerPeriod.split(",").join('\n- '),
+  diffFormat: '\n- ' + line.format.split(",").join('\n- '),
+  tags: '\n- ' + line.subjects.split(",").join('\n- ')
 })
 const nonEmptyColumns = line => line.id !== ''
 const deriveColumns = line => Object.assign({}, line, {
@@ -23,8 +25,8 @@ const derivefrontmatter = line => Object.assign({}, line, {
 title: "${line.title}"
 url: "${line.url}"
 price: "${line.price}"
-pricePerPeriod: "${line.pricePerPeriod}"
-format: "${line.format}"
+pricePerPeriod: ${line.pricePerPeriod}
+format: ${line.diffFormat}
 subject: ${line.tags}
 ---
 `})
@@ -38,6 +40,6 @@ const lines = file
   .map(nameColumns)
   .filter(nonEmptyColumns)
   .map(deriveColumns)
-  .map(makeTags)
+  .map(seperateParts)
   .map(derivefrontmatter)
   .forEach(writeFiles)
