@@ -4,7 +4,7 @@ url: "http://railscasts.com/"
 price: "0"
 pricePerPeriod: n/a
 format: 
-- videos
+- video
 subject: 
 - rails
 ---

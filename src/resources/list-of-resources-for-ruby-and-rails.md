@@ -6,7 +6,7 @@ pricePerPeriod: n/a
 format: 
 - tutorial
 - course
-- screencast
+- video
 subject: 
 - ruby
 - rails

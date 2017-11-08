@@ -4,7 +4,7 @@ url: "http://teachyourselftocode.com/"
 price: "0"
 pricePerPeriod: n/a
 format: 
-- directory
+- resource
 subject: 
 - rails
 - backbone

@@ -7,7 +7,6 @@ format:
 - course
 - video
 - tutorial
-- guide
 subject: 
 - css
 - animation

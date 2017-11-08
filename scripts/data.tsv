@@ -6,11 +6,11 @@ Code Academy	https://www.codecademy.com/	0,19.99	n/a,month	courses,interactive,c
 Confreak	http://www.confreaks.com/	0	n/a	video,blog	ruby,ember,golang,elixir
 CraftStudio	https://sparklinlabs.itch.io/craftstudio	0	n/a	download	gaming
 Udacity	https://www.udacity.com/	0-2000	once	course,code,project	data analytics,programming,react
-Teach Yourself To Code	http://teachyourselftocode.com/	0	n/a	directory	rails,backbone,node,python,javascript,ruby
+Teach Yourself To Code	http://teachyourselftocode.com/	0	n/a	resource	rails,backbone,node,python,javascript,ruby
 Treehouse	https://teamtreehouse.com/	25,49	monthly	course,video,code	javascript,c#,ruby,design,databases,android
 Dance In A Year	danceinayear.com	0	n/a	video 	dance
 Jennifer Dewalt	http://blog.jenniferdewalt.com/post/56319597560/im-learning-to-code-by-building-180-websites-in#_=_	0	n/a	blog	html,css,javascript,rails
-Railscasts	http://railscasts.com/	0	n/a	videos	rails
+Railscasts	http://railscasts.com/	0	n/a	video	rails
 Scala School	http://twitter.github.io/scala_school/	0	n/a	example,tutorial	scala
 Ruby Warrior	https://www.bloc.io/ruby-warrior#/	0	n/a	interactive,code	ruby
 Lumen 	http://www.lumenlearning.com/	0	n/a	course	math,science,english
@@ -30,9 +30,9 @@ DIY	https://diy.org/	0	n/a	interactive,project	everything
 coderbyte	https://coderbyte.com/	0	n/a	interactive,code	javascript,python,c++, ruby,php
 DailyDrip	https://www.dailydrip.com/	22	monthly	video	elm,elixir,ember,swift,react
 Getting Started with Objective & Key Results	https://betterworks.app.box.com/s/gn2sd2ojkbk4d32bvjhz	0	n/a	ebook	okrs
-List of Resources for Ruby and Rails	http://www.learnrubyandrails.com/	0	n/a	tutorial,course,screencast	ruby,rails
+List of Resources for Ruby and Rails	http://www.learnrubyandrails.com/	0	n/a	tutorial,course,video	ruby,rails
 Top Rails Resources	http://railsapps.github.io/best-recommended-learning-rails-books-resources.html	0	n/a	document,tutorial,ebook	rails,ruby
-Ruby Tapes	https://www.rubytapas.com/	18	monthly	screencast,video	ruby,rails
+Ruby Tapes	https://www.rubytapas.com/	18	monthly	video	ruby,rails
 Veritasium	https://www.youtube.com/user/1veritasium/videos?spfreload=10	0	n/a	video	science,physics
 Patterns of Software 	http://www.dreamsongs.com/Files/PatternsOfSoftware.pdf	0	n/a	ebook	software
 RubyMonk	https://rubymonk.com/	0	n/a	course	ruby
@@ -47,7 +47,7 @@ CBT Nuggets	https://www.cbtnuggets.com/	84	monthly	video,quiz,lab	microsoft,it s
 WebGL Fundamentals	https://webglfundamentals.org/	0	n/a	article,example	webGL
 Hackr: Find the best online programming courses & tutorials	https://hackr.io/	0	n/a	tutorial,course,video,ebook	c,react,angular,css,javascript,photoshop,unity
 Code: Course 1	https://studio.code.org/s/course1	0	n/a	tutorial,interactive,game	coding,kids
-Google Tech Dev Guide	https://techdevguide.withgoogle.com/	0	n/a	problems,example	java
+Google Tech Dev Guide	https://techdevguide.withgoogle.com/	0	n/a	exercise,example	java
 Udi Dahan Videos	https://drive.google.com/drive/folders/0B9A2jsCBZYBFfmtYWmJwNGZzaEQ3d2xqTzBiWTFhZTFGSmlDbUowLUJmbXgxX2RiWGNDR2c	0	n/a	video	scalability
 Eric Brewer: The CAP Theorum, Then and Now	http://www.se-radio.net/2015/05/the-cap-theorem-then-and-now/	0	n/a	podcast	cap theorum
 Clojure by Example	http://kimh.github.io/clojure-by-example/#about	0	n/a	example,code	clojure
@@ -158,7 +158,7 @@ Sketch for Designer	http://sketch.fordesignrs.com/	0	n/a	examples,reference	sket
 Modern DevTools	https://moderndevtools.com/	93	once	video,tool	javascript,debugging
 Learn D3.js in 5 Days	https://benclinkinbeard.com/d3in5days/	0	n/a	email	d3
 CodeNewbie	https://www.codenewbie.org/	0	n/a	podcast,twitter,email	javascript,code,creating
-Web Animation Essentials	http://rachelnabors.com/css-animations-course/	129	once	course,video,tutorial,guide	css,animation
+Web Animation Essentials	http://rachelnabors.com/css-animations-course/	129	once	course,video,tutorial	css,animation
 React FAQ 	https://reactfaq.site/	0	n/a	resource,article	react,javascript,jsx
 CSS Grid Playground	https://mozilladevelopers.github.io/playground/	0	n/a	resource,example	css,html
 Clojure Academmy	https://clojurecademy.com/#	0	n/a	document,course	clojure
