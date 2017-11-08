@@ -1,0 +1,9 @@
+.cols {
+  display: flex;
+}
+.rhCol {
+  flex: 3;
+}
+.lhCol {
+  flex: 1;
+}
