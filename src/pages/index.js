@@ -44,6 +44,12 @@ class IndexPage extends React.Component {
         <h1>Hi people</h1>
         <p>Welcome to your new Gatsby site.</p>
         <p>Now go build something great.</p>
+        <div className={styles.lhCol}> 
+            <input type="checkbox"
+            key="free"/> Free
+            <input type="checkbox"
+            key="paid"/> Paid
+        </div>
         <div className={styles.cols}>
           <div className={styles.lhCol}>
             {formats.map(formatName => (

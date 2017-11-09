@@ -1,8 +1,9 @@
 ---
 title: "CBT Nuggets"
 url: "https://www.cbtnuggets.com/"
-price: "84"
-pricePerPeriod: monthly
+price: 
+- "84"
+pricePerPeriod: "monthly"
 format: 
 - video
 - quiz

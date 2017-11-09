@@ -1,8 +1,9 @@
 ---
 title: "New In React"
 url: "http://newinreact.com"
-price: "0"
-pricePerPeriod: n/a
+price: 
+- "0"
+pricePerPeriod: "n/a"
 format: 
 - blog
 - video

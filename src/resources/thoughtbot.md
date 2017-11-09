@@ -1,8 +1,9 @@
 ---
 title: "ThoughtBot"
 url: "https://thoughtbot.com/upcase"
-price: "29"
-pricePerPeriod: monthly
+price: 
+- "29"
+pricePerPeriod: "monthly"
 format: 
 - course
 - video

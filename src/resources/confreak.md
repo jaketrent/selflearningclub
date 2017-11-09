@@ -1,8 +1,9 @@
 ---
 title: "Confreak"
 url: "http://www.confreaks.com/"
-price: "0"
-pricePerPeriod: n/a
+price: 
+- "0"
+pricePerPeriod: "n/a"
 format: 
 - video
 - blog

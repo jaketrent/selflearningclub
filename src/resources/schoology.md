@@ -1,8 +1,9 @@
 ---
 title: "Schoology"
 url: "https://www.schoology.com/"
-price: ""
-pricePerPeriod: 
+price: 
+- ""
+pricePerPeriod: ""
 format: 
 - 
 subject: 

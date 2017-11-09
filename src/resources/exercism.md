@@ -1,8 +1,9 @@
 ---
 title: "Exercism"
 url: "http://exercism.io/"
-price: "0"
-pricePerPeriod: n/a
+price: 
+- "0"
+pricePerPeriod: "n/a"
 format: 
 - download
 - code

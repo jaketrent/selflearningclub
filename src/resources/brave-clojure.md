@@ -1,8 +1,9 @@
 ---
 title: "Brave Clojure"
 url: "https://www.braveclojure.com/"
-price: "0"
-pricePerPeriod: n/a
+price: 
+- "0"
+pricePerPeriod: "n/a"
 format: 
 - ebook
 - email

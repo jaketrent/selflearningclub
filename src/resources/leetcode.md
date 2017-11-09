@@ -1,8 +1,9 @@
 ---
 title: "LeetCode"
 url: "https://leetcode.com/"
-price: "0"
-pricePerPeriod: n/a
+price: 
+- "0"
+pricePerPeriod: "n/a"
 format: 
 - interactive
 - practice

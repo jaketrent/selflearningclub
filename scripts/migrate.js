@@ -12,7 +12,7 @@ const nameColumns = line => ({
 })
 
 const seperateParts = line => Object.assign({}, line, {
-  //diffPricePeriod: '\n- ' + line.pricePerPeriod.split(",").join('\n- '),
+  diffPrice: '\n- ' + line.price.split(",").map(price => `"${price}"`).join('\n- '),
   diffFormat: '\n- ' + line.format.split(",").join('\n- '),
   tags: '\n- ' + line.subjects.split(",").join('\n- ')
 })
@@ -24,8 +24,8 @@ const derivefrontmatter = line => Object.assign({}, line, {
     fileContents: `---
 title: "${line.title}"
 url: "${line.url}"
-price: "${line.price}"
-pricePerPeriod: ${line.pricePerPeriod}
+price: ${line.diffPrice}
+pricePerPeriod: "${line.pricePerPeriod}"
 format: ${line.diffFormat}
 subject: ${line.tags}
 ---

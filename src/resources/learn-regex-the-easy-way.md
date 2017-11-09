@@ -1,8 +1,9 @@
 ---
 title: "Learn Regex the Easy Way"
 url: "https://github.com/zeeshanu/learn-regex"
-price: "0"
-pricePerPeriod: n/a
+price: 
+- "0"
+pricePerPeriod: "n/a"
 format: 
 - example
 - code

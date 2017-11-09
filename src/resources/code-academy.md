@@ -1,8 +1,10 @@
 ---
 title: "Code Academy"
 url: "https://www.codecademy.com/"
-price: "0,19.99"
-pricePerPeriod: n/a,month
+price: 
+- "0"
+- "19.99"
+pricePerPeriod: "n/a,month"
 format: 
 - courses
 - interactive

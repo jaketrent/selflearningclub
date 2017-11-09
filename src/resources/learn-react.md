@@ -1,8 +1,9 @@
 ---
 title: "Learn React"
 url: "https://learnreact.com/"
-price: "4"
-pricePerPeriod: course
+price: 
+- "4"
+pricePerPeriod: "course"
 format: 
 - course
 - video

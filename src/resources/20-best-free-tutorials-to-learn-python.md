@@ -1,8 +1,9 @@
 ---
 title: "20 Best Free Tutorials to Learn Python"
 url: "http://noeticforce.com/best-free-tutorials-to-learn-python-pdfs-ebooks-online-interactive"
-price: "0"
-pricePerPeriod: n/a
+price: 
+- "0"
+pricePerPeriod: "n/a"
 format: 
 - reference
 subject: 

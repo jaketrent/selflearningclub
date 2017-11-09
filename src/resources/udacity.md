@@ -1,8 +1,9 @@
 ---
 title: "Udacity"
 url: "https://www.udacity.com/"
-price: "0-2000"
-pricePerPeriod: once
+price: 
+- "0-2000"
+pricePerPeriod: "once"
 format: 
 - course
 - code

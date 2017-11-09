@@ -1,8 +1,9 @@
 ---
 title: "CodeNewbie"
 url: "https://www.codenewbie.org/"
-price: "0"
-pricePerPeriod: n/a
+price: 
+- "0"
+pricePerPeriod: "n/a"
 format: 
 - podcast
 - twitter
