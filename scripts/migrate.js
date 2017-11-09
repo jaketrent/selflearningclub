@@ -13,8 +13,9 @@ const nameColumns = line => ({
 
 const seperateParts = line => Object.assign({}, line, {
   diffPrice: '\n- ' + line.price.split(",").map(price => `"${price}"`).join('\n- '),
-  diffFormat: '\n- ' + line.format.split(",").join('\n- '),
-  tags: '\n- ' + line.subjects.split(",").join('\n- ')
+  diffPricePerPeriod: '\n- ' + line.pricePerPeriod.split(",").map(pricePerPeriod => `"${pricePerPeriod}"`).join('\n- '),
+  diffFormat: '\n- ' + line.format.split(",").map(format => `"${format}"`).join('\n- '),
+  tags: '\n- ' + line.subjects.split(",").map(subjects => `"${subjects.trim()}"`).join('\n- ')
 })
 const nonEmptyColumns = line => line.id !== ''
 const deriveColumns = line => Object.assign({}, line, {
@@ -25,7 +26,7 @@ const derivefrontmatter = line => Object.assign({}, line, {
 title: "${line.title}"
 url: "${line.url}"
 price: ${line.diffPrice}
-pricePerPeriod: "${line.pricePerPeriod}"
+pricePerPeriod: ${line.diffPricePerPeriod}
 format: ${line.diffFormat}
 subject: ${line.tags}
 ---

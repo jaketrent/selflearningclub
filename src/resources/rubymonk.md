@@ -3,9 +3,10 @@ title: "RubyMonk"
 url: "https://rubymonk.com/"
 price: 
 - "0"
-pricePerPeriod: "n/a"
+pricePerPeriod: 
+- "n/a"
 format: 
-- course
+- "course"
 subject: 
-- ruby
+- "ruby"
 ---

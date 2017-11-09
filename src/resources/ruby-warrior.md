@@ -3,10 +3,11 @@ title: "Ruby Warrior"
 url: "https://www.bloc.io/ruby-warrior#/"
 price: 
 - "0"
-pricePerPeriod: "n/a"
+pricePerPeriod: 
+- "n/a"
 format: 
-- interactive
-- code
+- "interactive"
+- "code"
 subject: 
-- ruby
+- "ruby"
 ---

@@ -3,9 +3,10 @@ title: "Kubernetes the Hard Way"
 url: "https://github.com/kelseyhightower/kubernetes-the-hard-way"
 price: 
 - "0"
-pricePerPeriod: "n/a"
+pricePerPeriod: 
+- "n/a"
 format: 
-- ebook
+- "ebook"
 subject: 
-- kubernetes
+- "kubernetes"
 ---

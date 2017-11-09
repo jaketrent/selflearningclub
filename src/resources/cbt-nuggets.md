@@ -3,13 +3,14 @@ title: "CBT Nuggets"
 url: "https://www.cbtnuggets.com/"
 price: 
 - "84"
-pricePerPeriod: "monthly"
+pricePerPeriod: 
+- "monthly"
 format: 
-- video
-- quiz
-- lab
+- "video"
+- "quiz"
+- "lab"
 subject: 
-- microsoft
-- it security
-- amazon web services
+- "microsoft"
+- "it security"
+- "amazon web services"
 ---

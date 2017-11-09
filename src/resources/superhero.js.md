@@ -3,11 +3,12 @@ title: "Superhero.js"
 url: "http://superherojs.com/"
 price: 
 - "0"
-pricePerPeriod: "n/a"
+pricePerPeriod: 
+- "n/a"
 format: 
-- blog
-- reference
+- "blog"
+- "reference"
 subject: 
-- javascript
-- dom
+- "javascript"
+- "dom"
 ---

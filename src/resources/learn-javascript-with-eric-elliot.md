@@ -3,12 +3,13 @@ title: "Learn JavaScript with Eric Elliot"
 url: "https://ericelliottjs.com/product/lifetime-access-pass/"
 price: 
 - "495"
-pricePerPeriod: "once"
+pricePerPeriod: 
+- "once"
 format: 
-- ebook
-- course
-- video
-- example
+- "ebook"
+- "course"
+- "video"
+- "example"
 subject: 
-- JavaScript
+- "JavaScript"
 ---

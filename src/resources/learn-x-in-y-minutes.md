@@ -3,15 +3,16 @@ title: "Learn X in Y minutes"
 url: "https://learnxinyminutes.com/"
 price: 
 - "0"
-pricePerPeriod: "n/a"
+pricePerPeriod: 
+- "n/a"
 format: 
-- example
-- code
+- "example"
+- "code"
 subject: 
-- c
-- elixir
-- elm
-- ruby
-- python
-- javascript
+- "c"
+- "elixir"
+- "elm"
+- "ruby"
+- "python"
+- "javascript"
 ---

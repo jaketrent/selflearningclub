@@ -3,13 +3,14 @@ title: "Confreak"
 url: "http://www.confreaks.com/"
 price: 
 - "0"
-pricePerPeriod: "n/a"
+pricePerPeriod: 
+- "n/a"
 format: 
-- video
-- blog
+- "video"
+- "blog"
 subject: 
-- ruby
-- ember
-- golang
-- elixir
+- "ruby"
+- "ember"
+- "golang"
+- "elixir"
 ---

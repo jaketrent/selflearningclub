@@ -3,9 +3,10 @@ title: "React Enlightenment"
 url: "https://www.reactenlightenment.com/"
 price: 
 - "0"
-pricePerPeriod: "n/a"
+pricePerPeriod: 
+- "n/a"
 format: 
-- ebook
+- "ebook"
 subject: 
-- react
+- "react"
 ---

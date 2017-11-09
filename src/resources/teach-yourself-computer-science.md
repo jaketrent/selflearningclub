@@ -3,13 +3,14 @@ title: "Teach Yourself Computer Science"
 url: "https://teachyourselfcs.com/"
 price: 
 - "0"
-pricePerPeriod: "n/a"
+pricePerPeriod: 
+- "n/a"
 format: 
-- resource
-- ebook
+- "resource"
+- "ebook"
 subject: 
-- math
-- computer science
-- architecture
-- algorithms
+- "math"
+- "computer science"
+- "architecture"
+- "algorithms"
 ---

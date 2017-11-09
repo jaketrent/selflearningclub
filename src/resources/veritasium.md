@@ -3,10 +3,11 @@ title: "Veritasium"
 url: "https://www.youtube.com/user/1veritasium/videos?spfreload=10"
 price: 
 - "0"
-pricePerPeriod: "n/a"
+pricePerPeriod: 
+- "n/a"
 format: 
-- video
+- "video"
 subject: 
-- science
-- physics
+- "science"
+- "physics"
 ---

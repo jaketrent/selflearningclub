@@ -3,10 +3,11 @@ title: "Swirl: Learn R in R"
 url: "http://swirlstats.com/"
 price: 
 - "0"
-pricePerPeriod: "n/a"
+pricePerPeriod: 
+- "n/a"
 format: 
-- download
-- interactive
+- "download"
+- "interactive"
 subject: 
-- r
+- "r"
 ---

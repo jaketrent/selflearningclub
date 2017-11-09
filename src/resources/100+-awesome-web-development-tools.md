@@ -3,11 +3,12 @@ title: "100+ Awesome Web Development Tools"
 url: "https://www.keycdn.com/blog/web-development-tools/"
 price: 
 - "0"
-pricePerPeriod: "n/a"
+pricePerPeriod: 
+- "n/a"
 format: 
-- reference
-- resource
-- article
+- "reference"
+- "resource"
+- "article"
 subject: 
-- web development
+- "web development"
 ---

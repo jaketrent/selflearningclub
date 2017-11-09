@@ -3,10 +3,11 @@ title: "DIY"
 url: "https://diy.org/"
 price: 
 - "0"
-pricePerPeriod: "n/a"
+pricePerPeriod: 
+- "n/a"
 format: 
-- interactive
-- project
+- "interactive"
+- "project"
 subject: 
-- everything
+- "everything"
 ---

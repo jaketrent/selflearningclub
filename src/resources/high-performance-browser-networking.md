@@ -3,9 +3,10 @@ title: "High Performance Browser Networking"
 url: "https://hpbn.co/"
 price: 
 - "0"
-pricePerPeriod: "n/a"
+pricePerPeriod: 
+- "n/a"
 format: 
-- ebook
+- "ebook"
 subject: 
-- networking
+- "networking"
 ---

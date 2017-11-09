@@ -3,13 +3,14 @@ title: "Udacity"
 url: "https://www.udacity.com/"
 price: 
 - "0-2000"
-pricePerPeriod: "once"
+pricePerPeriod: 
+- "once"
 format: 
-- course
-- code
-- project
+- "course"
+- "code"
+- "project"
 subject: 
-- data analytics
-- programming
-- react
+- "data analytics"
+- "programming"
+- "react"
 ---

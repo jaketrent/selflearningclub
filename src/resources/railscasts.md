@@ -3,9 +3,10 @@ title: "Railscasts"
 url: "http://railscasts.com/"
 price: 
 - "0"
-pricePerPeriod: "n/a"
+pricePerPeriod: 
+- "n/a"
 format: 
-- video
+- "video"
 subject: 
-- rails
+- "rails"
 ---

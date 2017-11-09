@@ -3,9 +3,10 @@ title: "Eloquent JavaScript"
 url: "http://eloquentjavascript.net/"
 price: 
 - "0"
-pricePerPeriod: "n/a"
+pricePerPeriod: 
+- "n/a"
 format: 
-- ebook
+- "ebook"
 subject: 
-- javascript
+- "javascript"
 ---

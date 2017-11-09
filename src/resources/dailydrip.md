@@ -3,13 +3,14 @@ title: "DailyDrip"
 url: "https://www.dailydrip.com/"
 price: 
 - "22"
-pricePerPeriod: "monthly"
+pricePerPeriod: 
+- "monthly"
 format: 
-- video
+- "video"
 subject: 
-- elm
-- elixir
-- ember
-- swift
-- react
+- "elm"
+- "elixir"
+- "ember"
+- "swift"
+- "react"
 ---

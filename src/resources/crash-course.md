@@ -3,14 +3,15 @@ title: "Crash Course"
 url: "https://thecrashcourse.com/"
 price: 
 - "0"
-pricePerPeriod: "n/a"
+pricePerPeriod: 
+- "n/a"
 format: 
-- video
-- interactive
+- "video"
+- "interactive"
 subject: 
-- anatomy
-- astronomy
-- history
-- economics
-- psychology
+- "anatomy"
+- "astronomy"
+- "history"
+- "economics"
+- "psychology"
 ---

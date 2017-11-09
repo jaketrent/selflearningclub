@@ -4,10 +4,12 @@ url: "https://frontend.center/"
 price: 
 - "0"
 - "15"
-pricePerPeriod: "n/a,monthly"
+pricePerPeriod: 
+- "n/a"
+- "monthly"
 format: 
-- video
+- "video"
 subject: 
-- react
-- javascript
+- "react"
+- "javascript"
 ---

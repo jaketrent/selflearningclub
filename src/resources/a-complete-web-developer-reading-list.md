@@ -3,15 +3,16 @@ title: "A Complete Web Developer Reading List"
 url: "http://thenewcode.com/1188/A-Complete-Web-Developer-Reading-List"
 price: 
 - "0"
-pricePerPeriod: "n/a"
+pricePerPeriod: 
+- "n/a"
 format: 
-- course
-- example
+- "course"
+- "example"
 subject: 
-- css
-- html
-- javascript
-- mysql
-- seo
-- php
+- "css"
+- "html"
+- "javascript"
+- "mysql"
+- "seo"
+- "php"
 ---

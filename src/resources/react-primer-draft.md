@@ -3,11 +3,12 @@ title: "React Primer Draft"
 url: "https://github.com/mikechau/react-primer-draft"
 price: 
 - "0"
-pricePerPeriod: "n/a"
+pricePerPeriod: 
+- "n/a"
 format: 
-- document
-- code
-- example
+- "document"
+- "code"
+- "example"
 subject: 
-- react
+- "react"
 ---

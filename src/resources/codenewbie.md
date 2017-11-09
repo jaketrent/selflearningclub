@@ -3,13 +3,14 @@ title: "CodeNewbie"
 url: "https://www.codenewbie.org/"
 price: 
 - "0"
-pricePerPeriod: "n/a"
+pricePerPeriod: 
+- "n/a"
 format: 
-- podcast
-- twitter
-- email
+- "podcast"
+- "twitter"
+- "email"
 subject: 
-- javascript
-- code
-- creating
+- "javascript"
+- "code"
+- "creating"
 ---

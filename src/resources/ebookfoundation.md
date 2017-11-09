@@ -3,11 +3,12 @@ title: "EbookFoundation"
 url: "https://github.com/EbookFoundation/free-programming-books"
 price: 
 - "0"
-pricePerPeriod: "n/a"
+pricePerPeriod: 
+- "n/a"
 format: 
-- ebook
-- library
+- "ebook"
+- "library"
 subject: 
-- library
-- programming
+- "library"
+- "programming"
 ---

@@ -3,11 +3,12 @@ title: "The Common Lisp Cookbook"
 url: "https://lispcookbook.github.io/cl-cookbook/"
 price: 
 - "0"
-pricePerPeriod: "n/a"
+pricePerPeriod: 
+- "n/a"
 format: 
-- tutorial
-- example
-- code
+- "tutorial"
+- "example"
+- "code"
 subject: 
-- lisp
+- "lisp"
 ---

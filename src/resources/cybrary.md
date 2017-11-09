@@ -3,11 +3,12 @@ title: "Cybrary"
 url: "https://www.cybrary.it/"
 price: 
 - "0"
-pricePerPeriod: "n/a"
+pricePerPeriod: 
+- "n/a"
 format: 
-- course
-- video
+- "course"
+- "video"
 subject: 
-- security
-- hacking
+- "security"
+- "hacking"
 ---

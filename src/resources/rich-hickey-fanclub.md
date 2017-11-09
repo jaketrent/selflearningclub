@@ -3,11 +3,12 @@ title: "Rich Hickey Fanclub"
 url: "https://github.com/tallesl/Rich-Hickey-fanclub"
 price: 
 - "0"
-pricePerPeriod: "n/a"
+pricePerPeriod: 
+- "n/a"
 format: 
-- video
-- talks
+- "video"
+- "talks"
 subject: 
-- database
-- java
+- "database"
+- "java"
 ---

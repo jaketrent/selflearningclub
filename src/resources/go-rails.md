@@ -3,10 +3,11 @@ title: "Go Rails"
 url: "https://gorails.com/"
 price: 
 - "19"
-pricePerPeriod: "monthly"
+pricePerPeriod: 
+- "monthly"
 format: 
-- video
-- course
+- "video"
+- "course"
 subject: 
-- rails
+- "rails"
 ---

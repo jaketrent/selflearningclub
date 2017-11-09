@@ -3,9 +3,10 @@ title: "Real World Haskell"
 url: "http://book.realworldhaskell.org/"
 price: 
 - "0"
-pricePerPeriod: "n/a"
+pricePerPeriod: 
+- "n/a"
 format: 
-- ebook
+- "ebook"
 subject: 
-- haskell
+- "haskell"
 ---

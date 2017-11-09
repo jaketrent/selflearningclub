@@ -3,14 +3,15 @@ title: "ThoughtBot"
 url: "https://thoughtbot.com/upcase"
 price: 
 - "29"
-pricePerPeriod: "monthly"
+pricePerPeriod: 
+- "monthly"
 format: 
-- course
-- video
+- "course"
+- "video"
 subject: 
-- rails
-- ruby
-- git
-- vim
-- javascript
+- "rails"
+- "ruby"
+- "git"
+- "vim"
+- "javascript"
 ---

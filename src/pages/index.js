@@ -7,7 +7,7 @@ const uniq = arr =>
   arr.reduce(
     (acc, item) => (acc.indexOf(item) === -1 ? acc.concat([item]) : acc),
     []
-  )
+  ).sort()
 
 class IndexPage extends React.Component {
   state = { activeFormatNames: [],

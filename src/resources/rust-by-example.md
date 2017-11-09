@@ -3,9 +3,10 @@ title: "Rust By Example"
 url: "https://rustbyexample.com/"
 price: 
 - "0"
-pricePerPeriod: "n/a"
+pricePerPeriod: 
+- "n/a"
 format: 
-- ebook
+- "ebook"
 subject: 
-- rust
+- "rust"
 ---

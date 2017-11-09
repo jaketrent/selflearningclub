@@ -3,10 +3,11 @@ title: "Mathmatics for Computer Science"
 url: "https://courses.csail.mit.edu/6.042/spring17/mcs.pdf"
 price: 
 - "0"
-pricePerPeriod: "n/a"
+pricePerPeriod: 
+- "n/a"
 format: 
-- ebook
+- "ebook"
 subject: 
-- computer science
-- math
+- "computer science"
+- "math"
 ---

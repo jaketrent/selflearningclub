@@ -4,16 +4,17 @@ url: "https://teamtreehouse.com/"
 price: 
 - "25"
 - "49"
-pricePerPeriod: "monthly"
+pricePerPeriod: 
+- "monthly"
 format: 
-- course
-- video
-- code
+- "course"
+- "video"
+- "code"
 subject: 
-- javascript
-- c#
-- ruby
-- design
-- databases
-- android
+- "javascript"
+- "c#"
+- "ruby"
+- "design"
+- "databases"
+- "android"
 ---

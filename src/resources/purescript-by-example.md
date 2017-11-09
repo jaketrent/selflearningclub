@@ -3,10 +3,11 @@ title: "PureScript by Example"
 url: "https://leanpub.com/purescript/read"
 price: 
 - "0"
-pricePerPeriod: "n/a"
+pricePerPeriod: 
+- "n/a"
 format: 
-- ebook
+- "ebook"
 subject: 
-- javascript
-- purescript
+- "javascript"
+- "purescript"
 ---

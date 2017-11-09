@@ -3,10 +3,11 @@ title: "Game Development"
 url: "https://game-development.zeef.com/david.arcila"
 price: 
 - "0"
-pricePerPeriod: "n/a"
+pricePerPeriod: 
+- "n/a"
 format: 
-- resource
-- download
+- "resource"
+- "download"
 subject: 
-- game development
+- "game development"
 ---

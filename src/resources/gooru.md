@@ -3,12 +3,13 @@ title: "Gooru"
 url: "http://www.gooru.org/welcome/"
 price: 
 - "0"
-pricePerPeriod: "n/a"
+pricePerPeriod: 
+- "n/a"
 format: 
-- course
+- "course"
 subject: 
-- science
-- math
-- social science
-- english
+- "science"
+- "math"
+- "social science"
+- "english"
 ---

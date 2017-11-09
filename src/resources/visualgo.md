@@ -3,11 +3,12 @@ title: "VisuAlgo"
 url: "https://visualgo.net/"
 price: 
 - "0"
-pricePerPeriod: "n/a"
+pricePerPeriod: 
+- "n/a"
 format: 
-- interactive
-- quiz
-- example
+- "interactive"
+- "quiz"
+- "example"
 subject: 
-- algorithms
+- "algorithms"
 ---

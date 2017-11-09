@@ -3,11 +3,12 @@ title: "Beginning to Elm: a gentle introduction"
 url: "http://elmprogramming.com/"
 price: 
 - "0"
-pricePerPeriod: "n/a"
+pricePerPeriod: 
+- "n/a"
 format: 
-- ebook
-- document
-- code
+- "ebook"
+- "document"
+- "code"
 subject: 
-- elm
+- "elm"
 ---

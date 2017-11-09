@@ -3,17 +3,18 @@ title: "LeetCode"
 url: "https://leetcode.com/"
 price: 
 - "0"
-pricePerPeriod: "n/a"
+pricePerPeriod: 
+- "n/a"
 format: 
-- interactive
-- practice
-- challenge
+- "interactive"
+- "practice"
+- "challenge"
 subject: 
-- c
-- c++
-- java
-- python
-- go
-- swift
-- javascript
+- "c"
+- "c++"
+- "java"
+- "python"
+- "go"
+- "swift"
+- "javascript"
 ---

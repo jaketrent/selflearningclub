@@ -3,9 +3,10 @@ title: "Elm Town"
 url: "https://elmtown.github.io/"
 price: 
 - "0"
-pricePerPeriod: "n/a"
+pricePerPeriod: 
+- "n/a"
 format: 
-- podcast
+- "podcast"
 subject: 
-- elm
+- "elm"
 ---

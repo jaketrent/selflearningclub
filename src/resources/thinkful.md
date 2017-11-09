@@ -3,12 +3,13 @@ title: "Thinkful"
 url: "https://www.thinkful.com/"
 price: 
 - "500"
-pricePerPeriod: "monthly"
+pricePerPeriod: 
+- "monthly"
 format: 
-- mentor
-- courses
+- "mentor"
+- "courses"
 subject: 
-- javascript
-- full stack
-- web development
+- "javascript"
+- "full stack"
+- "web development"
 ---

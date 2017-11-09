@@ -3,12 +3,13 @@ title: "List of Resources for Ruby and Rails"
 url: "http://www.learnrubyandrails.com/"
 price: 
 - "0"
-pricePerPeriod: "n/a"
+pricePerPeriod: 
+- "n/a"
 format: 
-- tutorial
-- course
-- video
+- "tutorial"
+- "course"
+- "video"
 subject: 
-- ruby
-- rails
+- "ruby"
+- "rails"
 ---

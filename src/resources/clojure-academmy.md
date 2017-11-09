@@ -3,10 +3,11 @@ title: "Clojure Academmy"
 url: "https://clojurecademy.com/#"
 price: 
 - "0"
-pricePerPeriod: "n/a"
+pricePerPeriod: 
+- "n/a"
 format: 
-- document
-- course
+- "document"
+- "course"
 subject: 
-- clojure
+- "clojure"
 ---

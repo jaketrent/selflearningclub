@@ -3,11 +3,12 @@ title: "Lumen "
 url: "http://www.lumenlearning.com/"
 price: 
 - "0"
-pricePerPeriod: "n/a"
+pricePerPeriod: 
+- "n/a"
 format: 
-- course
+- "course"
 subject: 
-- math
-- science
-- english
+- "math"
+- "science"
+- "english"
 ---

@@ -3,12 +3,13 @@ title: "Video Copilot"
 url: "http://www.videocopilot.net/"
 price: 
 - "0"
-pricePerPeriod: "n/a"
+pricePerPeriod: 
+- "n/a"
 format: 
-- video
-- tutorial
-- blog
+- "video"
+- "tutorial"
+- "blog"
 subject: 
-- video editing
-- after effects
+- "video editing"
+- "after effects"
 ---

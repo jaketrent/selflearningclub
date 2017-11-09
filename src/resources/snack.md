@@ -3,12 +3,13 @@ title: "Snack"
 url: "https://snack.expo.io/"
 price: 
 - "0"
-pricePerPeriod: "n/a"
+pricePerPeriod: 
+- "n/a"
 format: 
-- code
-- example
-- interactive
+- "code"
+- "example"
+- "interactive"
 subject: 
-- react
-- native
+- "react"
+- "native"
 ---

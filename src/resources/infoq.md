@@ -3,11 +3,12 @@ title: "InfoQ"
 url: "https://www.youtube.com/user/MarakanaTechTV/videos"
 price: 
 - "0"
-pricePerPeriod: "n/a"
+pricePerPeriod: 
+- "n/a"
 format: 
-- video
+- "video"
 subject: 
-- data science
-- machine learning
-- devops
+- "data science"
+- "machine learning"
+- "devops"
 ---

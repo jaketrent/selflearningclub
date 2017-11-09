@@ -3,11 +3,12 @@ title: "7 Ways to Learn to Code for Free"
 url: "http://time.com/3964968/free-code-classes/"
 price: 
 - "0"
-pricePerPeriod: "n/a"
+pricePerPeriod: 
+- "n/a"
 format: 
-- reference
+- "reference"
 subject: 
-- html
-- javascript
-- ruby
+- "html"
+- "javascript"
+- "ruby"
 ---

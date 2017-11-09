@@ -3,11 +3,12 @@ title: "Elixir School"
 url: "https://elixirschool.com/"
 price: 
 - "0"
-pricePerPeriod: "n/a"
+pricePerPeriod: 
+- "n/a"
 format: 
-- example
-- code
-- ebook
+- "example"
+- "code"
+- "ebook"
 subject: 
-- elixir
+- "elixir"
 ---

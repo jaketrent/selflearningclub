@@ -3,17 +3,18 @@ title: "Codewars"
 url: "https://www.codewars.com/"
 price: 
 - "0"
-pricePerPeriod: "n/a"
+pricePerPeriod: 
+- "n/a"
 format: 
-- interactive
-- code
-- challenge
+- "interactive"
+- "code"
+- "challenge"
 subject: 
-- c++
-- javascript
-- python
-- go
-- swift
-- haskell
-- php
+- "c++"
+- "javascript"
+- "python"
+- "go"
+- "swift"
+- "haskell"
+- "php"
 ---

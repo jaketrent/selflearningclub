@@ -3,9 +3,10 @@ title: "Transforming Data with ClojureScript"
 url: "http://langintro.com/cljsbook/"
 price: 
 - "0"
-pricePerPeriod: "n/a"
+pricePerPeriod: 
+- "n/a"
 format: 
-- ebook
+- "ebook"
 subject: 
-- clojurescript
+- "clojurescript"
 ---

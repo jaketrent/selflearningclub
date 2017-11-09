@@ -3,15 +3,16 @@ title: "Hacker Rank"
 url: "https://www.hackerrank.com/dashboard"
 price: 
 - "0"
-pricePerPeriod: "n/a"
+pricePerPeriod: 
+- "n/a"
 format: 
-- interactive
-- practice
-- challenge
+- "interactive"
+- "practice"
+- "challenge"
 subject: 
-- c++
-- java
-- python
-- ruby
-- functional
+- "c++"
+- "java"
+- "python"
+- "ruby"
+- "functional"
 ---

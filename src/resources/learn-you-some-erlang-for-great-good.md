@@ -3,9 +3,10 @@ title: "Learn You Some Erlang For Great Good"
 url: "http://learnyousomeerlang.com/"
 price: 
 - "0"
-pricePerPeriod: "n/a"
+pricePerPeriod: 
+- "n/a"
 format: 
-- ebook
+- "ebook"
 subject: 
-- erlang
+- "erlang"
 ---

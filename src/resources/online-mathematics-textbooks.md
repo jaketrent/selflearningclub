@@ -3,9 +3,10 @@ title: "Online Mathematics Textbooks"
 url: "http://people.math.gatech.edu/~cain/textbooks/onlinebooks.html"
 price: 
 - "0"
-pricePerPeriod: "n/a"
+pricePerPeriod: 
+- "n/a"
 format: 
-- ebook
+- "ebook"
 subject: 
-- math
+- "math"
 ---

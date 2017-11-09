@@ -3,14 +3,15 @@ title: "Web Fundamentals"
 url: "https://developers.google.com/web/fundamentals/"
 price: 
 - "0"
-pricePerPeriod: "n/a"
+pricePerPeriod: 
+- "n/a"
 format: 
-- tutorial
-- video
-- blog
+- "tutorial"
+- "video"
+- "blog"
 subject: 
-- google
-- design
-- ui
-- architecture
+- "google"
+- "design"
+- "ui"
+- "architecture"
 ---

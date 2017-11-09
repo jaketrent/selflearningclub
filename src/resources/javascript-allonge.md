@@ -3,10 +3,11 @@ title: "JavaScript Allonge"
 url: "https://leanpub.com/javascriptallongesix/read"
 price: 
 - "0"
-pricePerPeriod: "n/a"
+pricePerPeriod: 
+- "n/a"
 format: 
-- ebook
+- "ebook"
 subject: 
-- javascript
-- es6
+- "javascript"
+- "es6"
 ---

@@ -3,11 +3,12 @@ title: "What The Flexbox?!"
 url: "https://flexbox.io/#/"
 price: 
 - "0"
-pricePerPeriod: "n/a"
+pricePerPeriod: 
+- "n/a"
 format: 
-- email
-- video
+- "email"
+- "video"
 subject: 
-- flexbox
-- css
+- "flexbox"
+- "css"
 ---

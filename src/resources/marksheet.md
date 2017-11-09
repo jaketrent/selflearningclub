@@ -3,12 +3,13 @@ title: "Marksheet"
 url: "http://marksheet.io/"
 price: 
 - "0"
-pricePerPeriod: "n/a"
+pricePerPeriod: 
+- "n/a"
 format: 
-- ebook
-- document
-- code
+- "ebook"
+- "document"
+- "code"
 subject: 
-- css
-- html
+- "css"
+- "html"
 ---

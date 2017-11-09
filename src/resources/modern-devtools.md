@@ -3,11 +3,12 @@ title: "Modern DevTools"
 url: "https://moderndevtools.com/"
 price: 
 - "93"
-pricePerPeriod: "once"
+pricePerPeriod: 
+- "once"
 format: 
-- video
-- tool
+- "video"
+- "tool"
 subject: 
-- javascript
-- debugging
+- "javascript"
+- "debugging"
 ---

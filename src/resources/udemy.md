@@ -3,11 +3,12 @@ title: "Udemy"
 url: "https://www.udemy.com/"
 price: 
 - "10"
-pricePerPeriod: "once"
+pricePerPeriod: 
+- "once"
 format: 
-- course
+- "course"
 subject: 
-- python
-- java
-- web development
+- "python"
+- "java"
+- "web development"
 ---

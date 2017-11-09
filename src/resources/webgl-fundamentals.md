@@ -3,10 +3,11 @@ title: "WebGL Fundamentals"
 url: "https://webglfundamentals.org/"
 price: 
 - "0"
-pricePerPeriod: "n/a"
+pricePerPeriod: 
+- "n/a"
 format: 
-- article
-- example
+- "article"
+- "example"
 subject: 
-- webGL
+- "webGL"
 ---

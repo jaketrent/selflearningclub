@@ -3,11 +3,12 @@ title: "Phlearn"
 url: "https://phlearn.com/free-tutorials"
 price: 
 - "0"
-pricePerPeriod: "n/a"
+pricePerPeriod: 
+- "n/a"
 format: 
-- video
-- download
-- project
+- "video"
+- "download"
+- "project"
 subject: 
-- photoshop
+- "photoshop"
 ---

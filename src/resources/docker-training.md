@@ -3,11 +3,12 @@ title: "Docker Training"
 url: "https://training.docker.com/"
 price: 
 - "0"
-pricePerPeriod: "n/a"
+pricePerPeriod: 
+- "n/a"
 format: 
-- video
-- document
-- ebook
+- "video"
+- "document"
+- "ebook"
 subject: 
-- docker
+- "docker"
 ---

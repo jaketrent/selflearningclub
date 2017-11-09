@@ -3,9 +3,10 @@ title: "Make a Language in One Hour: Stacker"
 url: "http://beautifulracket.com/stacker/"
 price: 
 - "0"
-pricePerPeriod: "n/a"
+pricePerPeriod: 
+- "n/a"
 format: 
-- ebook
+- "ebook"
 subject: 
-- language
+- "language"
 ---

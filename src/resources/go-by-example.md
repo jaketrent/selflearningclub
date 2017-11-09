@@ -3,10 +3,11 @@ title: "Go By Example"
 url: "https://gobyexample.com/"
 price: 
 - "0"
-pricePerPeriod: "n/a"
+pricePerPeriod: 
+- "n/a"
 format: 
-- example
-- code
+- "example"
+- "code"
 subject: 
-- go
+- "go"
 ---

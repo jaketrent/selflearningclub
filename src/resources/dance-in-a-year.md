@@ -3,9 +3,10 @@ title: "Dance In A Year"
 url: "danceinayear.com"
 price: 
 - "0"
-pricePerPeriod: "n/a"
+pricePerPeriod: 
+- "n/a"
 format: 
-- video 
+- "video "
 subject: 
-- dance
+- "dance"
 ---

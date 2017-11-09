@@ -3,9 +3,10 @@ title: "Exploring JavaScript"
 url: "http://exploringjs.com/"
 price: 
 - "0"
-pricePerPeriod: "n/a"
+pricePerPeriod: 
+- "n/a"
 format: 
-- ebook
+- "ebook"
 subject: 
-- javascript
+- "javascript"
 ---

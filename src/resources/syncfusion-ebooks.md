@@ -3,12 +3,13 @@ title: "Syncfusion ebooks"
 url: "https://www.syncfusion.com/resources/techportal/ebooks"
 price: 
 - "0"
-pricePerPeriod: "n/a"
+pricePerPeriod: 
+- "n/a"
 format: 
-- ebook
+- "ebook"
 subject: 
-- java
-- php
-- go
-- .net
+- "java"
+- "php"
+- "go"
+- ".net"
 ---

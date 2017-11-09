@@ -3,11 +3,12 @@ title: "Sketch for Designer"
 url: "http://sketch.fordesignrs.com/"
 price: 
 - "0"
-pricePerPeriod: "n/a"
+pricePerPeriod: 
+- "n/a"
 format: 
-- examples
-- reference
+- "examples"
+- "reference"
 subject: 
-- sketch
-- design
+- "sketch"
+- "design"
 ---

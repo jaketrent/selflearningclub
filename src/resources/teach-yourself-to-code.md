@@ -3,14 +3,15 @@ title: "Teach Yourself To Code"
 url: "http://teachyourselftocode.com/"
 price: 
 - "0"
-pricePerPeriod: "n/a"
+pricePerPeriod: 
+- "n/a"
 format: 
-- resource
+- "resource"
 subject: 
-- rails
-- backbone
-- node
-- python
-- javascript
-- ruby
+- "rails"
+- "backbone"
+- "node"
+- "python"
+- "javascript"
+- "ruby"
 ---

@@ -3,10 +3,11 @@ title: "Learn CSS Layout"
 url: "https://thecssworkshop.com/"
 price: 
 - "99"
-pricePerPeriod: "course"
+pricePerPeriod: 
+- "course"
 format: 
-- course
-- video
+- "course"
+- "video"
 subject: 
-- css
+- "css"
 ---

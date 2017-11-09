@@ -3,10 +3,11 @@ title: "Scala School"
 url: "http://twitter.github.io/scala_school/"
 price: 
 - "0"
-pricePerPeriod: "n/a"
+pricePerPeriod: 
+- "n/a"
 format: 
-- example
-- tutorial
+- "example"
+- "tutorial"
 subject: 
-- scala
+- "scala"
 ---

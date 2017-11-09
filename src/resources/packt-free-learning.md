@@ -3,11 +3,12 @@ title: "Packt Free Learning"
 url: "https://www.packtpub.com/packt/offers/free-learning"
 price: 
 - "0"
-pricePerPeriod: "n/a"
+pricePerPeriod: 
+- "n/a"
 format: 
-- ebook
+- "ebook"
 subject: 
-- java
-- python
-- angular
+- "java"
+- "python"
+- "angular"
 ---

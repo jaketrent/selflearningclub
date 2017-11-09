@@ -3,10 +3,11 @@ title: "Google Tech Dev Guide"
 url: "https://techdevguide.withgoogle.com/"
 price: 
 - "0"
-pricePerPeriod: "n/a"
+pricePerPeriod: 
+- "n/a"
 format: 
-- exercise
-- example
+- "exercise"
+- "example"
 subject: 
-- java
+- "java"
 ---

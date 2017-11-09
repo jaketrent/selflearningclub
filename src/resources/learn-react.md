@@ -3,10 +3,11 @@ title: "Learn React"
 url: "https://learnreact.com/"
 price: 
 - "4"
-pricePerPeriod: "course"
+pricePerPeriod: 
+- "course"
 format: 
-- course
-- video
+- "course"
+- "video"
 subject: 
-- react
+- "react"
 ---

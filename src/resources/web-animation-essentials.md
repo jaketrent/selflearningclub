@@ -3,12 +3,13 @@ title: "Web Animation Essentials"
 url: "http://rachelnabors.com/css-animations-course/"
 price: 
 - "129"
-pricePerPeriod: "once"
+pricePerPeriod: 
+- "once"
 format: 
-- course
-- video
-- tutorial
+- "course"
+- "video"
+- "tutorial"
 subject: 
-- css
-- animation
+- "css"
+- "animation"
 ---

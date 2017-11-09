@@ -3,12 +3,13 @@ title: "React FAQ "
 url: "https://reactfaq.site/"
 price: 
 - "0"
-pricePerPeriod: "n/a"
+pricePerPeriod: 
+- "n/a"
 format: 
-- resource
-- article
+- "resource"
+- "article"
 subject: 
-- react
-- javascript
-- jsx
+- "react"
+- "javascript"
+- "jsx"
 ---

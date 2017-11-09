@@ -3,12 +3,13 @@ title: "Free Programmin Books"
 url: "https://github.com/EbookFoundation/free-programming-books/blob/master/free-programming-books.md"
 price: 
 - "0"
-pricePerPeriod: "n/a"
+pricePerPeriod: 
+- "n/a"
 format: 
-- ebook
+- "ebook"
 subject: 
-- javascript
-- python
-- ruby
-- database
+- "javascript"
+- "python"
+- "ruby"
+- "database"
 ---

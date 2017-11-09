@@ -3,14 +3,15 @@ title: "Springboard"
 url: "https://www.springboard.com/resources/"
 price: 
 - "0"
-pricePerPeriod: "n/a"
+pricePerPeriod: 
+- "n/a"
 format: 
-- course
-- video
-- email
-- ebook
+- "course"
+- "video"
+- "email"
+- "ebook"
 subject: 
-- user experience
-- ux
-- data science
+- "user experience"
+- "ux"
+- "data science"
 ---

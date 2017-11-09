@@ -3,15 +3,16 @@ title: "airpair"
 url: "https://www.airpair.com/"
 price: 
 - "0"
-pricePerPeriod: "n/a"
+pricePerPeriod: 
+- "n/a"
 format: 
-- tutorial
-- article
-- example
+- "tutorial"
+- "article"
+- "example"
 subject: 
-- python
-- node
-- react
-- php
-- swift
+- "python"
+- "node"
+- "react"
+- "php"
+- "swift"
 ---

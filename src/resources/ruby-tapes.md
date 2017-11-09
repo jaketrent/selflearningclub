@@ -3,10 +3,11 @@ title: "Ruby Tapes"
 url: "https://www.rubytapas.com/"
 price: 
 - "18"
-pricePerPeriod: "monthly"
+pricePerPeriod: 
+- "monthly"
 format: 
-- video
+- "video"
 subject: 
-- ruby
-- rails
+- "ruby"
+- "rails"
 ---

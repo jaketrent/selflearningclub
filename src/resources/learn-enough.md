@@ -3,12 +3,13 @@ title: "Learn Enough"
 url: "https://www.learnenough.com/courses"
 price: 
 - "0"
-pricePerPeriod: "n/a"
+pricePerPeriod: 
+- "n/a"
 format: 
-- ebook
+- "ebook"
 subject: 
-- git
-- html
-- css
-- cl
+- "git"
+- "html"
+- "css"
+- "cl"
 ---

@@ -3,11 +3,12 @@ title: "CSS Reference"
 url: "http://cssreference.io/"
 price: 
 - "0"
-pricePerPeriod: "n/a"
+pricePerPeriod: 
+- "n/a"
 format: 
-- interactive
+- "interactive"
 subject: 
-- css
-- flexbox
-- animation
+- "css"
+- "flexbox"
+- "animation"
 ---

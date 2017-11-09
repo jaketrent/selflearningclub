@@ -3,9 +3,10 @@ title: "Learn D3.js in 5 Days"
 url: "https://benclinkinbeard.com/d3in5days/"
 price: 
 - "0"
-pricePerPeriod: "n/a"
+pricePerPeriod: 
+- "n/a"
 format: 
-- email
+- "email"
 subject: 
-- d3
+- "d3"
 ---

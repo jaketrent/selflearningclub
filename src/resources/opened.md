@@ -3,13 +3,14 @@ title: "OpenED"
 url: "https://www.opened.com/"
 price: 
 - "0"
-pricePerPeriod: "n/a"
+pricePerPeriod: 
+- "n/a"
 format: 
-- course
-- quizz
-- video
+- "course"
+- "quizz"
+- "video"
 subject: 
-- math
-- science
-- english
+- "math"
+- "science"
+- "english"
 ---

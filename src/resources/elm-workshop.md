@@ -3,10 +3,11 @@ title: "Elm Workshop"
 url: "https://github.com/rtfeldman/elm-workshop/"
 price: 
 - "0"
-pricePerPeriod: "n/a"
+pricePerPeriod: 
+- "n/a"
 format: 
-- download
-- tutorial
+- "download"
+- "tutorial"
 subject: 
-- elm
+- "elm"
 ---
