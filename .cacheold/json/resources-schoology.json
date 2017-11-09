@@ -1,0 +1,21 @@
+{
+    "data": {
+        "markdownRemark": {
+            "frontmatter": {
+                "title": "Schoology",
+                "url": "https://www.schoology.com/",
+                "price": "",
+                "pricePerPeriod": "",
+                "format": [
+                    null
+                ],
+                "subject": [
+                    null
+                ]
+            }
+        }
+    },
+    "pathContext": {
+        "slug": "/resources/schoology/"
+    }
+}

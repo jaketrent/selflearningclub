@@ -1,0 +1,1379 @@
+{
+  "nodes": {
+    "SitePage /dev-404-page/": {
+      "component": "/Users/jaketrent/Projects/selflearningclub/.cache/dev-404-page.js",
+      "path": "/dev-404-page/",
+      "componentChunkName": "component---cache-dev-404-page-js",
+      "layout": "index",
+      "jsonName": "dev-404-page.json",
+      "internalComponentName": "ComponentDev404Page",
+      "updatedAt": 1510237527272,
+      "context": {},
+      "pluginCreator___NODE": "Plugin dev-404-page",
+      "pluginCreatorId": "Plugin dev-404-page",
+      "componentPath": "/Users/jaketrent/Projects/selflearningclub/.cache/dev-404-page.js",
+      "id": "SitePage /dev-404-page/",
+      "parent": "SOURCE",
+      "children": [],
+      "internal": {
+        "type": "SitePage",
+        "contentDigest": "33808d3cb6c575ae27788b9a3cc76857",
+        "owner": "internal-data-bridge"
+      }
+    },
+    "Plugin component-page-creator": {
+      "resolve": "/Users/jaketrent/Projects/selflearningclub/node_modules/gatsby/dist/internal-plugins/component-page-creator",
+      "id": "Plugin component-page-creator",
+      "name": "component-page-creator",
+      "version": "1.0.0",
+      "pluginOptions": {
+        "plugins": []
+      },
+      "pluginFilepath": "/Users/jaketrent/Projects/selflearningclub/node_modules/gatsby/dist/internal-plugins/component-page-creator",
+      "packageJson": {
+        "name": "component-page-creator",
+        "description": "An internal Gatsby plugin that creates pages from component files in src/pages",
+        "version": "1.0.0",
+        "main": "index.js",
+        "keywords": [
+          "gatsby",
+          "gatsby-plugin"
+        ],
+        "author": "Kyle Mathews <mathews.kyle@gmail.com>",
+        "license": "MIT",
+        "dependencies": [],
+        "devDependencies": [],
+        "peerDependencies": [],
+        "optionalDependecies": [],
+        "bundledDependecies": []
+      },
+      "parent": "SOURCE",
+      "children": [],
+      "internal": {
+        "contentDigest": "4c19de028d9921d1748365595ea4257a",
+        "type": "SitePlugin",
+        "owner": "internal-data-bridge"
+      }
+    },
+    "Plugin component-layout-creator": {
+      "resolve": "/Users/jaketrent/Projects/selflearningclub/node_modules/gatsby/dist/internal-plugins/component-layout-creator",
+      "id": "Plugin component-layout-creator",
+      "name": "component-layout-creator",
+      "version": "1.0.0",
+      "pluginOptions": {
+        "plugins": []
+      },
+      "pluginFilepath": "/Users/jaketrent/Projects/selflearningclub/node_modules/gatsby/dist/internal-plugins/component-layout-creator",
+      "packageJson": {
+        "name": "component-layout-creator",
+        "description": "An internal Gatsby plugin that creates pages from component files in src/layouts",
+        "version": "1.0.0",
+        "main": "index.js",
+        "keywords": [
+          "gatsby",
+          "gatsby-plugin"
+        ],
+        "author": "Kyle Mathews <mathews.kyle@gmail.com>",
+        "license": "MIT",
+        "dependencies": [],
+        "devDependencies": [],
+        "peerDependencies": [],
+        "optionalDependecies": [],
+        "bundledDependecies": []
+      },
+      "parent": "SOURCE",
+      "children": [],
+      "internal": {
+        "contentDigest": "b70965e6f58ae002d8ed70944caa58ac",
+        "type": "SitePlugin",
+        "owner": "internal-data-bridge"
+      }
+    },
+    "Plugin internal-data-bridge": {
+      "resolve": "/Users/jaketrent/Projects/selflearningclub/node_modules/gatsby/dist/internal-plugins/internal-data-bridge",
+      "id": "Plugin internal-data-bridge",
+      "name": "internal-data-bridge",
+      "version": "1.0.0",
+      "pluginOptions": {
+        "plugins": []
+      },
+      "pluginFilepath": "/Users/jaketrent/Projects/selflearningclub/node_modules/gatsby/dist/internal-plugins/internal-data-bridge",
+      "packageJson": {
+        "name": "internal-data-bridge",
+        "description": "An internal Gatsby plugin which creates data nodes from internal data",
+        "version": "1.0.0",
+        "main": "index.js",
+        "author": "Kyle Mathews <mathews.kyle@gmail.com>",
+        "license": "MIT",
+        "dependencies": [],
+        "devDependencies": [],
+        "peerDependencies": [],
+        "optionalDependecies": [],
+        "bundledDependecies": []
+      },
+      "parent": "SOURCE",
+      "children": [],
+      "internal": {
+        "contentDigest": "a6a0505c62ca20be7fe702c103180421",
+        "type": "SitePlugin",
+        "owner": "internal-data-bridge"
+      }
+    },
+    "Plugin dev-404-page": {
+      "resolve": "/Users/jaketrent/Projects/selflearningclub/node_modules/gatsby/dist/internal-plugins/dev-404-page",
+      "id": "Plugin dev-404-page",
+      "name": "dev-404-page",
+      "version": "1.0.0",
+      "pluginOptions": {
+        "plugins": []
+      },
+      "pluginFilepath": "/Users/jaketrent/Projects/selflearningclub/node_modules/gatsby/dist/internal-plugins/dev-404-page",
+      "packageJson": {
+        "name": "dev-404-page",
+        "description": "Internal plugin to add a 404 page in development with helpful information",
+        "version": "1.0.0",
+        "main": "index.js",
+        "author": "Kyle Mathews <mathews.kyle@gmail.com>",
+        "license": "MIT",
+        "dependencies": [],
+        "devDependencies": [],
+        "peerDependencies": [],
+        "optionalDependecies": [],
+        "bundledDependecies": []
+      },
+      "parent": "SOURCE",
+      "children": [],
+      "internal": {
+        "contentDigest": "ecb759a5a67f1228a33f01db6fc74e2c",
+        "type": "SitePlugin",
+        "owner": "internal-data-bridge"
+      }
+    },
+    "Plugin prod-404": {
+      "resolve": "/Users/jaketrent/Projects/selflearningclub/node_modules/gatsby/dist/internal-plugins/prod-404",
+      "id": "Plugin prod-404",
+      "name": "prod-404",
+      "version": "1.0.0",
+      "pluginOptions": {
+        "plugins": []
+      },
+      "pluginFilepath": "/Users/jaketrent/Projects/selflearningclub/node_modules/gatsby/dist/internal-plugins/prod-404",
+      "packageJson": {
+        "name": "prod-404",
+        "description": "Internal plugin to detect various flavors of 404 pages and ensure there's a 404.html path created as well to ensure compatability with static hosts",
+        "version": "1.0.0",
+        "main": "index.js",
+        "author": "Kyle Mathews <mathews.kyle@gmail.com>",
+        "license": "MIT",
+        "dependencies": [],
+        "devDependencies": [],
+        "peerDependencies": [],
+        "optionalDependecies": [],
+        "bundledDependecies": []
+      },
+      "parent": "SOURCE",
+      "children": [],
+      "internal": {
+        "contentDigest": "804bd6a4b18f7f3bce9fe17129ebae1c",
+        "type": "SitePlugin",
+        "owner": "internal-data-bridge"
+      }
+    },
+    "Plugin query-runner": {
+      "resolve": "/Users/jaketrent/Projects/selflearningclub/node_modules/gatsby/dist/internal-plugins/query-runner",
+      "id": "Plugin query-runner",
+      "name": "query-runner",
+      "version": "1.0.0",
+      "pluginOptions": {
+        "plugins": []
+      },
+      "pluginFilepath": "/Users/jaketrent/Projects/selflearningclub/node_modules/gatsby/dist/internal-plugins/query-runner",
+      "packageJson": {
+        "name": "query-runner",
+        "description": "Internal plugin for running queries",
+        "version": "1.0.0",
+        "main": "index.js",
+        "author": "",
+        "license": "MIT",
+        "dependencies": [],
+        "devDependencies": [],
+        "peerDependencies": [],
+        "optionalDependecies": [],
+        "bundledDependecies": []
+      },
+      "parent": "SOURCE",
+      "children": [],
+      "internal": {
+        "contentDigest": "8cda46231a37a1ab335abe6d29396fe4",
+        "type": "SitePlugin",
+        "owner": "internal-data-bridge"
+      }
+    },
+    "Plugin gatsby-source-filesystem": {
+      "resolve": "/Users/jaketrent/Projects/selflearningclub/node_modules/gatsby-source-filesystem",
+      "id": "Plugin gatsby-source-filesystem",
+      "name": "gatsby-source-filesystem",
+      "version": "1.5.6",
+      "pluginOptions": {
+        "plugins": [],
+        "name": "src",
+        "path": "/Users/jaketrent/Projects/selflearningclub/src/"
+      },
+      "pluginFilepath": "/Users/jaketrent/Projects/selflearningclub/node_modules/gatsby-source-filesystem",
+      "packageJson": {
+        "name": "gatsby-source-filesystem",
+        "description": "Gatsby plugin which parses files within a directory for further parsing by other plugins",
+        "version": "1.5.6",
+        "keywords": [
+          "gatsby",
+          "gatsby-plugin"
+        ],
+        "author": {
+          "name": "Kyle Mathews",
+          "email": "mathews.kyle@gmail.com"
+        },
+        "license": "MIT",
+        "dependencies": [
+          {
+            "name": "babel-cli",
+            "version": "^6.26.0"
+          },
+          {
+            "name": "babel-runtime",
+            "version": "^6.26.0"
+          },
+          {
+            "name": "bluebird",
+            "version": "^3.5.0"
+          },
+          {
+            "name": "chokidar",
+            "version": "^1.7.0"
+          },
+          {
+            "name": "fs-extra",
+            "version": "^4.0.1"
+          },
+          {
+            "name": "got",
+            "version": "^7.1.0"
+          },
+          {
+            "name": "md5-file",
+            "version": "^3.1.1"
+          },
+          {
+            "name": "mime",
+            "version": "^1.3.6"
+          },
+          {
+            "name": "pretty-bytes",
+            "version": "^4.0.2"
+          },
+          {
+            "name": "slash",
+            "version": "^1.0.0"
+          }
+        ],
+        "devDependencies": [
+          {
+            "name": "cross-env",
+            "version": "^5.0.5"
+          }
+        ],
+        "peerDependencies": [],
+        "optionalDependecies": [],
+        "bundledDependecies": []
+      },
+      "parent": "SOURCE",
+      "children": [],
+      "internal": {
+        "contentDigest": "0cb2533b648a520af5181d22712671bf",
+        "type": "SitePlugin",
+        "owner": "internal-data-bridge"
+      }
+    },
+    "Plugin gatsby-plugin-react-helmet": {
+      "resolve": "/Users/jaketrent/Projects/selflearningclub/node_modules/gatsby-plugin-react-helmet",
+      "id": "Plugin gatsby-plugin-react-helmet",
+      "name": "gatsby-plugin-react-helmet",
+      "version": "1.0.8",
+      "pluginOptions": {
+        "plugins": []
+      },
+      "pluginFilepath": "/Users/jaketrent/Projects/selflearningclub/node_modules/gatsby-plugin-react-helmet",
+      "packageJson": {
+        "name": "gatsby-plugin-react-helmet",
+        "description": "Stub description for gatsby-plugin-react-helmet",
+        "version": "1.0.8",
+        "main": "index.js",
+        "keywords": [
+          "gatsby"
+        ],
+        "author": {
+          "name": "Kyle Mathews &lt;mathews.kyle@gmail.com&gt;"
+        },
+        "license": "MIT",
+        "dependencies": [
+          {
+            "name": "babel-runtime",
+            "version": "^6.26.0"
+          },
+          {
+            "name": "react-helmet",
+            "version": "^5.1.3"
+          }
+        ],
+        "devDependencies": [
+          {
+            "name": "babel-cli",
+            "version": "^6.26.0"
+          },
+          {
+            "name": "cross-env",
+            "version": "^5.0.5"
+          }
+        ],
+        "peerDependencies": [],
+        "optionalDependecies": [],
+        "bundledDependecies": []
+      },
+      "parent": "SOURCE",
+      "children": [],
+      "internal": {
+        "contentDigest": "f29186acf20d023dfa9d0ae4d9b25bd4",
+        "type": "SitePlugin",
+        "owner": "internal-data-bridge"
+      }
+    },
+    "Plugin gatsby-transformer-remark": {
+      "resolve": "/Users/jaketrent/Projects/selflearningclub/node_modules/gatsby-transformer-remark",
+      "id": "Plugin gatsby-transformer-remark",
+      "name": "gatsby-transformer-remark",
+      "version": "1.7.19",
+      "pluginOptions": {
+        "plugins": []
+      },
+      "pluginFilepath": "/Users/jaketrent/Projects/selflearningclub/node_modules/gatsby-transformer-remark",
+      "packageJson": {
+        "name": "gatsby-transformer-remark",
+        "description": "Gatsby transformer plugin for Markdown using the Remark library and ecosystem",
+        "version": "1.7.19",
+        "keywords": [
+          "gatsby",
+          "gatsby-plugin",
+          "markdown",
+          "remark"
+        ],
+        "author": {
+          "name": "Kyle Mathews",
+          "email": "mathews.kyle@gmail.com"
+        },
+        "license": "MIT",
+        "dependencies": [
+          {
+            "name": "babel-runtime",
+            "version": "^6.26.0"
+          },
+          {
+            "name": "bluebird",
+            "version": "^3.5.0"
+          },
+          {
+            "name": "gray-matter",
+            "version": "^2.1.0"
+          },
+          {
+            "name": "hast-util-to-html",
+            "version": "^3.0.0"
+          },
+          {
+            "name": "lodash",
+            "version": "^4.17.4"
+          },
+          {
+            "name": "mdast-util-to-hast",
+            "version": "^2.4.0"
+          },
+          {
+            "name": "mdast-util-toc",
+            "version": "^2.0.1"
+          },
+          {
+            "name": "remark",
+            "version": "^7.0.1"
+          },
+          {
+            "name": "remark-parse",
+            "version": "^4.0.0"
+          },
+          {
+            "name": "remark-retext",
+            "version": "^3.1.0"
+          },
+          {
+            "name": "remark-stringify",
+            "version": "^4.0.0"
+          },
+          {
+            "name": "retext-english",
+            "version": "^3.0.0"
+          },
+          {
+            "name": "sanitize-html",
+            "version": "^1.14.1"
+          },
+          {
+            "name": "underscore.string",
+            "version": "^3.3.4"
+          },
+          {
+            "name": "unified",
+            "version": "^6.1.5"
+          },
+          {
+            "name": "unist-util-select",
+            "version": "^1.5.0"
+          },
+          {
+            "name": "unist-util-visit",
+            "version": "^1.1.1"
+          }
+        ],
+        "devDependencies": [
+          {
+            "name": "babel-cli",
+            "version": "^6.26.0"
+          },
+          {
+            "name": "babel-plugin-transform-object-rest-spread",
+            "version": "^6.20.2"
+          },
+          {
+            "name": "cross-env",
+            "version": "^5.0.5"
+          }
+        ],
+        "peerDependencies": [],
+        "optionalDependecies": [],
+        "bundledDependecies": []
+      },
+      "parent": "SOURCE",
+      "children": [],
+      "internal": {
+        "contentDigest": "73795f30c6b82ee41ab2f6690b2f19ed",
+        "type": "SitePlugin",
+        "owner": "internal-data-bridge"
+      }
+    },
+    "Plugin default-site-plugin": {
+      "resolve": "/Users/jaketrent/Projects/selflearningclub",
+      "id": "Plugin default-site-plugin",
+      "name": "default-site-plugin",
+      "version": "663f69eb85c73b6ef4a535a4b14c6541",
+      "pluginOptions": {
+        "plugins": []
+      },
+      "pluginFilepath": "/Users/jaketrent/Projects/selflearningclub",
+      "packageJson": {
+        "name": "gatsby-starter-default",
+        "description": "Gatsby default starter",
+        "version": "1.0.0",
+        "main": "n/a",
+        "keywords": [
+          "gatsby"
+        ],
+        "author": "Kyle Mathews <mathews.kyle@gmail.com>",
+        "license": "MIT",
+        "dependencies": [
+          {
+            "name": "gatsby",
+            "version": "^1.9.73"
+          },
+          {
+            "name": "gatsby-link",
+            "version": "^1.6.22"
+          },
+          {
+            "name": "gatsby-plugin-react-helmet",
+            "version": "^1.0.8"
+          },
+          {
+            "name": "gatsby-source-filesystem",
+            "version": "^1.5.6"
+          },
+          {
+            "name": "gatsby-transformer-remark",
+            "version": "^1.7.19"
+          }
+        ],
+        "devDependencies": [
+          {
+            "name": "prettier",
+            "version": "^1.7.4"
+          }
+        ],
+        "peerDependencies": [],
+        "optionalDependecies": [],
+        "bundledDependecies": []
+      },
+      "parent": "SOURCE",
+      "children": [],
+      "internal": {
+        "contentDigest": "50f396626fa16f329c8e8c0f9436908a",
+        "type": "SitePlugin",
+        "owner": "internal-data-bridge"
+      }
+    },
+    "Site": {
+      "siteMetadata": {
+        "title": "Self-learning Club"
+      },
+      "port": "8000",
+      "host": "localhost",
+      "pathPrefix": "",
+      "polyfill": true,
+      "buildTime": "2017-11-09T14:25:25.419Z",
+      "id": "Site",
+      "parent": "SOURCE",
+      "children": [],
+      "internal": {
+        "contentDigest": "ab78d2646421e2b795e53df3256ca170",
+        "type": "Site",
+        "owner": "internal-data-bridge"
+      }
+    },
+    "/Users/jaketrent/Projects/selflearningclub/src/ absPath of file": {
+      "id": "/Users/jaketrent/Projects/selflearningclub/src/ absPath of file",
+      "children": [],
+      "parent": "___SOURCE___",
+      "internal": {
+        "contentDigest": "ad2b46cf5a7ef4a119e9baf9732688b0",
+        "type": "Directory",
+        "owner": "gatsby-source-filesystem"
+      },
+      "sourceInstanceName": "src",
+      "absolutePath": "/Users/jaketrent/Projects/selflearningclub/src/",
+      "relativePath": "",
+      "extension": "",
+      "size": 238,
+      "prettySize": "238 B",
+      "modifiedTime": "2017-11-02T17:21:19.000Z",
+      "accessTime": "2017-11-09T14:25:27.000Z",
+      "changeTime": "2017-11-02T17:21:19.000Z",
+      "birthTime": "2017-11-01T16:13:46.000Z",
+      "root": "/",
+      "dir": "/Users/jaketrent/Projects/selflearningclub",
+      "base": "src",
+      "ext": "",
+      "name": "src",
+      "relativeDirectory": "..",
+      "dev": 16777220,
+      "mode": 16877,
+      "nlink": 7,
+      "uid": 501,
+      "gid": 20,
+      "rdev": 0,
+      "blksize": 4096,
+      "ino": 2787939,
+      "blocks": 0,
+      "atimeMs": 1510237527000,
+      "mtimeMs": 1509643279000,
+      "ctimeMs": 1509643279000,
+      "birthtimeMs": 1509552826000,
+      "atime": "2017-11-09T14:25:27.000Z",
+      "mtime": "2017-11-02T17:21:19.000Z",
+      "ctime": "2017-11-02T17:21:19.000Z",
+      "birthtime": "2017-11-01T16:13:46.000Z"
+    },
+    "/Users/jaketrent/Projects/selflearningclub/src/layouts absPath of file": {
+      "id": "/Users/jaketrent/Projects/selflearningclub/src/layouts absPath of file",
+      "children": [],
+      "parent": "___SOURCE___",
+      "internal": {
+        "contentDigest": "c068b37851e229cd43c0779f957bc4d5",
+        "type": "Directory",
+        "owner": "gatsby-source-filesystem"
+      },
+      "sourceInstanceName": "src",
+      "absolutePath": "/Users/jaketrent/Projects/selflearningclub/src/layouts",
+      "relativePath": "layouts",
+      "extension": "",
+      "size": 136,
+      "prettySize": "136 B",
+      "modifiedTime": "2017-11-01T16:13:46.000Z",
+      "accessTime": "2017-11-09T14:25:27.000Z",
+      "changeTime": "2017-11-01T16:13:46.000Z",
+      "birthTime": "2017-11-01T16:13:46.000Z",
+      "root": "/",
+      "dir": "/Users/jaketrent/Projects/selflearningclub/src",
+      "base": "layouts",
+      "ext": "",
+      "name": "layouts",
+      "relativeDirectory": "",
+      "dev": 16777220,
+      "mode": 16877,
+      "nlink": 4,
+      "uid": 501,
+      "gid": 20,
+      "rdev": 0,
+      "blksize": 4096,
+      "ino": 2787940,
+      "blocks": 0,
+      "atimeMs": 1510237527000,
+      "mtimeMs": 1509552826000,
+      "ctimeMs": 1509552826000,
+      "birthtimeMs": 1509552826000,
+      "atime": "2017-11-09T14:25:27.000Z",
+      "mtime": "2017-11-01T16:13:46.000Z",
+      "ctime": "2017-11-01T16:13:46.000Z",
+      "birthtime": "2017-11-01T16:13:46.000Z"
+    },
+    "/Users/jaketrent/Projects/selflearningclub/src/pages absPath of file": {
+      "id": "/Users/jaketrent/Projects/selflearningclub/src/pages absPath of file",
+      "children": [],
+      "parent": "___SOURCE___",
+      "internal": {
+        "contentDigest": "2eb6b1fe23913608eff0191eede338f2",
+        "type": "Directory",
+        "owner": "gatsby-source-filesystem"
+      },
+      "sourceInstanceName": "src",
+      "absolutePath": "/Users/jaketrent/Projects/selflearningclub/src/pages",
+      "relativePath": "pages",
+      "extension": "",
+      "size": 204,
+      "prettySize": "204 B",
+      "modifiedTime": "2017-11-08T17:08:53.000Z",
+      "accessTime": "2017-11-09T14:25:27.000Z",
+      "changeTime": "2017-11-08T17:08:53.000Z",
+      "birthTime": "2017-11-01T16:13:46.000Z",
+      "root": "/",
+      "dir": "/Users/jaketrent/Projects/selflearningclub/src",
+      "base": "pages",
+      "ext": "",
+      "name": "pages",
+      "relativeDirectory": "",
+      "dev": 16777220,
+      "mode": 16877,
+      "nlink": 6,
+      "uid": 501,
+      "gid": 20,
+      "rdev": 0,
+      "blksize": 4096,
+      "ino": 2787943,
+      "blocks": 0,
+      "atimeMs": 1510237527000,
+      "mtimeMs": 1510160933000,
+      "ctimeMs": 1510160933000,
+      "birthtimeMs": 1509552826000,
+      "atime": "2017-11-09T14:25:27.000Z",
+      "mtime": "2017-11-08T17:08:53.000Z",
+      "ctime": "2017-11-08T17:08:53.000Z",
+      "birthtime": "2017-11-01T16:13:46.000Z"
+    },
+    "/Users/jaketrent/Projects/selflearningclub/src/resources absPath of file": {
+      "id": "/Users/jaketrent/Projects/selflearningclub/src/resources absPath of file",
+      "children": [],
+      "parent": "___SOURCE___",
+      "internal": {
+        "contentDigest": "d86eb627be4d69dbd8368253b63df46c",
+        "type": "Directory",
+        "owner": "gatsby-source-filesystem"
+      },
+      "sourceInstanceName": "src",
+      "absolutePath": "/Users/jaketrent/Projects/selflearningclub/src/resources",
+      "relativePath": "resources",
+      "extension": "",
+      "size": 136,
+      "prettySize": "136 B",
+      "modifiedTime": "2017-11-09T14:24:33.000Z",
+      "accessTime": "2017-11-09T14:25:27.000Z",
+      "changeTime": "2017-11-09T14:24:33.000Z",
+      "birthTime": "2017-11-01T16:13:46.000Z",
+      "root": "/",
+      "dir": "/Users/jaketrent/Projects/selflearningclub/src",
+      "base": "resources",
+      "ext": "",
+      "name": "resources",
+      "relativeDirectory": "",
+      "dev": 16777220,
+      "mode": 16877,
+      "nlink": 4,
+      "uid": 501,
+      "gid": 20,
+      "rdev": 0,
+      "blksize": 4096,
+      "ino": 2787947,
+      "blocks": 0,
+      "atimeMs": 1510237527000,
+      "mtimeMs": 1510237473000,
+      "ctimeMs": 1510237473000,
+      "birthtimeMs": 1509552826000,
+      "atime": "2017-11-09T14:25:27.000Z",
+      "mtime": "2017-11-09T14:24:33.000Z",
+      "ctime": "2017-11-09T14:24:33.000Z",
+      "birthtime": "2017-11-01T16:13:46.000Z"
+    },
+    "/Users/jaketrent/Projects/selflearningclub/src/templates absPath of file": {
+      "id": "/Users/jaketrent/Projects/selflearningclub/src/templates absPath of file",
+      "children": [],
+      "parent": "___SOURCE___",
+      "internal": {
+        "contentDigest": "6595012b1a81699064e246c0f6f8ead6",
+        "type": "Directory",
+        "owner": "gatsby-source-filesystem"
+      },
+      "sourceInstanceName": "src",
+      "absolutePath": "/Users/jaketrent/Projects/selflearningclub/src/templates",
+      "relativePath": "templates",
+      "extension": "",
+      "size": 102,
+      "prettySize": "102 B",
+      "modifiedTime": "2017-11-08T17:08:44.000Z",
+      "accessTime": "2017-11-09T14:25:27.000Z",
+      "changeTime": "2017-11-08T17:08:44.000Z",
+      "birthTime": "2017-11-02T17:21:19.000Z",
+      "root": "/",
+      "dir": "/Users/jaketrent/Projects/selflearningclub/src",
+      "base": "templates",
+      "ext": "",
+      "name": "templates",
+      "relativeDirectory": "",
+      "dev": 16777220,
+      "mode": 16877,
+      "nlink": 3,
+      "uid": 501,
+      "gid": 20,
+      "rdev": 0,
+      "blksize": 4096,
+      "ino": 2855344,
+      "blocks": 0,
+      "atimeMs": 1510237527000,
+      "mtimeMs": 1510160924000,
+      "ctimeMs": 1510160924000,
+      "birthtimeMs": 1509643279000,
+      "atime": "2017-11-09T14:25:27.000Z",
+      "mtime": "2017-11-08T17:08:44.000Z",
+      "ctime": "2017-11-08T17:08:44.000Z",
+      "birthtime": "2017-11-02T17:21:19.000Z"
+    },
+    "/Users/jaketrent/Projects/selflearningclub/src/templates/resource-page.js absPath of file": {
+      "id": "/Users/jaketrent/Projects/selflearningclub/src/templates/resource-page.js absPath of file",
+      "children": [],
+      "parent": "___SOURCE___",
+      "internal": {
+        "contentDigest": "bc47cf90ac3862610bda61c983c6c286",
+        "mediaType": "application/javascript",
+        "type": "File",
+        "owner": "gatsby-source-filesystem"
+      },
+      "sourceInstanceName": "src",
+      "absolutePath": "/Users/jaketrent/Projects/selflearningclub/src/templates/resource-page.js",
+      "relativePath": "templates/resource-page.js",
+      "extension": "js",
+      "size": 937,
+      "prettySize": "937 B",
+      "modifiedTime": "2017-11-09T14:21:22.000Z",
+      "accessTime": "2017-11-09T14:21:22.000Z",
+      "changeTime": "2017-11-09T14:21:22.000Z",
+      "birthTime": "2017-11-08T17:08:44.000Z",
+      "root": "/",
+      "dir": "/Users/jaketrent/Projects/selflearningclub/src/templates",
+      "base": "resource-page.js",
+      "ext": ".js",
+      "name": "resource-page",
+      "relativeDirectory": "templates",
+      "dev": 16777220,
+      "mode": 33188,
+      "nlink": 1,
+      "uid": 501,
+      "gid": 20,
+      "rdev": 0,
+      "blksize": 4096,
+      "ino": 2956771,
+      "blocks": 8,
+      "atimeMs": 1510237282000,
+      "mtimeMs": 1510237282000,
+      "ctimeMs": 1510237282000,
+      "birthtimeMs": 1510160924000,
+      "atime": "2017-11-09T14:21:22.000Z",
+      "mtime": "2017-11-09T14:21:22.000Z",
+      "ctime": "2017-11-09T14:21:22.000Z",
+      "birthtime": "2017-11-08T17:08:44.000Z"
+    },
+    "/Users/jaketrent/Projects/selflearningclub/src/layouts/index.js absPath of file": {
+      "id": "/Users/jaketrent/Projects/selflearningclub/src/layouts/index.js absPath of file",
+      "children": [],
+      "parent": "___SOURCE___",
+      "internal": {
+        "contentDigest": "f1ddb5461d5a37b09d00dacf8a8f038c",
+        "mediaType": "application/javascript",
+        "type": "File",
+        "owner": "gatsby-source-filesystem"
+      },
+      "sourceInstanceName": "src",
+      "absolutePath": "/Users/jaketrent/Projects/selflearningclub/src/layouts/index.js",
+      "relativePath": "layouts/index.js",
+      "extension": "js",
+      "size": 1338,
+      "prettySize": "1.34 kB",
+      "modifiedTime": "2017-11-01T16:13:46.000Z",
+      "accessTime": "2017-11-02T22:57:06.000Z",
+      "changeTime": "2017-11-01T16:13:46.000Z",
+      "birthTime": "2017-11-01T16:13:46.000Z",
+      "root": "/",
+      "dir": "/Users/jaketrent/Projects/selflearningclub/src/layouts",
+      "base": "index.js",
+      "ext": ".js",
+      "name": "index",
+      "relativeDirectory": "layouts",
+      "dev": 16777220,
+      "mode": 33188,
+      "nlink": 1,
+      "uid": 501,
+      "gid": 20,
+      "rdev": 0,
+      "blksize": 4096,
+      "ino": 2787942,
+      "blocks": 8,
+      "atimeMs": 1509663426000,
+      "mtimeMs": 1509552826000,
+      "ctimeMs": 1509552826000,
+      "birthtimeMs": 1509552826000,
+      "atime": "2017-11-02T22:57:06.000Z",
+      "mtime": "2017-11-01T16:13:46.000Z",
+      "ctime": "2017-11-01T16:13:46.000Z",
+      "birthtime": "2017-11-01T16:13:46.000Z"
+    },
+    "/Users/jaketrent/Projects/selflearningclub/src/pages/404.js absPath of file": {
+      "id": "/Users/jaketrent/Projects/selflearningclub/src/pages/404.js absPath of file",
+      "children": [],
+      "parent": "___SOURCE___",
+      "internal": {
+        "contentDigest": "8d50d9a7e3f04ddcc5ff8d43b6effe79",
+        "mediaType": "application/javascript",
+        "type": "File",
+        "owner": "gatsby-source-filesystem"
+      },
+      "sourceInstanceName": "src",
+      "absolutePath": "/Users/jaketrent/Projects/selflearningclub/src/pages/404.js",
+      "relativePath": "pages/404.js",
+      "extension": "js",
+      "size": 198,
+      "prettySize": "198 B",
+      "modifiedTime": "2017-11-01T16:13:46.000Z",
+      "accessTime": "2017-11-02T22:57:06.000Z",
+      "changeTime": "2017-11-01T16:13:46.000Z",
+      "birthTime": "2017-11-01T16:13:46.000Z",
+      "root": "/",
+      "dir": "/Users/jaketrent/Projects/selflearningclub/src/pages",
+      "base": "404.js",
+      "ext": ".js",
+      "name": "404",
+      "relativeDirectory": "pages",
+      "dev": 16777220,
+      "mode": 33188,
+      "nlink": 1,
+      "uid": 501,
+      "gid": 20,
+      "rdev": 0,
+      "blksize": 4096,
+      "ino": 2787944,
+      "blocks": 8,
+      "atimeMs": 1509663426000,
+      "mtimeMs": 1509552826000,
+      "ctimeMs": 1509552826000,
+      "birthtimeMs": 1509552826000,
+      "atime": "2017-11-02T22:57:06.000Z",
+      "mtime": "2017-11-01T16:13:46.000Z",
+      "ctime": "2017-11-01T16:13:46.000Z",
+      "birthtime": "2017-11-01T16:13:46.000Z"
+    },
+    "/Users/jaketrent/Projects/selflearningclub/src/pages/index.js absPath of file": {
+      "id": "/Users/jaketrent/Projects/selflearningclub/src/pages/index.js absPath of file",
+      "children": [],
+      "parent": "___SOURCE___",
+      "internal": {
+        "contentDigest": "eee71d6ca87ede67d606876bf7a77153",
+        "mediaType": "application/javascript",
+        "type": "File",
+        "owner": "gatsby-source-filesystem"
+      },
+      "sourceInstanceName": "src",
+      "absolutePath": "/Users/jaketrent/Projects/selflearningclub/src/pages/index.js",
+      "relativePath": "pages/index.js",
+      "extension": "js",
+      "size": 2682,
+      "prettySize": "2.68 kB",
+      "modifiedTime": "2017-11-09T14:00:22.000Z",
+      "accessTime": "2017-11-09T14:00:22.000Z",
+      "changeTime": "2017-11-09T14:00:22.000Z",
+      "birthTime": "2017-11-08T17:08:53.000Z",
+      "root": "/",
+      "dir": "/Users/jaketrent/Projects/selflearningclub/src/pages",
+      "base": "index.js",
+      "ext": ".js",
+      "name": "index",
+      "relativeDirectory": "pages",
+      "dev": 16777220,
+      "mode": 33188,
+      "nlink": 1,
+      "uid": 501,
+      "gid": 20,
+      "rdev": 0,
+      "blksize": 4096,
+      "ino": 2956782,
+      "blocks": 8,
+      "atimeMs": 1510236022000,
+      "mtimeMs": 1510236022000,
+      "ctimeMs": 1510236022000,
+      "birthtimeMs": 1510160933000,
+      "atime": "2017-11-09T14:00:22.000Z",
+      "mtime": "2017-11-09T14:00:22.000Z",
+      "ctime": "2017-11-09T14:00:22.000Z",
+      "birthtime": "2017-11-08T17:08:53.000Z"
+    },
+    "/Users/jaketrent/Projects/selflearningclub/src/pages/page-2.js absPath of file": {
+      "id": "/Users/jaketrent/Projects/selflearningclub/src/pages/page-2.js absPath of file",
+      "children": [],
+      "parent": "___SOURCE___",
+      "internal": {
+        "contentDigest": "eda91bb7e277753793f385583265fbf5",
+        "mediaType": "application/javascript",
+        "type": "File",
+        "owner": "gatsby-source-filesystem"
+      },
+      "sourceInstanceName": "src",
+      "absolutePath": "/Users/jaketrent/Projects/selflearningclub/src/pages/page-2.js",
+      "relativePath": "pages/page-2.js",
+      "extension": "js",
+      "size": 245,
+      "prettySize": "245 B",
+      "modifiedTime": "2017-11-01T16:13:46.000Z",
+      "accessTime": "2017-11-02T22:57:06.000Z",
+      "changeTime": "2017-11-01T16:13:46.000Z",
+      "birthTime": "2017-11-01T16:13:46.000Z",
+      "root": "/",
+      "dir": "/Users/jaketrent/Projects/selflearningclub/src/pages",
+      "base": "page-2.js",
+      "ext": ".js",
+      "name": "page-2",
+      "relativeDirectory": "pages",
+      "dev": 16777220,
+      "mode": 33188,
+      "nlink": 1,
+      "uid": 501,
+      "gid": 20,
+      "rdev": 0,
+      "blksize": 4096,
+      "ino": 2787946,
+      "blocks": 8,
+      "atimeMs": 1509663426000,
+      "mtimeMs": 1509552826000,
+      "ctimeMs": 1509552826000,
+      "birthtimeMs": 1509552826000,
+      "atime": "2017-11-02T22:57:06.000Z",
+      "mtime": "2017-11-01T16:13:46.000Z",
+      "ctime": "2017-11-01T16:13:46.000Z",
+      "birthtime": "2017-11-01T16:13:46.000Z"
+    },
+    "/Users/jaketrent/Projects/selflearningclub/src/.DS_Store absPath of file": {
+      "id": "/Users/jaketrent/Projects/selflearningclub/src/.DS_Store absPath of file",
+      "children": [],
+      "parent": "___SOURCE___",
+      "internal": {
+        "contentDigest": "d0c428472bb5e8df60d6ad0ff8ce1da0",
+        "mediaType": "application/octet-stream",
+        "type": "File",
+        "owner": "gatsby-source-filesystem"
+      },
+      "sourceInstanceName": "src",
+      "absolutePath": "/Users/jaketrent/Projects/selflearningclub/src/.DS_Store",
+      "relativePath": ".DS_Store",
+      "extension": "",
+      "size": 8196,
+      "prettySize": "8.2 kB",
+      "modifiedTime": "2017-11-09T14:24:33.000Z",
+      "accessTime": "2017-11-09T14:24:11.000Z",
+      "changeTime": "2017-11-09T14:24:33.000Z",
+      "birthTime": "2017-11-01T21:03:23.000Z",
+      "root": "/",
+      "dir": "/Users/jaketrent/Projects/selflearningclub/src",
+      "base": ".DS_Store",
+      "ext": "",
+      "name": ".DS_Store",
+      "relativeDirectory": "",
+      "dev": 16777220,
+      "mode": 33188,
+      "nlink": 1,
+      "uid": 501,
+      "gid": 20,
+      "rdev": 0,
+      "blksize": 4096,
+      "ino": 2804745,
+      "blocks": 24,
+      "atimeMs": 1510237451000,
+      "mtimeMs": 1510237473000,
+      "ctimeMs": 1510237473000,
+      "birthtimeMs": 1509570203000,
+      "atime": "2017-11-09T14:24:11.000Z",
+      "mtime": "2017-11-09T14:24:33.000Z",
+      "ctime": "2017-11-09T14:24:33.000Z",
+      "birthtime": "2017-11-01T21:03:23.000Z"
+    },
+    "/Users/jaketrent/Projects/selflearningclub/src/layouts/index.css absPath of file": {
+      "id": "/Users/jaketrent/Projects/selflearningclub/src/layouts/index.css absPath of file",
+      "children": [],
+      "parent": "___SOURCE___",
+      "internal": {
+        "contentDigest": "eed8cf4192a217bf249ac4765c7dd68e",
+        "mediaType": "text/css",
+        "type": "File",
+        "owner": "gatsby-source-filesystem"
+      },
+      "sourceInstanceName": "src",
+      "absolutePath": "/Users/jaketrent/Projects/selflearningclub/src/layouts/index.css",
+      "relativePath": "layouts/index.css",
+      "extension": "css",
+      "size": 11244,
+      "prettySize": "11.2 kB",
+      "modifiedTime": "2017-11-01T16:13:46.000Z",
+      "accessTime": "2017-11-02T17:25:39.000Z",
+      "changeTime": "2017-11-01T16:13:46.000Z",
+      "birthTime": "2017-11-01T16:13:46.000Z",
+      "root": "/",
+      "dir": "/Users/jaketrent/Projects/selflearningclub/src/layouts",
+      "base": "index.css",
+      "ext": ".css",
+      "name": "index",
+      "relativeDirectory": "layouts",
+      "dev": 16777220,
+      "mode": 33188,
+      "nlink": 1,
+      "uid": 501,
+      "gid": 20,
+      "rdev": 0,
+      "blksize": 4096,
+      "ino": 2787941,
+      "blocks": 24,
+      "atimeMs": 1509643539000,
+      "mtimeMs": 1509552826000,
+      "ctimeMs": 1509552826000,
+      "birthtimeMs": 1509552826000,
+      "atime": "2017-11-02T17:25:39.000Z",
+      "mtime": "2017-11-01T16:13:46.000Z",
+      "ctime": "2017-11-01T16:13:46.000Z",
+      "birthtime": "2017-11-01T16:13:46.000Z"
+    },
+    "/Users/jaketrent/Projects/selflearningclub/src/resources/code-academy.md absPath of file": {
+      "id": "/Users/jaketrent/Projects/selflearningclub/src/resources/code-academy.md absPath of file",
+      "children": [
+        "/Users/jaketrent/Projects/selflearningclub/src/resources/code-academy.md absPath of file >>> MarkdownRemark"
+      ],
+      "parent": "___SOURCE___",
+      "internal": {
+        "contentDigest": "ebc3cf9ab76c4290b9ba55beeda81949",
+        "mediaType": "text/markdown",
+        "type": "File",
+        "owner": "gatsby-source-filesystem"
+      },
+      "sourceInstanceName": "src",
+      "absolutePath": "/Users/jaketrent/Projects/selflearningclub/src/resources/code-academy.md",
+      "relativePath": "resources/code-academy.md",
+      "extension": "md",
+      "size": 254,
+      "prettySize": "254 B",
+      "modifiedTime": "2017-11-09T14:06:27.000Z",
+      "accessTime": "2017-11-08T20:33:05.000Z",
+      "changeTime": "2017-11-09T14:06:27.000Z",
+      "birthTime": "2017-11-01T19:22:39.000Z",
+      "root": "/",
+      "dir": "/Users/jaketrent/Projects/selflearningclub/src/resources",
+      "base": "code-academy.md",
+      "ext": ".md",
+      "name": "code-academy",
+      "relativeDirectory": "resources",
+      "dev": 16777220,
+      "mode": 33188,
+      "nlink": 1,
+      "uid": 501,
+      "gid": 20,
+      "rdev": 0,
+      "blksize": 4096,
+      "ino": 2803086,
+      "blocks": 8,
+      "atimeMs": 1510173185000,
+      "mtimeMs": 1510236387000,
+      "ctimeMs": 1510236387000,
+      "birthtimeMs": 1509564159000,
+      "atime": "2017-11-08T20:33:05.000Z",
+      "mtime": "2017-11-09T14:06:27.000Z",
+      "ctime": "2017-11-09T14:06:27.000Z",
+      "birthtime": "2017-11-01T19:22:39.000Z"
+    },
+    "/Users/jaketrent/Projects/selflearningclub/src/resources/code-academy.md absPath of file >>> MarkdownRemark": {
+      "id": "/Users/jaketrent/Projects/selflearningclub/src/resources/code-academy.md absPath of file >>> MarkdownRemark",
+      "children": [],
+      "parent": "/Users/jaketrent/Projects/selflearningclub/src/resources/code-academy.md absPath of file",
+      "internal": {
+        "content": "---\ntitle: \"Code Academy\"\nurl: \"https://www.codecademy.com/\"\nprice: \n- \"0\"\n- \"19.99\"\npricePerPeriod: \"n/a,month\"\nformat: \n- courses\n- interactive\n- code\nsubject: \n- html\n- css\n- responsive design\n- sass\n- python\n- java\n- ruby\n- javascript\n- angular\r\n---\n",
+        "contentDigest": "a2872d1837e77562818cc2061d61439f",
+        "type": "MarkdownRemark",
+        "owner": "gatsby-transformer-remark",
+        "fieldOwners": {
+          "slug": "default-site-plugin"
+        }
+      },
+      "frontmatter": {
+        "title": "Code Academy",
+        "url": "https://www.codecademy.com/",
+        "price": [
+          "0",
+          "19.99"
+        ],
+        "pricePerPeriod": "n/a,month",
+        "format": [
+          "courses",
+          "interactive",
+          "code"
+        ],
+        "subject": [
+          "html",
+          "css",
+          "responsive design",
+          "sass",
+          "python",
+          "java",
+          "ruby",
+          "javascript",
+          "angular"
+        ],
+        "_PARENT": "/Users/jaketrent/Projects/selflearningclub/src/resources/code-academy.md absPath of file",
+        "parent": "/Users/jaketrent/Projects/selflearningclub/src/resources/code-academy.md absPath of file"
+      },
+      "fileAbsolutePath": "/Users/jaketrent/Projects/selflearningclub/src/resources/code-academy.md",
+      "fields": {
+        "slug": "/resources/code-academy/"
+      }
+    },
+    "/Users/jaketrent/Projects/selflearningclub/src/pages/index.module.css absPath of file": {
+      "id": "/Users/jaketrent/Projects/selflearningclub/src/pages/index.module.css absPath of file",
+      "children": [],
+      "parent": "___SOURCE___",
+      "internal": {
+        "contentDigest": "2479d6acdd17d79ccf39fd9657a40e66",
+        "mediaType": "text/css",
+        "type": "File",
+        "owner": "gatsby-source-filesystem"
+      },
+      "sourceInstanceName": "src",
+      "absolutePath": "/Users/jaketrent/Projects/selflearningclub/src/pages/index.module.css",
+      "relativePath": "pages/index.module.css",
+      "extension": "css",
+      "size": 70,
+      "prettySize": "70 B",
+      "modifiedTime": "2017-11-08T17:08:53.000Z",
+      "accessTime": "2017-11-08T17:08:53.000Z",
+      "changeTime": "2017-11-08T17:08:53.000Z",
+      "birthTime": "2017-11-08T17:08:53.000Z",
+      "root": "/",
+      "dir": "/Users/jaketrent/Projects/selflearningclub/src/pages",
+      "base": "index.module.css",
+      "ext": ".css",
+      "name": "index.module",
+      "relativeDirectory": "pages",
+      "dev": 16777220,
+      "mode": 33188,
+      "nlink": 1,
+      "uid": 501,
+      "gid": 20,
+      "rdev": 0,
+      "blksize": 4096,
+      "ino": 2956783,
+      "blocks": 8,
+      "atimeMs": 1510160933000,
+      "mtimeMs": 1510160933000,
+      "ctimeMs": 1510160933000,
+      "birthtimeMs": 1510160933000,
+      "atime": "2017-11-08T17:08:53.000Z",
+      "mtime": "2017-11-08T17:08:53.000Z",
+      "ctime": "2017-11-08T17:08:53.000Z",
+      "birthtime": "2017-11-08T17:08:53.000Z"
+    },
+    "/Users/jaketrent/Projects/selflearningclub/src/resources/.DS_Store absPath of file": {
+      "id": "/Users/jaketrent/Projects/selflearningclub/src/resources/.DS_Store absPath of file",
+      "children": [],
+      "parent": "___SOURCE___",
+      "internal": {
+        "contentDigest": "7e60188e3038598492583a79961834d7",
+        "mediaType": "application/octet-stream",
+        "type": "File",
+        "owner": "gatsby-source-filesystem"
+      },
+      "sourceInstanceName": "src",
+      "absolutePath": "/Users/jaketrent/Projects/selflearningclub/src/resources/.DS_Store",
+      "relativePath": "resources/.DS_Store",
+      "extension": "",
+      "size": 6148,
+      "prettySize": "6.15 kB",
+      "modifiedTime": "2017-11-09T14:24:38.000Z",
+      "accessTime": "2017-11-09T14:24:16.000Z",
+      "changeTime": "2017-11-09T14:24:38.000Z",
+      "birthTime": "2017-11-09T14:24:16.000Z",
+      "root": "/",
+      "dir": "/Users/jaketrent/Projects/selflearningclub/src/resources",
+      "base": ".DS_Store",
+      "ext": "",
+      "name": ".DS_Store",
+      "relativeDirectory": "resources",
+      "dev": 16777220,
+      "mode": 33188,
+      "nlink": 1,
+      "uid": 501,
+      "gid": 20,
+      "rdev": 0,
+      "blksize": 4096,
+      "ino": 2973566,
+      "blocks": 16,
+      "atimeMs": 1510237456000,
+      "mtimeMs": 1510237478000,
+      "ctimeMs": 1510237478000,
+      "birthtimeMs": 1510237456000,
+      "atime": "2017-11-09T14:24:16.000Z",
+      "mtime": "2017-11-09T14:24:38.000Z",
+      "ctime": "2017-11-09T14:24:38.000Z",
+      "birthtime": "2017-11-09T14:24:16.000Z"
+    },
+    "SitePage /resources/code-academy/": {
+      "path": "/resources/code-academy/",
+      "component": "/Users/jaketrent/Projects/selflearningclub/src/templates/resource-page.js",
+      "context": {
+        "slug": "/resources/code-academy/"
+      },
+      "componentChunkName": "component---src-templates-resource-page-js",
+      "layout": "index",
+      "jsonName": "resources-code-academy.json",
+      "internalComponentName": "ComponentResourcesCodeAcademy",
+      "updatedAt": 1510237527288,
+      "pluginCreator___NODE": "Plugin default-site-plugin",
+      "pluginCreatorId": "Plugin default-site-plugin",
+      "componentPath": "/Users/jaketrent/Projects/selflearningclub/src/templates/resource-page.js",
+      "id": "SitePage /resources/code-academy/",
+      "parent": "SOURCE",
+      "children": [],
+      "internal": {
+        "type": "SitePage",
+        "contentDigest": "d98b6f6e776fb537a9204c6d5b145a78",
+        "owner": "internal-data-bridge"
+      }
+    },
+    "SitePage /": {
+      "path": "/",
+      "component": "/Users/jaketrent/Projects/selflearningclub/src/pages/index.js",
+      "componentChunkName": "component---src-pages-index-js",
+      "layout": "index",
+      "jsonName": "index.json",
+      "internalComponentName": "ComponentIndex",
+      "updatedAt": 1510237527296,
+      "context": {},
+      "pluginCreator___NODE": "Plugin component-page-creator",
+      "pluginCreatorId": "Plugin component-page-creator",
+      "componentPath": "/Users/jaketrent/Projects/selflearningclub/src/pages/index.js",
+      "id": "SitePage /",
+      "parent": "SOURCE",
+      "children": [],
+      "internal": {
+        "type": "SitePage",
+        "contentDigest": "cec24e17eed7c1b264b016d3a9f86318",
+        "owner": "internal-data-bridge"
+      }
+    },
+    "SitePage /404/": {
+      "path": "/404/",
+      "component": "/Users/jaketrent/Projects/selflearningclub/src/pages/404.js",
+      "componentChunkName": "component---src-pages-404-js",
+      "layout": "index",
+      "jsonName": "404.json",
+      "internalComponentName": "Component404",
+      "updatedAt": 1510237527297,
+      "context": {},
+      "pluginCreator___NODE": "Plugin component-page-creator",
+      "pluginCreatorId": "Plugin component-page-creator",
+      "componentPath": "/Users/jaketrent/Projects/selflearningclub/src/pages/404.js",
+      "id": "SitePage /404/",
+      "parent": "SOURCE",
+      "children": [],
+      "internal": {
+        "type": "SitePage",
+        "contentDigest": "c236bfb903473923be20413290330a56",
+        "owner": "internal-data-bridge"
+      }
+    },
+    "SitePage /page-2/": {
+      "path": "/page-2/",
+      "component": "/Users/jaketrent/Projects/selflearningclub/src/pages/page-2.js",
+      "componentChunkName": "component---src-pages-page-2-js",
+      "layout": "index",
+      "jsonName": "page-2.json",
+      "internalComponentName": "ComponentPage2",
+      "updatedAt": 1510237527297,
+      "context": {},
+      "pluginCreator___NODE": "Plugin component-page-creator",
+      "pluginCreatorId": "Plugin component-page-creator",
+      "componentPath": "/Users/jaketrent/Projects/selflearningclub/src/pages/page-2.js",
+      "id": "SitePage /page-2/",
+      "parent": "SOURCE",
+      "children": [],
+      "internal": {
+        "type": "SitePage",
+        "contentDigest": "79cbb8827d4b20fe697f7c245ce9850b",
+        "owner": "internal-data-bridge"
+      }
+    },
+    "SitePage /404.html": {
+      "path": "/404.html",
+      "component": "/Users/jaketrent/Projects/selflearningclub/src/pages/404.js",
+      "componentChunkName": "component---src-pages-404-js",
+      "layout": "index",
+      "jsonName": "404-html.json",
+      "internalComponentName": "Component404Html",
+      "updatedAt": 1510237527298,
+      "context": {},
+      "pluginCreator___NODE": "Plugin prod-404",
+      "pluginCreatorId": "Plugin prod-404",
+      "componentPath": "/Users/jaketrent/Projects/selflearningclub/src/pages/404.js",
+      "id": "SitePage /404.html",
+      "parent": "SOURCE",
+      "children": [],
+      "internal": {
+        "type": "SitePage",
+        "contentDigest": "f614d6d34e937e2f4f6fd00fc73abbd0",
+        "owner": "internal-data-bridge"
+      }
+    }
+  },
+  "status": {
+    "plugins": {},
+    "PLUGINS_HASH": "06bb6d7452542e39bb52e04454b46d61"
+  },
+  "componentDataDependencies": {
+    "nodes": {
+      "Site": [
+        "LAYOUT___index"
+      ],
+      "/Users/jaketrent/Projects/selflearningclub/src/resources/code-academy.md absPath of file >>> MarkdownRemark": [
+        "/resources/code-academy/",
+        "/"
+      ]
+    },
+    "connections": {
+      "MarkdownRemark": [
+        "/"
+      ],
+      "SitePage": [
+        "/dev-404-page/"
+      ]
+    }
+  }
+}

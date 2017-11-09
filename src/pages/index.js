@@ -10,7 +10,8 @@ const uniq = arr =>
   )
 
 class IndexPage extends React.Component {
-  state = { activeFormatNames: [] }
+  state = { activeFormatNames: [],
+            activePrice: [] }
   toggleFormat = (isChecked, formatName) => {
     if (isChecked) {
       this.setState({
@@ -26,6 +27,23 @@ class IndexPage extends React.Component {
       })
     }
   }
+
+  togglePrice = (isChecked, priceRange) => {
+    if (isChecked) {
+      this.setState({
+        activePrice: uniq(
+          this.state.activePrice.concat([priceRange])
+        )
+      })
+    } else {
+      this.setState({
+        activePrice: this.state.activePrice.filter(
+          f => f !== priceRange
+        )
+      })
+    }
+  }
+
   render() {
     const { data } = this.props
     const formats = uniq(
@@ -37,8 +55,11 @@ class IndexPage extends React.Component {
     const nodes = data.allMarkdownRemark.edges.filter(({ node }) =>
       node.frontmatter.format.some(
         formatName => this.state.activeFormatNames.indexOf(formatName) > -1
-      )
-    )
+      )  
+    ).filter(({node}) => this.state.activePrice.indexOf("free") > -1 ? node.frontmatter.price.indexOf("0") > -1 : true
+    ).filter(({node}) => this.state.activePrice.indexOf("paid") > -1 ? node.frontmatter.price.some(
+      price => price !== "0") : true)
+
     return (
       <div>
         <h1>Hi people</h1>
@@ -46,9 +67,21 @@ class IndexPage extends React.Component {
         <p>Now go build something great.</p>
         <div className={styles.lhCol}> 
             <input type="checkbox"
-            key="free"/> Free
+            key="free"
+            checked={
+              this.state.activePrice.indexOf("free") > -1
+            }
+            onClick={evt=>
+              this.togglePrice(evt.target.checked, "free")
+            }/> Free
             <input type="checkbox"
-            key="paid"/> Paid
+            key="paid"
+            checked={
+              this.state.activePrice.indexOf("paid") > -1
+            }
+            onClick={evt=>
+              this.togglePrice(evt.target.checked, "paid")
+            }/> Paid
         </div>
         <div className={styles.cols}>
           <div className={styles.lhCol}>

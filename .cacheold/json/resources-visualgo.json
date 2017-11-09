@@ -1,0 +1,23 @@
+{
+    "data": {
+        "markdownRemark": {
+            "frontmatter": {
+                "title": "VisuAlgo",
+                "url": "https://visualgo.net/",
+                "price": "0",
+                "pricePerPeriod": "n/a",
+                "format": [
+                    "interactive",
+                    "quiz",
+                    "example"
+                ],
+                "subject": [
+                    "algorithms"
+                ]
+            }
+        }
+    },
+    "pathContext": {
+        "slug": "/resources/visualgo/"
+    }
+}

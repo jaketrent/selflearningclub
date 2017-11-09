@@ -1,0 +1,35 @@
+{
+    "data": {
+        "allSitePage": {
+            "totalCount": 5,
+            "edges": [
+                {
+                    "node": {
+                        "path": "/resources/code-academy/"
+                    }
+                },
+                {
+                    "node": {
+                        "path": "/"
+                    }
+                },
+                {
+                    "node": {
+                        "path": "/404/"
+                    }
+                },
+                {
+                    "node": {
+                        "path": "/page-2/"
+                    }
+                },
+                {
+                    "node": {
+                        "path": "/404.html"
+                    }
+                }
+            ]
+        }
+    },
+    "pathContext": {}
+}

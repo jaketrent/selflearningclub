@@ -1,0 +1,22 @@
+{
+    "errors": [
+        {
+            "message": "Cannot read property 'id' of undefined",
+            "locations": [
+                {
+                    "line": 4,
+                    "column": 3
+                }
+            ],
+            "path": [
+                "markdownRemark"
+            ]
+        }
+    ],
+    "data": {
+        "markdownRemark": null
+    },
+    "pathContext": {
+        "slug": "/resources/idiomatic-redux:-the-tao-of-redux,-part-1---implementation-and-intent/"
+    }
+}
