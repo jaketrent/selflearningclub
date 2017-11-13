@@ -1,20 +1,20 @@
 New In React	http://newinreact.com	0	n/a	blog,video	react,javascript
-GitHub Professional Services	https://services.github.com/	0	n/a	blog,webcast,talks,courses	github,graphQL,electron
+GitHub Professional Services	https://services.github.com/	0	n/a	blog,webcast,talks,course	github,graphQL,electron
 Talks to Help You Become a Better Front-End Engineer IN 2013	https://www.smashingmagazine.com/2012/12/talks-to-help-you-become-a-better-front-end-engineer-in-2013/	0	n/a	blog,video	frontend devolpment,workflow,web design,mobile,debugging,css,javascript
-Code.org	https://code.org/	0	n/a	blog,courses,interactive	coding,computer science
-Code Academy	https://www.codecademy.com/	0,19.99	n/a,month	courses,interactive,code	html,css,responsive design,sass,python,java,ruby,javascript,angular
+Code.org	https://code.org/	0	n/a	blog,course,interactive	coding,computer science
+Code Academy	https://www.codecademy.com/	0,19.99	n/a,month	course,interactive,code	html,css,responsive design,sass,python,java,ruby,javascript,angular
 Confreak	http://www.confreaks.com/	0	n/a	video,blog	ruby,ember,golang,elixir
 CraftStudio	https://sparklinlabs.itch.io/craftstudio	0	n/a	download	gaming
 Udacity	https://www.udacity.com/	0-2000	once	course,code,project	data analytics,programming,react
 Teach Yourself To Code	http://teachyourselftocode.com/	0	n/a	resource	rails,backbone,node,python,javascript,ruby
 Treehouse	https://teamtreehouse.com/	25,49	monthly	course,video,code	javascript,c#,ruby,design,databases,android
-Dance In A Year	danceinayear.com	0	n/a	video 	dance
+Dance In A Year	danceinayear.com	0	n/a	video	dance
 Jennifer Dewalt	http://blog.jenniferdewalt.com/post/56319597560/im-learning-to-code-by-building-180-websites-in#_=_	0	n/a	blog	html,css,javascript,rails
 Railscasts	http://railscasts.com/	0	n/a	video	rails
 Scala School	http://twitter.github.io/scala_school/	0	n/a	example,tutorial	scala
 Ruby Warrior	https://www.bloc.io/ruby-warrior#/	0	n/a	interactive,code	ruby
 Lumen 	http://www.lumenlearning.com/	0	n/a	course	math,science,english
-OpenED	https://www.opened.com/	0	n/a	course,quizz,video	math,science,english
+OpenED	https://www.opened.com/	0	n/a	course,quiz,video	math,science,english
 Schoology	https://www.schoology.com/				
 Free Programmin Books	https://github.com/EbookFoundation/free-programming-books/blob/master/free-programming-books.md	0	n/a	ebook	javascript,python,ruby,database
 JavaScript Allonge	https://leanpub.com/javascriptallongesix/read	0	n/a	ebook	javascript,es6
@@ -22,7 +22,7 @@ Human JavaScript	http://read.humanjavascript.com/	0	n/a	ebook	javascript
 Exploring JavaScript	http://exploringjs.com/	0	n/a	ebook	javascript
 Udemy	https://www.udemy.com/	10	once	course	python,java,web development
 Go Rails	https://gorails.com/	19	monthly	video,course	rails
-O'Reilly Atlas	http://chimera.labs.oreilly.com/books	0	n/a	video,ebooks	javascript,html,python,node
+O'Reilly Atlas	http://chimera.labs.oreilly.com/books	0	n/a	video,ebook	javascript,html,python,node
 Eloquent JavaScript	http://eloquentjavascript.net/	0	n/a	ebook	javascript
 Gooru	http://www.gooru.org/welcome/	0	n/a	course	science,math,social science,english
 Springboard	https://www.springboard.com/resources/	0	n/a	course,video,email,ebook	user experience,ux,data science
@@ -56,7 +56,7 @@ Learn You Some Erlang For Great Good	http://learnyousomeerlang.com/	0	n/a	ebook	
 7 Ways to Learn to Code for Free	http://time.com/3964968/free-code-classes/	0	n/a	reference	html,javascript,ruby
 What The Flexbox?!	https://flexbox.io/#/	0	n/a	email,video	flexbox,css
 Professor Figby's Mostly Adequate Guide to  Functional Programming	https://drboolean.gitbooks.io/mostly-adequate-guide/	0	n/a	ebook	functional programming
-Thinkful	https://www.thinkful.com/	500	monthly	mentor,courses	javascript,full stack,web development
+Thinkful	https://www.thinkful.com/	500	monthly	mentor,course	javascript,full stack,web development
 airpair	https://www.airpair.com/	0	n/a	tutorial,article,example	python,node,react,php,swift
 20 Best Free Tutorials to Learn Python	http://noeticforce.com/best-free-tutorials-to-learn-python-pdfs-ebooks-online-interactive	0	n/a	reference	python
 Computer Science Unplugged	http://csunplugged.org/	0	n/a	video,activity	computer science
@@ -85,7 +85,7 @@ High Performance Browser Networking	https://hpbn.co/	0	n/a	ebook	networking
 Structure and Interpretation of Computer Programs	http://web.mit.edu/alexmv/6.037/sicp.pdf	0	n/a	ebook	software structure
 Rich Hickey Fanclub	https://github.com/tallesl/Rich-Hickey-fanclub	0	n/a	video,talks	database,java
 Flexbox Defense	http://www.flexboxdefense.com/	0	n/a	interactive,code	flexbox,css
-Safari Books Online	http://techbus.safaribooksonline.com/search?srcuserquery=(BOOKTITLE%20%22Learning%20Path%22)&sort=insertDate&order=desc	0	n/a	video,ebooks	javascript,angular,r,java
+Safari Books Online	http://techbus.safaribooksonline.com/search?srcuserquery=(BOOKTITLE%20%22Learning%20Path%22)&sort=insertDate&order=desc	0	n/a	video,ebook	javascript,angular,r,java
 Go By Example	https://gobyexample.com/	0	n/a	example,code	go
 Teaching kids to program in their native language	https://opensource.googleblog.com/2016/03/teaching-kids-to-program-in-their.html	0	n/a	blog	lisp,logo
 Make a Language in One Hour: Stacker	http://beautifulracket.com/stacker/	0	n/a	ebook	language
@@ -154,12 +154,12 @@ Learn Web Development	https://developer.mozilla.org/en-US/docs/Learn	0	n/a	tutor
 Learn Regex the Easy Way	https://github.com/zeeshanu/learn-regex	0	n/a	example,code	regex
 How to Program a NES game in C	https://nesdoug.com/	0	n/a	blog,example	nes,c,game
 Karan's Mega Projects List	https://github.com/karan/projects	0	n/a	project,idea	idea,pythin,c++
-Sketch for Designer	http://sketch.fordesignrs.com/	0	n/a	examples,reference	sketch,design
+Sketch for Designer	http://sketch.fordesignrs.com/	0	n/a	example,reference	sketch,design
 Modern DevTools	https://moderndevtools.com/	93	once	video,tool	javascript,debugging
 Learn D3.js in 5 Days	https://benclinkinbeard.com/d3in5days/	0	n/a	email	d3
 CodeNewbie	https://www.codenewbie.org/	0	n/a	podcast,twitter,email	javascript,code,creating
 Web Animation Essentials	http://rachelnabors.com/css-animations-course/	129	once	course,video,tutorial	css,animation
 React FAQ 	https://reactfaq.site/	0	n/a	resource,article	react,javascript,jsx
 CSS Grid Playground	https://mozilladevelopers.github.io/playground/	0	n/a	resource,example	css,html
-Clojure Academmy	https://clojurecademy.com/#	0	n/a	document,course	clojure
+Clojure Academy	https://clojurecademy.com/#	0	n/a	document,course	clojure
 Interactive Vim Tutorial	http://www.openvim.com/	0	n/a	interactive,tutorial	vim

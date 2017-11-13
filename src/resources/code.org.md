@@ -7,7 +7,7 @@ pricePerPeriod:
 - "n/a"
 format: 
 - "blog"
-- "courses"
+- "course"
 - "interactive"
 subject: 
 - "coding"

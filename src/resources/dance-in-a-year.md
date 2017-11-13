@@ -6,7 +6,7 @@ price:
 pricePerPeriod: 
 - "n/a"
 format: 
-- "video "
+- "video"
 subject: 
 - "dance"
 ---

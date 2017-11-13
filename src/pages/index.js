@@ -11,7 +11,7 @@ const uniq = arr =>
 
 class IndexPage extends React.Component {
   state = { activeFormatNames: [],
-            activePrice: [] }
+            activePrices: [] }
   toggleFormat = (isChecked, formatName) => {
     if (isChecked) {
       this.setState({
@@ -31,13 +31,13 @@ class IndexPage extends React.Component {
   togglePrice = (isChecked, priceRange) => {
     if (isChecked) {
       this.setState({
-        activePrice: uniq(
-          this.state.activePrice.concat([priceRange])
+        activePrices: uniq(
+          this.state.activePrices.concat([priceRange])
         )
       })
     } else {
       this.setState({
-        activePrice: this.state.activePrice.filter(
+        activePrices: this.state.activePrices.filter(
           f => f !== priceRange
         )
       })
@@ -52,12 +52,14 @@ class IndexPage extends React.Component {
         []
       )
     ).filter(f => f)
+    
     const nodes = data.allMarkdownRemark.edges.filter(({ node }) =>
+      this.state.activeFormatNames.length > 0 ?
       node.frontmatter.format.some(
         formatName => this.state.activeFormatNames.indexOf(formatName) > -1
-      )  
-    ).filter(({node}) => this.state.activePrice.indexOf("free") > -1 ? node.frontmatter.price.indexOf("0") > -1 : true
-    ).filter(({node}) => this.state.activePrice.indexOf("paid") > -1 ? node.frontmatter.price.some(
+      )  : true
+    ).filter(({node}) => this.state.activePrices.indexOf("free") > -1 ? node.frontmatter.price.indexOf("0") > -1 : true
+    ).filter(({node}) => this.state.activePrices.indexOf("paid") > -1 ? node.frontmatter.price.some(
       price => price !== "0") : true)
 
     return (
@@ -69,7 +71,7 @@ class IndexPage extends React.Component {
             <input type="checkbox"
             key="free"
             checked={
-              this.state.activePrice.indexOf("free") > -1
+              this.state.activePrices.indexOf("free") > -1
             }
             onClick={evt=>
               this.togglePrice(evt.target.checked, "free")
@@ -77,7 +79,7 @@ class IndexPage extends React.Component {
             <input type="checkbox"
             key="paid"
             checked={
-              this.state.activePrice.indexOf("paid") > -1
+              this.state.activePrices.indexOf("paid") > -1
             }
             onClick={evt=>
               this.togglePrice(evt.target.checked, "paid")

@@ -7,7 +7,7 @@ pricePerPeriod:
 - "monthly"
 format: 
 - "mentor"
-- "courses"
+- "course"
 subject: 
 - "javascript"
 - "full stack"

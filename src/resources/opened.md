@@ -7,7 +7,7 @@ pricePerPeriod:
 - "n/a"
 format: 
 - "course"
-- "quizz"
+- "quiz"
 - "video"
 subject: 
 - "math"

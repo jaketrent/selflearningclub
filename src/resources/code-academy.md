@@ -8,7 +8,7 @@ pricePerPeriod:
 - "n/a"
 - "month"
 format: 
-- "courses"
+- "course"
 - "interactive"
 - "code"
 subject: 

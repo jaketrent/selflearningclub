@@ -7,7 +7,7 @@ pricePerPeriod:
 - "n/a"
 format: 
 - "video"
-- "ebooks"
+- "ebook"
 subject: 
 - "javascript"
 - "html"

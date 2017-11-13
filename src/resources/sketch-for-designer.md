@@ -6,7 +6,7 @@ price:
 pricePerPeriod: 
 - "n/a"
 format: 
-- "examples"
+- "example"
 - "reference"
 subject: 
 - "sketch"

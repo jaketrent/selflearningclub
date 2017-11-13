@@ -9,7 +9,7 @@ format:
 - "blog"
 - "webcast"
 - "talks"
-- "courses"
+- "course"
 subject: 
 - "github"
 - "graphQL"
