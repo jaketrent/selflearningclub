@@ -23,6 +23,14 @@
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "devDependencies": {
+    "husky": "^0.14.3",
+    "lint-staged": "^4.0.4",
     "prettier": "^1.7.4"
+  },
+  "lint-staged": {
+    "*.js": [
+      "node_modules/.bin/prettier --single-quote --no-semi --write",
+      "git add"
+    ]
   }
 }

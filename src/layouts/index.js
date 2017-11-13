@@ -9,14 +9,14 @@ const Header = ({ data }) => (
   <div
     style={{
       background: 'purple',
-      marginBottom: '1.45rem'
+      marginBottom: '1.45rem',
     }}
   >
     <div
       style={{
         margin: '0 auto',
         maxWidth: 960,
-        padding: '1.45rem 1.0875rem'
+        padding: '1.45rem 1.0875rem',
       }}
     >
       <h1 style={{ margin: 0 }}>
@@ -24,7 +24,7 @@ const Header = ({ data }) => (
           to="/"
           style={{
             color: 'white',
-            textDecoration: 'none'
+            textDecoration: 'none',
           }}
         >
           {data.site.siteMetadata.title}
@@ -40,7 +40,7 @@ const TemplateWrapper = ({ children, data }) => (
       title={data.site.siteMetadata.title}
       meta={[
         { name: 'description', content: 'Sample' },
-        { name: 'keywords', content: 'sample, something' }
+        { name: 'keywords', content: 'sample, something' },
       ]}
     />
     <Header data={data} />
@@ -49,7 +49,7 @@ const TemplateWrapper = ({ children, data }) => (
         margin: '0 auto',
         maxWidth: 960,
         padding: '0px 1.0875rem 1.45rem',
-        paddingTop: 0
+        paddingTop: 0,
       }}
     >
       {children()}
@@ -58,7 +58,7 @@ const TemplateWrapper = ({ children, data }) => (
 )
 
 TemplateWrapper.propTypes = {
-  children: PropTypes.func
+  children: PropTypes.func,
 }
 
 export const query = graphql`
