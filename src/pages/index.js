@@ -58,10 +58,12 @@ class IndexPage extends React.Component {
       node.frontmatter.format.some(
         formatName => this.state.activeFormatNames.indexOf(formatName) > -1
       )  : true
-    ).filter(({node}) => this.state.activePrices.indexOf("free") > -1 ? node.frontmatter.price.indexOf("0") > -1 : true
-    ).filter(({node}) => this.state.activePrices.indexOf("paid") > -1 ? node.frontmatter.price.some(
-      price => price !== "0") : true)
-
+    ).filter(({node}) => this.state.activePrices.indexOf("free") > -1 && this.state.activePrices.indexOf("paid") > -1 ? node.frontmatter.price.indexOf("0") > -1 || node.frontmatter.price.some(
+      price => price !== "0"): this.state.activePrices.indexOf("free") > -1 ? node.frontmatter.price.indexOf("0") > -1 :
+                              this.state.activePrices.indexOf("paid") > -1 ? node.frontmatter.price.some(
+                                price => price !== "0") : true
+                              )
+    
     return (
       <div>
         <h1>Hi people</h1>
