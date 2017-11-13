@@ -7,7 +7,7 @@ Confreak	http://www.confreaks.com/	0	n/a	video,blog	ruby,ember,golang,elixir
 CraftStudio	https://sparklinlabs.itch.io/craftstudio	0	n/a	download	gaming
 Udacity	https://www.udacity.com/	0-2000	once	course,code,project	data analytics,programming,react
 Teach Yourself To Code	http://teachyourselftocode.com/	0	n/a	resource	rails,backbone,node,python,javascript,ruby
-Treehouse	https://teamtreehouse.com/	25,49	monthly	course,video,code	javascript,c#,ruby,design,databases,android
+Treehouse	https://teamtreehouse.com/	25,49	monthly	course,video,code	javascript,c#,ruby,design,database,android
 Dance In A Year	danceinayear.com	0	n/a	video	dance
 Jennifer Dewalt	http://blog.jenniferdewalt.com/post/56319597560/im-learning-to-code-by-building-180-websites-in#_=_	0	n/a	blog	html,css,javascript,rails
 Railscasts	http://railscasts.com/	0	n/a	video	rails
@@ -144,7 +144,7 @@ A set of best practices for JavaScript projects	https://github.com/wearehive/pro
 Skyrocket in Android and Node.js	https://futurestud.io/	60	semiannually	tutorial,video	android,node
 Going Mobile With React Native	https://blog.clubhouse.io/going-mobile-with-react-native-891e1a602465	0	n/a	article,example	react,react native
 Idiomatic Redux: The Tao of Redux, Part 1 - Implementation and Intent	http://blog.isquaredsoftware.com/2017/05/idiomatic-redux-tao-of-redux-part-1/	0	n/a	blog,reference	redux
-Learn JavaScript with Eric Elliot	https://ericelliottjs.com/product/lifetime-access-pass/	495	once	ebook,course,video,example	JavaScript
+Learn JavaScript with Eric Elliot	https://ericelliottjs.com/product/lifetime-access-pass/	495	once	ebook,course,video,example	javascript
 A Real World Guide to WebRTC	https://deepstreamhub.com/tutorials/protocols/webrtc-intro/	0	n/a	tutorial,example,code	webrtc
 CS233 Schedule	https://www.classes.cs.uchicago.edu/archive/2017/spring/22300-1/schedule.html	0	n/a	tutorial,example,code	elm
 liveBook	https://livebook.manning.com/?trk_msg=OSRODFD7NHCKB4P5R9R1J2NIVS&trk_contact=QM717KMFFAHTI7SDGRV1FLKDFK&trk_sid=KKRHDUI0OT4RS1S48S1DV9BCJ4&utm_source=Listrak&utm_medium=Email&utm_term=https%3a%2f%2flivebook.manning.com%2f&utm_campaign=Meet+liveBook%2c+Manning%E2%80%99s+FREE+online+reading+platform	39.99	book	ebook,tutorial	python,javascript,electron,angular

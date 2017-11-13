@@ -11,5 +11,5 @@ format:
 - "video"
 - "example"
 subject: 
-- "JavaScript"
+- "javascript"
 ---
