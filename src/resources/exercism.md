@@ -6,9 +6,7 @@ price:
 pricePerPeriod: 
 - "n/a"
 format: 
-- "download"
-- "code"
-- "practice"
+- "project"
 - "challenge"
 subject: 
 - "c"
@@ -18,4 +16,5 @@ subject:
 - "go"
 - "swift"
 - "javascript"
+featured: "y"
 ---

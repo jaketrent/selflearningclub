@@ -6,10 +6,9 @@ price:
 pricePerPeriod: 
 - "n/a"
 format: 
-- "tutorial"
 - "interactive"
-- "game"
 subject: 
 - "coding"
 - "kids"
+featured: "n"
 ---

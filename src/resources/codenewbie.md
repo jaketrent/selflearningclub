@@ -7,10 +7,10 @@ pricePerPeriod:
 - "n/a"
 format: 
 - "podcast"
-- "twitter"
 - "email"
 subject: 
 - "javascript"
 - "code"
 - "creating"
+featured: "n"
 ---

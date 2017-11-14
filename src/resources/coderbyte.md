@@ -6,12 +6,13 @@ price:
 pricePerPeriod: 
 - "n/a"
 format: 
+- "challenge"
 - "interactive"
-- "code"
 subject: 
 - "javascript"
 - "python"
 - "c++"
 - "ruby"
 - "php"
+featured: "n"
 ---

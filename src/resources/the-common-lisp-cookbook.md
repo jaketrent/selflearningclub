@@ -8,7 +8,7 @@ pricePerPeriod:
 format: 
 - "tutorial"
 - "example"
-- "code"
 subject: 
 - "lisp"
+featured: "n"
 ---

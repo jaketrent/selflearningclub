@@ -6,9 +6,9 @@ price:
 pricePerPeriod: 
 - "n/a"
 format: 
-- "demo"
 - "ebook"
 - "video"
 subject: 
 - "elm"
+featured: "n"
 ---

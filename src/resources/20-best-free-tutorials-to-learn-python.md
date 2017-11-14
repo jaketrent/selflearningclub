@@ -6,7 +6,8 @@ price:
 pricePerPeriod: 
 - "n/a"
 format: 
-- "reference"
+- "resource"
 subject: 
 - "python"
+featured: "n"
 ---

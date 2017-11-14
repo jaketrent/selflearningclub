@@ -12,4 +12,5 @@ subject:
 - "css"
 - "javascript"
 - "rails"
+featured: "n"
 ---

@@ -10,4 +10,5 @@ format:
 - "email"
 subject: 
 - "clojure"
+featured: "n"
 ---

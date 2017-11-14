@@ -8,8 +8,8 @@ pricePerPeriod:
 format: 
 - "tutorial"
 - "interactive"
-- "code"
 subject: 
 - "react"
 - "javascript"
+featured: "n"
 ---

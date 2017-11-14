@@ -7,8 +7,9 @@ pricePerPeriod:
 - "n/a"
 format: 
 - "video"
-- "document"
+- "documentation"
 - "ebook"
 subject: 
 - "docker"
+featured: "n"
 ---

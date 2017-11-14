@@ -6,8 +6,9 @@ price:
 pricePerPeriod: 
 - "n/a"
 format: 
-- "document"
+- "documentation"
 - "ebook"
 subject: 
 - "system design"
+featured: "n"
 ---

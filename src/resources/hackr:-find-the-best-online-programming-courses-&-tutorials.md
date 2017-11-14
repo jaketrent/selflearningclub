@@ -6,7 +6,6 @@ price:
 pricePerPeriod: 
 - "n/a"
 format: 
-- "tutorial"
 - "course"
 - "video"
 - "ebook"
@@ -18,4 +17,5 @@ subject:
 - "javascript"
 - "photoshop"
 - "unity"
+featured: "n"
 ---

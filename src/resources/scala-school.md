@@ -7,7 +7,7 @@ pricePerPeriod:
 - "n/a"
 format: 
 - "example"
-- "tutorial"
 subject: 
 - "scala"
+featured: "n"
 ---

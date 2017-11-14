@@ -9,12 +9,12 @@ pricePerPeriod:
 format: 
 - "course"
 - "video"
-- "code"
 subject: 
 - "javascript"
 - "c#"
 - "ruby"
 - "design"
-- "databases"
+- "database"
 - "android"
+featured: "n"
 ---

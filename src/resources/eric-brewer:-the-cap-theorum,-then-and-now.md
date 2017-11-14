@@ -9,4 +9,5 @@ format:
 - "podcast"
 subject: 
 - "cap theorum"
+featured: "n"
 ---

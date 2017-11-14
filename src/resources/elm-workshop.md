@@ -6,8 +6,9 @@ price:
 pricePerPeriod: 
 - "n/a"
 format: 
-- "download"
+- "project"
 - "tutorial"
 subject: 
 - "elm"
+featured: "n"
 ---

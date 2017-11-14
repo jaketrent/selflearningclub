@@ -13,4 +13,5 @@ subject:
 - "computer science"
 - "architecture"
 - "algorithms"
+featured: "n"
 ---

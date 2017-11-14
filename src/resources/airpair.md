@@ -6,8 +6,6 @@ price:
 pricePerPeriod: 
 - "n/a"
 format: 
-- "tutorial"
-- "article"
 - "example"
 subject: 
 - "python"
@@ -15,4 +13,5 @@ subject:
 - "react"
 - "php"
 - "swift"
+featured: "n"
 ---

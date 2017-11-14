@@ -7,8 +7,8 @@ pricePerPeriod:
 - "n/a"
 format: 
 - "interactive"
-- "code"
 subject: 
 - "flexbox"
 - "css"
+featured: "n"
 ---

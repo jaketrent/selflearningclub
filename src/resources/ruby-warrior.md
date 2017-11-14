@@ -7,7 +7,7 @@ pricePerPeriod:
 - "n/a"
 format: 
 - "interactive"
-- "code"
 subject: 
 - "ruby"
+featured: "y"
 ---

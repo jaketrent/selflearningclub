@@ -9,4 +9,5 @@ format:
 - "ebook"
 subject: 
 - "functional programming"
+featured: "n"
 ---

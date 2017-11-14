@@ -7,7 +7,6 @@ pricePerPeriod:
 - "n/a"
 format: 
 - "example"
-- "code"
 subject: 
 - "c"
 - "elixir"
@@ -15,4 +14,5 @@ subject:
 - "ruby"
 - "python"
 - "javascript"
+featured: "y"
 ---

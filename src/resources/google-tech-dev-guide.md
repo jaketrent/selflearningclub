@@ -6,8 +6,9 @@ price:
 pricePerPeriod: 
 - "n/a"
 format: 
-- "exercise"
+- "challenge"
 - "example"
 subject: 
 - "java"
+featured: "n"
 ---

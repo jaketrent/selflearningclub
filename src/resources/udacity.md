@@ -8,9 +8,9 @@ pricePerPeriod:
 format: 
 - "course"
 - "code"
-- "project"
 subject: 
 - "data analytics"
 - "programming"
 - "react"
+featured: "n"
 ---

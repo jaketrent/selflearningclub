@@ -7,7 +7,7 @@ pricePerPeriod:
 - "n/a"
 format: 
 - "video"
-- "activity"
 subject: 
 - "computer science"
+featured: "n"
 ---

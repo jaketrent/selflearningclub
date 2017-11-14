@@ -6,8 +6,9 @@ price:
 pricePerPeriod: 
 - "n/a"
 format: 
-- "download"
-- "document"
+- "project"
+- "documentation"
 subject: 
 - "screencast"
+featured: "n"
 ---

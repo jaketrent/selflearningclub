@@ -7,7 +7,7 @@ pricePerPeriod:
 - "n/a"
 format: 
 - "download"
-- "code"
 subject: 
 - "react"
+featured: "n"
 ---

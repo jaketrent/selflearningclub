@@ -9,4 +9,5 @@ format:
 - "video"
 subject: 
 - "rails"
+featured: "n"
 ---

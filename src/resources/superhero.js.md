@@ -6,9 +6,9 @@ price:
 pricePerPeriod: 
 - "n/a"
 format: 
-- "blog"
-- "reference"
+- "resource"
 subject: 
 - "javascript"
 - "dom"
+featured: "n"
 ---

@@ -6,8 +6,9 @@ price:
 pricePerPeriod: 
 - "n/a"
 format: 
-- "download"
-- "interactive"
+- "project"
+- "tutorial"
 subject: 
 - "r"
+featured: "n"
 ---

@@ -7,9 +7,10 @@ pricePerPeriod:
 - "n/a"
 format: 
 - "tutorial"
-- "document"
-- "exercise"
-- "reference"
+- "documentation"
+- "challenge"
+- "resource"
 subject: 
 - "clojure"
+featured: "n"
 ---

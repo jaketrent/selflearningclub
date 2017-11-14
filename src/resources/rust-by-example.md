@@ -9,4 +9,5 @@ format:
 - "ebook"
 subject: 
 - "rust"
+featured: "n"
 ---

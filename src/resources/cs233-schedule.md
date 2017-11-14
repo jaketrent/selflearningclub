@@ -8,7 +8,7 @@ pricePerPeriod:
 format: 
 - "tutorial"
 - "example"
-- "code"
 subject: 
 - "elm"
+featured: "n"
 ---

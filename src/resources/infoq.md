@@ -11,4 +11,5 @@ subject:
 - "data science"
 - "machine learning"
 - "devops"
+featured: "n"
 ---

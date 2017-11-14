@@ -12,4 +12,5 @@ format:
 subject: 
 - "css"
 - "animation"
+featured: "n"
 ---

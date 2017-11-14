@@ -7,8 +7,9 @@ pricePerPeriod:
 - "n/a"
 format: 
 - "blog"
-- "reference"
+- "resource"
 subject: 
 - "ux"
 - "user experience"
+featured: "n"
 ---

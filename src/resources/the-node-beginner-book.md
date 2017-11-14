@@ -9,4 +9,5 @@ format:
 - "ebook"
 subject: 
 - "node"
+featured: "n"
 ---

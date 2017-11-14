@@ -7,10 +7,11 @@ pricePerPeriod:
 - "n/a"
 format: 
 - "course"
-- "quiz"
+- "interactive"
 - "video"
 subject: 
 - "math"
 - "science"
 - "english"
+featured: "n"
 ---

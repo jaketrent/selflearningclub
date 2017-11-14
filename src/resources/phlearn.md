@@ -7,8 +7,8 @@ pricePerPeriod:
 - "n/a"
 format: 
 - "video"
-- "download"
 - "project"
 subject: 
 - "photoshop"
+featured: "n"
 ---

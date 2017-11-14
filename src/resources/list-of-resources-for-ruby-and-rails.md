@@ -6,10 +6,9 @@ price:
 pricePerPeriod: 
 - "n/a"
 format: 
-- "tutorial"
-- "course"
-- "video"
+- "resource"
 subject: 
 - "ruby"
 - "rails"
+featured: "n"
 ---

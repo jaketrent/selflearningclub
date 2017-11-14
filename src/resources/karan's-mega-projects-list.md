@@ -7,9 +7,9 @@ pricePerPeriod:
 - "n/a"
 format: 
 - "project"
-- "idea"
 subject: 
 - "idea"
 - "pythin"
 - "c++"
+featured: "n"
 ---

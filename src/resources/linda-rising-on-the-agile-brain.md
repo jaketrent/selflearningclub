@@ -9,4 +9,5 @@ format:
 - "podcast"
 subject: 
 - "agile"
+featured: "n"
 ---

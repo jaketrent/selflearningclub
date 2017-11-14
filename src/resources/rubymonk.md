@@ -9,4 +9,5 @@ format:
 - "course"
 subject: 
 - "ruby"
+featured: "n"
 ---

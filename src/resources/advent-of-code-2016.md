@@ -8,7 +8,8 @@ pricePerPeriod:
 format: 
 - "interactive"
 - "code"
-- "practice"
+- "challenge"
 subject: 
 - "puzzle"
+featured: "n"
 ---

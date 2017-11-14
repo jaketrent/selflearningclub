@@ -7,8 +7,9 @@ pricePerPeriod:
 - "n/a"
 format: 
 - "video"
-- "talks"
+- "resource"
 subject: 
 - "database"
 - "java"
+featured: "n"
 ---

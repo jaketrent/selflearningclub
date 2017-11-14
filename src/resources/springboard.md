@@ -14,4 +14,5 @@ subject:
 - "user experience"
 - "ux"
 - "data science"
+featured: "y"
 ---

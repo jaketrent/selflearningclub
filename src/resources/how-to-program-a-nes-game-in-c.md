@@ -12,4 +12,5 @@ subject:
 - "nes"
 - "c"
 - "game"
+featured: "n"
 ---

@@ -7,9 +7,9 @@ pricePerPeriod:
 - "n/a"
 format: 
 - "ebook"
-- "document"
-- "code"
+- "documentation"
 subject: 
 - "css"
 - "html"
+featured: "y"
 ---

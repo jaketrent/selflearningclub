@@ -7,8 +7,9 @@ pricePerPeriod:
 - "n/a"
 format: 
 - "ebook"
-- "library"
+- "resource"
 subject: 
 - "library"
 - "programming"
+featured: "n"
 ---

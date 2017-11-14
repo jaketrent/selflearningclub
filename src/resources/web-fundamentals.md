@@ -14,4 +14,5 @@ subject:
 - "design"
 - "ui"
 - "architecture"
+featured: "n"
 ---

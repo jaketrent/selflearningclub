@@ -12,4 +12,5 @@ subject:
 - "python"
 - "ruby"
 - "database"
+featured: "n"
 ---

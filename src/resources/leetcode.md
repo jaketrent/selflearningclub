@@ -7,7 +7,6 @@ pricePerPeriod:
 - "n/a"
 format: 
 - "interactive"
-- "practice"
 - "challenge"
 subject: 
 - "c"
@@ -17,4 +16,5 @@ subject:
 - "go"
 - "swift"
 - "javascript"
+featured: "n"
 ---

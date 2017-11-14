@@ -7,8 +7,8 @@ pricePerPeriod:
 - "n/a"
 format: 
 - "ebook"
-- "document"
-- "code"
+- "documentation"
 subject: 
 - "elm"
+featured: "n"
 ---

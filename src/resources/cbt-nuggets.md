@@ -7,10 +7,11 @@ pricePerPeriod:
 - "monthly"
 format: 
 - "video"
-- "quiz"
+- "interactive"
 - "lab"
 subject: 
 - "microsoft"
 - "it security"
 - "amazon web services"
+featured: "n"
 ---

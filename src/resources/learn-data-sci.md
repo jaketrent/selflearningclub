@@ -9,4 +9,5 @@ format:
 - "ebook"
 subject: 
 - "data science"
+featured: "n"
 ---

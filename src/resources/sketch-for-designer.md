@@ -7,8 +7,9 @@ pricePerPeriod:
 - "n/a"
 format: 
 - "example"
-- "reference"
+- "resource"
 subject: 
 - "sketch"
 - "design"
+featured: "n"
 ---

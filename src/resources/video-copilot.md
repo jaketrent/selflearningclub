@@ -12,4 +12,5 @@ format:
 subject: 
 - "video editing"
 - "after effects"
+featured: "y"
 ---

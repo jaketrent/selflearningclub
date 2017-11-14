@@ -7,9 +7,9 @@ pricePerPeriod:
 - "n/a"
 format: 
 - "resource"
-- "reference"
 - "podcast"
 - "tutorial"
 subject: 
 - "vue.js"
+featured: "n"
 ---

@@ -8,7 +8,7 @@ pricePerPeriod:
 format: 
 - "tutorial"
 - "example"
-- "code"
 subject: 
 - "webrtc"
+featured: "n"
 ---

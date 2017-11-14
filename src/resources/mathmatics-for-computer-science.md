@@ -10,4 +10,5 @@ format:
 subject: 
 - "computer science"
 - "math"
+featured: "n"
 ---

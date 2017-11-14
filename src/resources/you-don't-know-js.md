@@ -10,4 +10,5 @@ format:
 - "video"
 subject: 
 - "javascript"
+featured: "n"
 ---

@@ -6,10 +6,10 @@ price:
 pricePerPeriod: 
 - "n/a"
 format: 
-- "code"
 - "example"
 - "interactive"
 subject: 
 - "react"
 - "native"
+featured: "n"
 ---

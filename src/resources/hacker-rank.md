@@ -7,7 +7,6 @@ pricePerPeriod:
 - "n/a"
 format: 
 - "interactive"
-- "practice"
 - "challenge"
 subject: 
 - "c++"
@@ -15,4 +14,5 @@ subject:
 - "python"
 - "ruby"
 - "functional"
+featured: "y"
 ---

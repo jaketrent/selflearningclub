@@ -9,4 +9,5 @@ format:
 - "ebook"
 subject: 
 - "software structure"
+featured: "n"
 ---

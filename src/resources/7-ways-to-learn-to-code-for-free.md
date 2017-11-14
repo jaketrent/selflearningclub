@@ -6,9 +6,10 @@ price:
 pricePerPeriod: 
 - "n/a"
 format: 
-- "reference"
+- "resource"
 subject: 
 - "html"
 - "javascript"
 - "ruby"
+featured: "n"
 ---

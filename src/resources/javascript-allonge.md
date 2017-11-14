@@ -10,4 +10,5 @@ format:
 subject: 
 - "javascript"
 - "es6"
+featured: "n"
 ---

@@ -8,10 +8,10 @@ pricePerPeriod:
 format: 
 - "tutorial"
 - "example"
-- "document"
-- "code"
+- "documentation"
 subject: 
 - "html"
 - "css"
 - "javascript"
+featured: "n"
 ---

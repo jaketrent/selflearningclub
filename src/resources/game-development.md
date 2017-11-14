@@ -7,7 +7,8 @@ pricePerPeriod:
 - "n/a"
 format: 
 - "resource"
-- "download"
+- "project"
 subject: 
 - "game development"
+featured: "n"
 ---

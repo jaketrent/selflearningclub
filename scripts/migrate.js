@@ -9,6 +9,7 @@ const nameColumns = line => ({
   pricePerPeriod: line[3],
   format: line[4],
   subjects: line[5],
+  featured: line[6]
 })
 
 const seperateParts = line => Object.assign({}, line, {
@@ -29,6 +30,7 @@ price: ${line.diffPrice}
 pricePerPeriod: ${line.diffPricePerPeriod}
 format: ${line.diffFormat}
 subject: ${line.tags}
+featured: "${line.featured}"
 ---
 `})
 const writeFiles = line => fs.writeFileSync(line.fileName, line.fileContents)

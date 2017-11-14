@@ -7,7 +7,6 @@ pricePerPeriod:
 - "n/a"
 format: 
 - "interactive"
-- "code"
 - "challenge"
 subject: 
 - "c++"
@@ -17,4 +16,5 @@ subject:
 - "swift"
 - "haskell"
 - "php"
+featured: "y"
 ---

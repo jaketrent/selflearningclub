@@ -10,4 +10,5 @@ format:
 subject: 
 - "lisp"
 - "logo"
+featured: "n"
 ---

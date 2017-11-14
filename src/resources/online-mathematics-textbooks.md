@@ -9,4 +9,5 @@ format:
 - "ebook"
 subject: 
 - "math"
+featured: "n"
 ---

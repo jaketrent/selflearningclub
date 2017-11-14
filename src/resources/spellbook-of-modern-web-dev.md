@@ -6,9 +6,10 @@ price:
 pricePerPeriod: 
 - "n/a"
 format: 
-- "reference"
+- "resource"
 subject: 
 - "css"
 - "node"
 - "next"
+featured: "n"
 ---

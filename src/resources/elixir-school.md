@@ -7,8 +7,8 @@ pricePerPeriod:
 - "n/a"
 format: 
 - "example"
-- "code"
 - "ebook"
 subject: 
 - "elixir"
+featured: "n"
 ---

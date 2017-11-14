@@ -7,8 +7,8 @@ pricePerPeriod:
 - "n/a"
 format: 
 - "interactive"
-- "quiz"
 - "example"
 subject: 
 - "algorithms"
+featured: "n"
 ---

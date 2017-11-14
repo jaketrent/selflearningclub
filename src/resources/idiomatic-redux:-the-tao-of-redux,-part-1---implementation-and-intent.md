@@ -7,7 +7,8 @@ pricePerPeriod:
 - "n/a"
 format: 
 - "blog"
-- "reference"
+- "resource"
 subject: 
 - "redux"
+featured: "n"
 ---

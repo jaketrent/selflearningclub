@@ -7,8 +7,9 @@ pricePerPeriod:
 - "n/a"
 format: 
 - "tutorial"
-- "document"
+- "documentation"
 - "example"
 subject: 
 - "docker"
+featured: "n"
 ---

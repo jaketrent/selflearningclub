@@ -10,4 +10,5 @@ format:
 subject: 
 - "javascript"
 - "node"
+featured: "n"
 ---

@@ -6,9 +6,8 @@ price:
 pricePerPeriod: 
 - "n/a"
 format: 
-- "reference"
 - "resource"
-- "article"
 subject: 
 - "web development"
+featured: "n"
 ---

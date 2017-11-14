@@ -7,11 +7,11 @@ pricePerPeriod:
 - "n/a"
 format: 
 - "tutorial"
-- "code"
 - "course"
 subject: 
 - "javascript"
 - "react"
 - "node"
 - "python"
+featured: "n"
 ---

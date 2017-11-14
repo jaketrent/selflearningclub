@@ -12,4 +12,5 @@ format:
 subject: 
 - "react"
 - "javascript"
+featured: "n"
 ---

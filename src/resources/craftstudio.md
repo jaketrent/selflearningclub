@@ -6,7 +6,8 @@ price:
 pricePerPeriod: 
 - "n/a"
 format: 
-- "download"
+- "tool"
 subject: 
 - "gaming"
+featured: "n"
 ---

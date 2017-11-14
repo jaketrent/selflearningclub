@@ -6,8 +6,8 @@ price:
 pricePerPeriod: 
 - "n/a"
 format: 
-- "article"
 - "example"
 subject: 
 - "webGL"
+featured: "n"
 ---

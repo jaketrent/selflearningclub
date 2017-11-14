@@ -7,7 +7,7 @@ pricePerPeriod:
 - "n/a"
 format: 
 - "example"
-- "code"
 subject: 
 - "regex"
+featured: "n"
 ---

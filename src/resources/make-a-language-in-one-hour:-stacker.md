@@ -9,4 +9,5 @@ format:
 - "ebook"
 subject: 
 - "language"
+featured: "n"
 ---

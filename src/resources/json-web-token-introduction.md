@@ -6,7 +6,8 @@ price:
 pricePerPeriod: 
 - "n/a"
 format: 
-- "document"
+- "documentation"
 subject: 
 - "json web token"
+featured: "n"
 ---

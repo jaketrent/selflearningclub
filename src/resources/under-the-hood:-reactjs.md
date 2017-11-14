@@ -6,8 +6,9 @@ price:
 pricePerPeriod: 
 - "n/a"
 format: 
-- "document"
+- "documentation"
 - "example"
 subject: 
 - "react"
+featured: "n"
 ---

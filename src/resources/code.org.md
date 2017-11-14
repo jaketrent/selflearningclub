@@ -12,4 +12,5 @@ format:
 subject: 
 - "coding"
 - "computer science"
+featured: "n"
 ---

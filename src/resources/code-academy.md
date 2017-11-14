@@ -10,7 +10,6 @@ pricePerPeriod:
 format: 
 - "course"
 - "interactive"
-- "code"
 subject: 
 - "html"
 - "css"
@@ -21,4 +20,5 @@ subject:
 - "ruby"
 - "javascript"
 - "angular"
+featured: "n"
 ---
