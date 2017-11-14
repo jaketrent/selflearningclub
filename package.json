@@ -20,6 +20,7 @@
     "develop": "gatsby develop",
     "format": "prettier --trailing-comma es5 --no-semi --single-quote --write 'src/**/*.js'",
     "migrate": "node scripts/migrate",
+    "deploy": "gatsby build && gatsby export -o docs && git checkout -- docs/CNAME && git add docs && git commit -m \"chore: regen site\" && git push origin master",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "devDependencies": {
