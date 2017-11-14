@@ -10,5 +10,5 @@ format:
 - "resource"
 subject: 
 - "redux"
-featured: "n"
+featured: "n"
 ---

@@ -10,5 +10,5 @@ format:
 - "video"
 subject: 
 - "react"
-featured: "n"
+featured: "n"
 ---

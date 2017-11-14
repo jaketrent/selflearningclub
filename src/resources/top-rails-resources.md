@@ -10,5 +10,5 @@ format:
 subject: 
 - "rails"
 - "ruby"
-featured: "n"
+featured: "n"
 ---

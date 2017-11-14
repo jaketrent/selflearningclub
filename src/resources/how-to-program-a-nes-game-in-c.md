@@ -12,5 +12,5 @@ subject:
 - "nes"
 - "c"
 - "game"
-featured: "n"
+featured: "n"
 ---

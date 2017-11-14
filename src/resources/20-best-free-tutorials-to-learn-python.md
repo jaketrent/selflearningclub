@@ -9,5 +9,5 @@ format:
 - "resource"
 subject: 
 - "python"
-featured: "n"
+featured: "n"
 ---

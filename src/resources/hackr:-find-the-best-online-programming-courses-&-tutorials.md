@@ -17,5 +17,5 @@ subject:
 - "javascript"
 - "photoshop"
 - "unity"
-featured: "n"
+featured: "n"
 ---

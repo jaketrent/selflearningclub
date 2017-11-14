@@ -9,5 +9,5 @@ format:
 - "blog"
 subject: 
 - "pluralsight"
-featured: "n"
+featured: "n"
 ---

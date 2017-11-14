@@ -9,5 +9,5 @@ format:
 - "interactive"
 subject: 
 - "ruby"
-featured: "y"
+featured: "y"
 ---

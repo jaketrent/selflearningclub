@@ -9,5 +9,5 @@ format:
 - "example"
 subject: 
 - "scala"
-featured: "n"
+featured: "n"
 ---

@@ -15,5 +15,5 @@ subject:
 - "mysql"
 - "seo"
 - "php"
-featured: "n"
+featured: "n"
 ---

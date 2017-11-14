@@ -9,5 +9,5 @@ format:
 - "ebook"
 subject: 
 - "rust"
-featured: "n"
+featured: "n"
 ---

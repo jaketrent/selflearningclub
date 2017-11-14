@@ -13,5 +13,5 @@ subject:
 - "react"
 - "node"
 - "python"
-featured: "n"
+featured: "n"
 ---

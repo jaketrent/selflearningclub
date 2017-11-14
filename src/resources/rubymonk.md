@@ -9,5 +9,5 @@ format:
 - "course"
 subject: 
 - "ruby"
-featured: "n"
+featured: "n"
 ---

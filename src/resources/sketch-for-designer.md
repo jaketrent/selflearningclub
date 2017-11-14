@@ -11,5 +11,5 @@ format:
 subject: 
 - "sketch"
 - "design"
-featured: "n"
+featured: "n"
 ---

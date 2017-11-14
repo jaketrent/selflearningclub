@@ -9,5 +9,5 @@ format:
 - "ebook"
 subject: 
 - "ruby"
-featured: "n"
+featured: "n"
 ---

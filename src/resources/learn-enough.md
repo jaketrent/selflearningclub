@@ -12,5 +12,5 @@ subject:
 - "html"
 - "css"
 - "cl"
-featured: "y"
+featured: "y"
 ---

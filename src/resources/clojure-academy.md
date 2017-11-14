@@ -10,5 +10,5 @@ format:
 - "course"
 subject: 
 - "clojure"
-featured: "n"
+featured: "n"
 ---

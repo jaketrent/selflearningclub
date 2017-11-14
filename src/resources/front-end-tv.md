@@ -10,5 +10,5 @@ format:
 subject: 
 - "javascript"
 - "node"
-featured: "n"
+featured: "n"
 ---

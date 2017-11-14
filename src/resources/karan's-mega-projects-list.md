@@ -11,5 +11,5 @@ subject:
 - "idea"
 - "pythin"
 - "c++"
-featured: "n"
+featured: "n"
 ---

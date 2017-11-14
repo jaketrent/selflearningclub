@@ -10,5 +10,5 @@ format:
 - "video"
 subject: 
 - "elm"
-featured: "n"
+featured: "n"
 ---

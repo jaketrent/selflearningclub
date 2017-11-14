@@ -9,5 +9,5 @@ format:
 - "ebook"
 subject: 
 - "networking"
-featured: "n"
+featured: "n"
 ---

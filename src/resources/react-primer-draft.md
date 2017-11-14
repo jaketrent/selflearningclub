@@ -10,5 +10,5 @@ format:
 - "example"
 subject: 
 - "react"
-featured: "n"
+featured: "n"
 ---

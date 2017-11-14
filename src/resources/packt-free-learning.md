@@ -11,5 +11,5 @@ subject:
 - "java"
 - "python"
 - "angular"
-featured: "n"
+featured: "n"
 ---

@@ -10,5 +10,5 @@ format:
 - "tutorial"
 subject: 
 - "r"
-featured: "n"
+featured: "n"
 ---

@@ -11,5 +11,5 @@ subject:
 - "html"
 - "javascript"
 - "ruby"
-featured: "n"
+featured: "n"
 ---

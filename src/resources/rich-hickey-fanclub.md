@@ -11,5 +11,5 @@ format:
 subject: 
 - "database"
 - "java"
-featured: "n"
+featured: "n"
 ---

@@ -12,5 +12,5 @@ subject:
 - "php"
 - "go"
 - ".net"
-featured: "n"
+featured: "n"
 ---

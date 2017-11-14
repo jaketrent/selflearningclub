@@ -9,5 +9,5 @@ format:
 - "video"
 subject: 
 - "scalability"
-featured: "n"
+featured: "n"
 ---

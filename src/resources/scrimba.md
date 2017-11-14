@@ -10,5 +10,5 @@ format:
 - "documentation"
 subject: 
 - "screencast"
-featured: "n"
+featured: "n"
 ---

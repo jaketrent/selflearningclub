@@ -11,5 +11,5 @@ format:
 subject: 
 - "git"
 - "api"
-featured: "n"
+featured: "n"
 ---

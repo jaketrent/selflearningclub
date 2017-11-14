@@ -9,5 +9,5 @@ format:
 - "ebook"
 subject: 
 - "haskell"
-featured: "n"
+featured: "n"
 ---

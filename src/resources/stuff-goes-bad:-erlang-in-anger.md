@@ -9,5 +9,5 @@ format:
 - "ebook"
 subject: 
 - "erlang"
-featured: "n"
+featured: "n"
 ---

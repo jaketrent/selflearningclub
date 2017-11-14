@@ -10,5 +10,5 @@ format:
 subject: 
 - "data science"
 - "machine learning"
-featured: "n"
+featured: "n"
 ---

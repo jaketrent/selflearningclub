@@ -9,5 +9,5 @@ format:
 - "email"
 subject: 
 - "d3"
-featured: "n"
+featured: "n"
 ---

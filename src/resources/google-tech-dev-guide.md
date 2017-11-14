@@ -10,5 +10,5 @@ format:
 - "example"
 subject: 
 - "java"
-featured: "n"
+featured: "n"
 ---

@@ -12,5 +12,5 @@ format:
 - "example"
 subject: 
 - "javascript"
-featured: "n"
+featured: "n"
 ---

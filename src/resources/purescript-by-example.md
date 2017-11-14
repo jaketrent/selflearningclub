@@ -10,5 +10,5 @@ format:
 subject: 
 - "javascript"
 - "purescript"
-featured: "n"
+featured: "n"
 ---

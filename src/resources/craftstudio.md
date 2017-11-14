@@ -9,5 +9,5 @@ format:
 - "tool"
 subject: 
 - "gaming"
-featured: "n"
+featured: "n"
 ---

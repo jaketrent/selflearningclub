@@ -10,5 +10,5 @@ format:
 - "example"
 subject: 
 - "elm"
-featured: "n"
+featured: "n"
 ---

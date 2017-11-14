@@ -10,5 +10,5 @@ format:
 - "project"
 subject: 
 - "everything"
-featured: "n"
+featured: "n"
 ---

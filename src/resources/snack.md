@@ -11,5 +11,5 @@ format:
 subject: 
 - "react"
 - "native"
-featured: "n"
+featured: "n"
 ---

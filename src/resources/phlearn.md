@@ -10,5 +10,5 @@ format:
 - "project"
 subject: 
 - "photoshop"
-featured: "n"
+featured: "n"
 ---

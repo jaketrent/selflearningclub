@@ -10,5 +10,5 @@ format:
 - "example"
 subject: 
 - "algorithms"
-featured: "n"
+featured: "n"
 ---

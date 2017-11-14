@@ -11,5 +11,5 @@ format:
 subject: 
 - "security"
 - "hacking"
-featured: "n"
+featured: "n"
 ---

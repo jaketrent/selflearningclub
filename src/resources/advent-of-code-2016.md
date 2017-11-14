@@ -11,5 +11,5 @@ format:
 - "challenge"
 subject: 
 - "puzzle"
-featured: "n"
+featured: "n"
 ---

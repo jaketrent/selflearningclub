@@ -12,5 +12,5 @@ subject:
 - "javascript"
 - "full stack"
 - "web development"
-featured: "n"
+featured: "n"
 ---

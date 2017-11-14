@@ -13,5 +13,5 @@ subject:
 - "javascript"
 - "electron"
 - "angular"
-featured: "n"
+featured: "n"
 ---

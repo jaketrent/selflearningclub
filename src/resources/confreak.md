@@ -13,5 +13,5 @@ subject:
 - "ember"
 - "golang"
 - "elixir"
-featured: "n"
+featured: "n"
 ---

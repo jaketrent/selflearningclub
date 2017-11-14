@@ -30,7 +30,7 @@ price: ${line.diffPrice}
 pricePerPeriod: ${line.diffPricePerPeriod}
 format: ${line.diffFormat}
 subject: ${line.tags}
-featured: "${line.featured}"
+featured: "${line.featured.trim()}"
 ---
 `})
 const writeFiles = line => fs.writeFileSync(line.fileName, line.fileContents)

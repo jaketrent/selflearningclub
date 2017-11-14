@@ -9,5 +9,5 @@ format:
 - "documentation"
 subject: 
 - "json web token"
-featured: "n"
+featured: "n"
 ---

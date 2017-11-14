@@ -9,5 +9,5 @@ format:
 - "video"
 subject: 
 - "dance"
-featured: "n"
+featured: "n"
 ---

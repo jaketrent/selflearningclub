@@ -14,5 +14,5 @@ subject:
 - "python"
 - "ruby"
 - "functional"
-featured: "y"
+featured: "y"
 ---

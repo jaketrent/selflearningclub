@@ -11,5 +11,5 @@ subject:
 - "web"
 - "front-end"
 - "javascript"
-featured: "n"
+featured: "n"
 ---

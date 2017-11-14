@@ -10,5 +10,5 @@ format:
 - "course"
 subject: 
 - "rails"
-featured: "n"
+featured: "n"
 ---

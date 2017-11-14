@@ -15,5 +15,5 @@ subject:
 - "css"
 - "javascript"
 - "python"
-featured: "n"
+featured: "n"
 ---

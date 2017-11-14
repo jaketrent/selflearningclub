@@ -10,5 +10,5 @@ format:
 subject: 
 - "flexbox"
 - "css"
-featured: "n"
+featured: "n"
 ---

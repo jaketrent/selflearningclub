@@ -16,5 +16,5 @@ subject:
 - "debugging"
 - "css"
 - "javascript"
-featured: "n"
+featured: "n"
 ---

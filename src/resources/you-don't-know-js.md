@@ -10,5 +10,5 @@ format:
 - "video"
 subject: 
 - "javascript"
-featured: "n"
+featured: "n"
 ---

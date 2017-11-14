@@ -10,5 +10,5 @@ format:
 subject: 
 - "coding"
 - "kids"
-featured: "n"
+featured: "n"
 ---

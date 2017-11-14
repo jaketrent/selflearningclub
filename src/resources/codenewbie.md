@@ -12,5 +12,5 @@ subject:
 - "javascript"
 - "code"
 - "creating"
-featured: "n"
+featured: "n"
 ---

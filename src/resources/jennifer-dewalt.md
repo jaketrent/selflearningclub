@@ -12,5 +12,5 @@ subject:
 - "css"
 - "javascript"
 - "rails"
-featured: "n"
+featured: "n"
 ---

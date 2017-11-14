@@ -13,5 +13,5 @@ subject:
 - "html"
 - "css"
 - "javascript"
-featured: "n"
+featured: "n"
 ---

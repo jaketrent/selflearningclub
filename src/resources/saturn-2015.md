@@ -10,5 +10,5 @@ format:
 subject: 
 - "software"
 - "software architecture"
-featured: "n"
+featured: "n"
 ---

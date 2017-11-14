@@ -9,5 +9,5 @@ format:
 - "ebook"
 subject: 
 - "lisp"
-featured: "n"
+featured: "n"
 ---

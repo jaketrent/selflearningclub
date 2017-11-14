@@ -11,5 +11,5 @@ format:
 - "example"
 subject: 
 - "docker"
-featured: "n"
+featured: "n"
 ---

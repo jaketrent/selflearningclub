@@ -20,5 +20,5 @@ subject:
 - "ruby"
 - "javascript"
 - "angular"
-featured: "n"
+featured: "n"
 ---

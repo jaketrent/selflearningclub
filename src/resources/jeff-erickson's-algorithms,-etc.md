@@ -9,5 +9,5 @@ format:
 - "ebook"
 subject: 
 - "algorithms"
-featured: "n"
+featured: "n"
 ---

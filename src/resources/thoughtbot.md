@@ -14,5 +14,5 @@ subject:
 - "git"
 - "vim"
 - "javascript"
-featured: "n"
+featured: "n"
 ---

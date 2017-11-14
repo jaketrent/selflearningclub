@@ -9,5 +9,5 @@ format:
 - "example"
 subject: 
 - "go"
-featured: "n"
+featured: "n"
 ---

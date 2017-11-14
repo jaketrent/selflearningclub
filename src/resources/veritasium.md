@@ -10,5 +10,5 @@ format:
 subject: 
 - "science"
 - "physics"
-featured: "n"
+featured: "n"
 ---

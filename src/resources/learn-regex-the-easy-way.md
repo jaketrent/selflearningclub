@@ -9,5 +9,5 @@ format:
 - "example"
 subject: 
 - "regex"
-featured: "n"
+featured: "n"
 ---

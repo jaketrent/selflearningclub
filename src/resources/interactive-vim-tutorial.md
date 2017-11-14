@@ -10,5 +10,5 @@ format:
 - "tutorial"
 subject: 
 - "vim"
-featured: "n"
+featured: "n"
 ---

@@ -10,5 +10,5 @@ format:
 - "example"
 subject: 
 - "lisp"
-featured: "n"
+featured: "n"
 ---

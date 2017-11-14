@@ -11,5 +11,5 @@ subject:
 - "css"
 - "node"
 - "next"
-featured: "n"
+featured: "n"
 ---

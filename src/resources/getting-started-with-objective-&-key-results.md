@@ -9,5 +9,5 @@ format:
 - "ebook"
 subject: 
 - "okrs"
-featured: "n"
+featured: "n"
 ---

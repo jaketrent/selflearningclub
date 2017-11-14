@@ -11,5 +11,5 @@ format:
 - "tutorial"
 subject: 
 - "vue.js"
-featured: "n"
+featured: "n"
 ---

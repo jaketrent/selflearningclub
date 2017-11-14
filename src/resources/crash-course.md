@@ -14,5 +14,5 @@ subject:
 - "history"
 - "economics"
 - "psychology"
-featured: "y"
+featured: "y"
 ---

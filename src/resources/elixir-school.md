@@ -10,5 +10,5 @@ format:
 - "ebook"
 subject: 
 - "elixir"
-featured: "n"
+featured: "n"
 ---

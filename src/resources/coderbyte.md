@@ -14,5 +14,5 @@ subject:
 - "c++"
 - "ruby"
 - "php"
-featured: "n"
+featured: "n"
 ---

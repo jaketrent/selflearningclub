@@ -13,5 +13,5 @@ subject:
 - "html"
 - "python"
 - "node"
-featured: "n"
+featured: "n"
 ---

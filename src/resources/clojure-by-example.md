@@ -9,5 +9,5 @@ format:
 - "example"
 subject: 
 - "clojure"
-featured: "n"
+featured: "n"
 ---

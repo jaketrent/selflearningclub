@@ -11,5 +11,5 @@ format:
 subject: 
 - "css"
 - "html"
-featured: "y"
+featured: "y"
 ---

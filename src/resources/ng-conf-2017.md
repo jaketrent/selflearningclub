@@ -9,5 +9,5 @@ format:
 - "video"
 subject: 
 - "angular"
-featured: "n"
+featured: "n"
 ---

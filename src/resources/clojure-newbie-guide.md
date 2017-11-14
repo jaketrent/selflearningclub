@@ -12,5 +12,5 @@ format:
 - "resource"
 subject: 
 - "clojure"
-featured: "n"
+featured: "n"
 ---

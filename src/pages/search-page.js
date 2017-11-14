@@ -174,7 +174,7 @@ class SearchPage extends React.Component {
 }
 
 export const query = graphql`
-  query IndexQuery {
+  query FilterQuery {
     allMarkdownRemark {
       totalCount
       edges {
@@ -189,6 +189,7 @@ export const query = graphql`
             pricePerPeriod
             format
             subject
+            featured
           }
         }
       }

@@ -9,5 +9,5 @@ format:
 - "ebook"
 subject: 
 - "clojurescript"
-featured: "n"
+featured: "n"
 ---

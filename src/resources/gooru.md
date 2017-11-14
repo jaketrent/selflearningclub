@@ -12,5 +12,5 @@ subject:
 - "math"
 - "social science"
 - "english"
-featured: "n"
+featured: "n"
 ---

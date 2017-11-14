@@ -12,5 +12,5 @@ subject:
 - "math"
 - "calculus"
 - "algebra"
-featured: "n"
+featured: "n"
 ---

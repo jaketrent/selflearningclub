@@ -9,5 +9,5 @@ format:
 - "website"
 subject: 
 - "website"
-featured: "n"
+featured: "n"
 ---

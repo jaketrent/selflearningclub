@@ -16,5 +16,5 @@ subject:
 - "go"
 - "swift"
 - "javascript"
-featured: "y"
+featured: "y"
 ---

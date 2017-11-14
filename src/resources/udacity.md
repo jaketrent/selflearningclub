@@ -12,5 +12,5 @@ subject:
 - "data analytics"
 - "programming"
 - "react"
-featured: "n"
+featured: "n"
 ---

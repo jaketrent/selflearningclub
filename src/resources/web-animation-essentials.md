@@ -12,5 +12,5 @@ format:
 subject: 
 - "css"
 - "animation"
-featured: "n"
+featured: "n"
 ---

@@ -11,5 +11,5 @@ format:
 subject: 
 - "javascript"
 - "debugging"
-featured: "n"
+featured: "n"
 ---

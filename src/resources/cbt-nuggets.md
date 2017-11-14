@@ -13,5 +13,5 @@ subject:
 - "microsoft"
 - "it security"
 - "amazon web services"
-featured: "n"
+featured: "n"
 ---

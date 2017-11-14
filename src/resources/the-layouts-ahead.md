@@ -9,5 +9,5 @@ format:
 - "example"
 subject: 
 - "css"
-featured: "n"
+featured: "n"
 ---

@@ -9,5 +9,5 @@ format:
 - "example"
 subject: 
 - "webGL"
-featured: "n"
+featured: "n"
 ---

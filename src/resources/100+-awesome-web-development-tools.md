@@ -9,5 +9,5 @@ format:
 - "resource"
 subject: 
 - "web development"
-featured: "n"
+featured: "n"
 ---

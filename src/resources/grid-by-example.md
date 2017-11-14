@@ -11,5 +11,5 @@ format:
 subject: 
 - "css"
 - "css grid"
-featured: "n"
+featured: "n"
 ---

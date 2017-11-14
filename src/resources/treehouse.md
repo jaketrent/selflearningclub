@@ -16,5 +16,5 @@ subject:
 - "design"
 - "database"
 - "android"
-featured: "n"
+featured: "n"
 ---

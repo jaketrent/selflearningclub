@@ -13,5 +13,5 @@ subject:
 - "math"
 - "science"
 - "english"
-featured: "n"
+featured: "n"
 ---

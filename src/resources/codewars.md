@@ -16,5 +16,5 @@ subject:
 - "swift"
 - "haskell"
 - "php"
-featured: "y"
+featured: "y"
 ---

@@ -9,5 +9,5 @@ format:
 - "video"
 subject: 
 - "computer science"
-featured: "n"
+featured: "n"
 ---

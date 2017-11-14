@@ -11,5 +11,5 @@ format:
 subject: 
 - "ux"
 - "user experience"
-featured: "n"
+featured: "n"
 ---
