@@ -1,6 +1,5 @@
 import React from 'react'
 import Link from 'gatsby-link'
-
 import styles from './search.module.css'
 
 const uniq = arr =>
@@ -16,7 +15,9 @@ class SearchPage extends React.Component {
     activeFormatNames: [],
     activePrices: [],
     activeSubjects: [],
+    searchValue: ''
   }
+
   toggleFormat = (isChecked, formatName) => {
     if (isChecked) {
       this.setState({
@@ -59,6 +60,10 @@ class SearchPage extends React.Component {
     }
   }
 
+  handleChange = (event) => {
+    this.setState({searchValue: event.target.value.toLowerCase()})
+  }
+
   render() {
     const { data } = this.props
     const formats = uniq(
@@ -73,7 +78,7 @@ class SearchPage extends React.Component {
         (acc, { node }) => acc.concat(node.frontmatter.subject),
         []
       )
-    ).filter(f => f)
+    ).filter(f => f.indexOf(this.state.searchValue) > -1)
 
     const nodes = data.allMarkdownRemark.edges
       .filter(
@@ -102,7 +107,8 @@ class SearchPage extends React.Component {
          subjectName =>
           this.state.activeSubjects.indexOf(subjectName) > -1
        )
-       : true)
+       : true
+      )
 
     return (
       <div>
@@ -124,6 +130,15 @@ class SearchPage extends React.Component {
                 onClick={evt => this.togglePrice(evt.target.checked, 'paid')}
               />{' '}
               Paid
+            </div>
+            <div className={styles.lhColSection}>
+              <input
+                type="search"
+                key="input"
+                placeholder="Search..."
+                onChange={this.handleChange}
+                value={this.state.searchValue}
+              />
             </div>
             <div className={styles.lhColSection}>
               {subjects.map(subjectName => (
@@ -163,7 +178,9 @@ class SearchPage extends React.Component {
           <div className={styles.rhCol}>
             {nodes.map(({ node }) => (
               <div key={node.fields.slug}>
-                <Link to={node.fields.slug}>{node.frontmatter.title}</Link>
+                <Link to={node.fields.slug}>
+                  {node.frontmatter.title}              
+                </Link>
               </div>
             ))}
           </div>
