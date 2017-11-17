@@ -78,7 +78,7 @@ class SearchPage extends React.Component {
         (acc, { node }) => acc.concat(node.frontmatter.subject),
         []
       )
-    ).filter(f => f.indexOf(this.state.searchValue) > -1)
+    ).filter(f => f.indexOf(this.state.searchValue) > -1 || this.state.activeSubjects.indexOf(f) > -1)
 
     const nodes = data.allMarkdownRemark.edges
       .filter(
