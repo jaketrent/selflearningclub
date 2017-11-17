@@ -73,12 +73,44 @@ class SearchPage extends React.Component {
       )
     ).filter(f => f)
 
-    const subjects = uniq(
+    const countedSubjects = data.allMarkdownRemark.edges.reduce(
+      (acc, { node }) => acc.concat(node.frontmatter.subject),
+      []
+    ).reduce((allSubjects, subjectName) => {
+      if (subjectName in allSubjects) {
+        allSubjects[subjectName]++
+      }
+      else {
+        allSubjects[subjectName] = 1;
+      }
+      return allSubjects
+    }, {})
+
+    // const topTenSubjects = Object.keys(countedSubjects).map(subjectName => {
+    //   return [subjectName, countedSubjects[subjectName]]
+    // }).sort(function (a, b){
+    //   if (a[1] > b[1]) {
+    //     return -1
+    //   }
+    //   if (a[1] < b[1]) {
+    //     return 1
+    //   }
+    //   return 0
+    // })
+    //const test = topTenSubjects.reduce( a,b => {a.concat(b)}, [])
+
+    const topTenSubjects = Object.entries(countedSubjects).sort(function (a, b){ return b[1] - a[1]}).splice(0, 10
+    ).reduce((a, b) => a.concat(b), []).filter( sub => typeof sub == "string")
+
+    const subjects = this.state.searchValue !== "" ? uniq(
       data.allMarkdownRemark.edges.reduce(
         (acc, { node }) => acc.concat(node.frontmatter.subject),
         []
       )
-    ).filter(f => f.indexOf(this.state.searchValue) > -1 || this.state.activeSubjects.indexOf(f) > -1)
+    ).filter(f => f.indexOf(this.state.searchValue) > -1 || this.state.activeSubjects.indexOf(f) > -1).splice(0, 10) :
+    topTenSubjects
+
+    
 
     const nodes = data.allMarkdownRemark.edges
       .filter(
@@ -109,9 +141,13 @@ class SearchPage extends React.Component {
        )
        : true
       )
+ 
+
+      
 
     return (
       <div>
+        {console.log(typeof topTenSubjects)}
         <h1>Hi people</h1>
         <div className={styles.cols}>
           <div className={styles.lhCol}>
