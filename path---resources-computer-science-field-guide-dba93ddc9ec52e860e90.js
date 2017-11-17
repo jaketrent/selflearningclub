@@ -1,0 +1,2 @@
+webpackJsonp([0xe29e0edd723],{498:function(e,t){e.exports={data:{markdownRemark:{frontmatter:{title:"Computer Science Field Guide",url:"http://www.csfieldguide.org.nz/",price:["0"],pricePerPeriod:["n/a"],format:["ebook","video"],subject:["human computer interaction"]}}},pathContext:{slug:"/resources/computer-science-field-guide/"}}}});
+//# sourceMappingURL=path---resources-computer-science-field-guide-dba93ddc9ec52e860e90.js.map

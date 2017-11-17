@@ -1,0 +1,2 @@
+webpackJsonp([0xe49b0b0bd024],{509:function(e,r){e.exports={data:{markdownRemark:{frontmatter:{title:"DailyDrip",url:"https://www.dailydrip.com/",price:["22"],pricePerPeriod:["monthly"],format:["video"],subject:["elm","elixir","ember","swift","react"]}}},pathContext:{slug:"/resources/dailydrip/"}}}});
+//# sourceMappingURL=path---resources-dailydrip-2c1f37dc554a2d5aca6c.js.map

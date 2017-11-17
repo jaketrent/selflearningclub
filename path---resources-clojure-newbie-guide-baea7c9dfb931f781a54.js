@@ -1,0 +1,2 @@
+webpackJsonp([0xcc639e07bb25],{489:function(e,r){e.exports={data:{markdownRemark:{frontmatter:{title:"Clojure Newbie Guide",url:"http://www.clojurenewbieguide.com/",price:["0"],pricePerPeriod:["n/a"],format:["tutorial","documentation","challenge","resource"],subject:["clojure"]}}},pathContext:{slug:"/resources/clojure-newbie-guide/"}}}});
+//# sourceMappingURL=path---resources-clojure-newbie-guide-baea7c9dfb931f781a54.js.map

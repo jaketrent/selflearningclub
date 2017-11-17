@@ -1,0 +1,2 @@
+webpackJsonp([58616230272584],{506:function(e,r){e.exports={data:{markdownRemark:{frontmatter:{title:"CSS Reference",url:"http://cssreference.io/",price:["0"],pricePerPeriod:["n/a"],format:["interactive"],subject:["css","flexbox","animation"]}}},pathContext:{slug:"/resources/css-reference/"}}}});
+//# sourceMappingURL=path---resources-css-reference-bc6a6a1ff0121026b6b8.js.map

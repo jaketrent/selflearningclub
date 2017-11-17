@@ -1,0 +1,2 @@
+webpackJsonp([0xb79fcc29dd18],{605:function(e,r){e.exports={data:{markdownRemark:{frontmatter:{title:"Sketch for Designer",url:"http://sketch.fordesignrs.com/",price:["0"],pricePerPeriod:["n/a"],format:["example","resource"],subject:["sketch","design"]}}},pathContext:{slug:"/resources/sketch-for-designer/"}}}});
+//# sourceMappingURL=path---resources-sketch-for-designer-db750d0c6388dc08c1a3.js.map

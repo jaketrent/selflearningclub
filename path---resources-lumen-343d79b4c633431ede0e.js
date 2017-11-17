@@ -1,0 +1,2 @@
+webpackJsonp([0x892b62e9e357],{569:function(e,t){e.exports={data:{markdownRemark:{frontmatter:{title:"Lumen ",url:"http://www.lumenlearning.com/",price:["0"],pricePerPeriod:["n/a"],format:["course"],subject:["math","science","english"]}}},pathContext:{slug:"/resources/lumen-/"}}}});
+//# sourceMappingURL=path---resources-lumen-343d79b4c633431ede0e.js.map

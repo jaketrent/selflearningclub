@@ -1,0 +1,2 @@
+webpackJsonp([0xea82760b34a3],{544:function(e,t){e.exports={data:{markdownRemark:{frontmatter:{title:"Idiomatic Redux: The Tao of Redux, Part 1 - Implementation and Intent",url:"http://blog.isquaredsoftware.com/2017/05/idiomatic-redux-tao-of-redux-part-1/",price:["0"],pricePerPeriod:["n/a"],format:["blog","resource"],subject:["redux"]}}},pathContext:{slug:"/resources/idiomatic-redux:-the-tao-of-redux,-part-1---implementation-and-intent/"}}}});
+//# sourceMappingURL=path---resources-idiomatic-redux-the-tao-of-redux-part-1-implementation-and-intent-5fe74219b8d4c78686a8.js.map

@@ -1,0 +1,2 @@
+webpackJsonp([64433882546508],{488:function(e,r){e.exports={data:{markdownRemark:{frontmatter:{title:"Clojure by Example",url:"http://kimh.github.io/clojure-by-example/#about",price:["0"],pricePerPeriod:["n/a"],format:["example"],subject:["clojure"]}}},pathContext:{slug:"/resources/clojure-by-example/"}}}});
+//# sourceMappingURL=path---resources-clojure-by-example-3c3613636bc724a808d0.js.map

@@ -1,0 +1,2 @@
+webpackJsonp([0xe0db8fd74338],{623:function(e,t){e.exports={data:{markdownRemark:{frontmatter:{title:"The Layouts Ahead",url:"http://labs.thewebahead.net/thelayoutsahead/",price:["0"],pricePerPeriod:["n/a"],format:["example"],subject:["css"]}}},pathContext:{slug:"/resources/the-layouts-ahead/"}}}});
+//# sourceMappingURL=path---resources-the-layouts-ahead-c188a05dbd82bb9db163.js.map

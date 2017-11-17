@@ -1,0 +1,2 @@
+webpackJsonp([0xcc87a9e013e7],{477:function(e,t){e.exports={data:{markdownRemark:{frontmatter:{title:"A Real World Guide to WebRTC",url:"https://deepstreamhub.com/tutorials/protocols/webrtc-intro/",price:["0"],pricePerPeriod:["n/a"],format:["tutorial","example"],subject:["webrtc"]}}},pathContext:{slug:"/resources/a-real-world-guide-to-webrtc/"}}}});
+//# sourceMappingURL=path---resources-a-real-world-guide-to-webrtc-ad0656f9569fb0de4aa1.js.map

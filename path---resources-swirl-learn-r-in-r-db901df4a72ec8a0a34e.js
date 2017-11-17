@@ -1,0 +1,2 @@
+webpackJsonp([56787904924271],{613:function(r,t){r.exports={data:{markdownRemark:{frontmatter:{title:"Swirl: Learn R in R",url:"http://swirlstats.com/",price:["0"],pricePerPeriod:["n/a"],format:["project","tutorial"],subject:["r"]}}},pathContext:{slug:"/resources/swirl:-learn-r-in-r/"}}}});
+//# sourceMappingURL=path---resources-swirl-learn-r-in-r-db901df4a72ec8a0a34e.js.map

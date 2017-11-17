@@ -1,0 +1,2 @@
+webpackJsonp([66419057864833],{634:function(e,t){e.exports={data:{markdownRemark:{frontmatter:{title:"Under The Hood: ReactJS",url:"https://bogdan-lyashenko.github.io/Under-the-hood-ReactJS/",price:["0"],pricePerPeriod:["n/a"],format:["documentation","example"],subject:["react"]}}},pathContext:{slug:"/resources/under-the-hood:-reactjs/"}}}});
+//# sourceMappingURL=path---resources-under-the-hood-reactjs-3abadf0d0cd2f49677a7.js.map

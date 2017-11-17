@@ -1,0 +1,2 @@
+webpackJsonp([0xad66f4fe0535],{620:function(t,e){t.exports={data:{markdownRemark:{frontmatter:{title:"The art of storytelling",url:"https://www.khanacademy.org/partner-content/pixar/storytelling",price:["0"],pricePerPeriod:["n/a"],format:["video","course"],subject:["storytelling"]}}},pathContext:{slug:"/resources/the-art-of-storytelling/"}}}});
+//# sourceMappingURL=path---resources-the-art-of-storytelling-3cde155be021be51419e.js.map

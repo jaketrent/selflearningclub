@@ -1,0 +1,2 @@
+webpackJsonp([0xfa1010d1fce6],{481:function(r,a){r.exports={data:{markdownRemark:{frontmatter:{title:"airpair",url:"https://www.airpair.com/",price:["0"],pricePerPeriod:["n/a"],format:["example"],subject:["python","node","react","php","swift"]}}},pathContext:{slug:"/resources/airpair/"}}}});
+//# sourceMappingURL=path---resources-airpair-eaac389f24da4150b801.js.map

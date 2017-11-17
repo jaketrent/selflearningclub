@@ -1,0 +1,2 @@
+webpackJsonp([0xdfb5393ce10f],{529:function(e,t){e.exports={data:{markdownRemark:{frontmatter:{title:"Game Development",url:"https://game-development.zeef.com/david.arcila",price:["0"],pricePerPeriod:["n/a"],format:["resource","project"],subject:["game development"]}}},pathContext:{slug:"/resources/game-development/"}}}});
+//# sourceMappingURL=path---resources-game-development-2c664213991c723dfae3.js.map

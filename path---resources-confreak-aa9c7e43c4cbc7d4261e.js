@@ -1,0 +1,2 @@
+webpackJsonp([79772810993057],{500:function(e,r){e.exports={data:{markdownRemark:{frontmatter:{title:"Confreak",url:"http://www.confreaks.com/",price:["0"],pricePerPeriod:["n/a"],format:["video","blog"],subject:["ruby","ember","golang","elixir"]}}},pathContext:{slug:"/resources/confreak/"}}}});
+//# sourceMappingURL=path---resources-confreak-aa9c7e43c4cbc7d4261e.js.map

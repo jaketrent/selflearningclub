@@ -1,0 +1,2 @@
+webpackJsonp([85394664147475],{501:function(t,r){t.exports={data:{markdownRemark:{frontmatter:{title:"CraftStudio",url:"https://sparklinlabs.itch.io/craftstudio",price:["0"],pricePerPeriod:["n/a"],format:["tool"],subject:["gaming"]}}},pathContext:{slug:"/resources/craftstudio/"}}}});
+//# sourceMappingURL=path---resources-craftstudio-25f15568a2e16b5353bd.js.map

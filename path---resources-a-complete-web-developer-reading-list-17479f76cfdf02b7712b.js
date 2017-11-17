@@ -1,0 +1,2 @@
+webpackJsonp([0x907cf9cd84b8],{475:function(e,t){e.exports={data:{markdownRemark:{frontmatter:{title:"A Complete Web Developer Reading List",url:"http://thenewcode.com/1188/A-Complete-Web-Developer-Reading-List",price:["0"],pricePerPeriod:["n/a"],format:["course","example"],subject:["css","html","javascript","mysql","seo","php"]}}},pathContext:{slug:"/resources/a-complete-web-developer-reading-list/"}}}});
+//# sourceMappingURL=path---resources-a-complete-web-developer-reading-list-17479f76cfdf02b7712b.js.map

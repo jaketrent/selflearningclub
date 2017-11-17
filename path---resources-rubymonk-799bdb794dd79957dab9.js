@@ -1,0 +1,2 @@
+webpackJsonp([0xdf5e27b4b57c],{596:function(r,e){r.exports={data:{markdownRemark:{frontmatter:{title:"RubyMonk",url:"https://rubymonk.com/",price:["0"],pricePerPeriod:["n/a"],format:["course"],subject:["ruby"]}}},pathContext:{slug:"/resources/rubymonk/"}}}});
+//# sourceMappingURL=path---resources-rubymonk-799bdb794dd79957dab9.js.map

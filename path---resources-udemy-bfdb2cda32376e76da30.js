@@ -1,0 +1,2 @@
+webpackJsonp([0xa2d4af492d2],{632:function(e,t){e.exports={data:{markdownRemark:{frontmatter:{title:"Udemy",url:"https://www.udemy.com/",price:["10"],pricePerPeriod:["once"],format:["course"],subject:["python","java","web development"]}}},pathContext:{slug:"/resources/udemy/"}}}});
+//# sourceMappingURL=path---resources-udemy-bfdb2cda32376e76da30.js.map

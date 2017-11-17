@@ -1,0 +1,2 @@
+webpackJsonp([0x73931d0951a2],{510:function(e,a){e.exports={data:{markdownRemark:{frontmatter:{title:"Dance In A Year",url:"danceinayear.com",price:["0"],pricePerPeriod:["n/a"],format:["video"],subject:["dance"]}}},pathContext:{slug:"/resources/dance-in-a-year/"}}}});
+//# sourceMappingURL=path---resources-dance-in-a-year-01bf6415d54980fd2fcc.js.map

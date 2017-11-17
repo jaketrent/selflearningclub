@@ -1,0 +1,2 @@
+webpackJsonp([0xfb919905424b],{486:function(e,r){e.exports={data:{markdownRemark:{frontmatter:{title:"Clojure Academmy",url:"https://clojurecademy.com/#",price:["0"],pricePerPeriod:["n/a"],format:["document","course"],subject:["clojure"]}}},pathContext:{slug:"/resources/clojure-academmy/"}}}});
+//# sourceMappingURL=path---resources-clojure-academmy-ef9b24f48350b1f892cc.js.map

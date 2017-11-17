@@ -1,0 +1,2 @@
+webpackJsonp([0xb676d77c8497],{636:function(e,t){e.exports={data:{markdownRemark:{frontmatter:{title:"Veritasium",url:"https://www.youtube.com/user/1veritasium/videos?spfreload=10",price:["0"],pricePerPeriod:["n/a"],format:["video"],subject:["science","physics"]}}},pathContext:{slug:"/resources/veritasium/"}}}});
+//# sourceMappingURL=path---resources-veritasium-d7fd7cca16d0f67b650a.js.map

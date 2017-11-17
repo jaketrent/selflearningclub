@@ -1,0 +1,2 @@
+webpackJsonp([0x708ef977cddc],{612:function(e,r){e.exports={data:{markdownRemark:{frontmatter:{title:"Superhero.js",url:"http://superherojs.com/",price:["0"],pricePerPeriod:["n/a"],format:["resource"],subject:["javascript","dom"]}}},pathContext:{slug:"/resources/superhero.js/"}}}});
+//# sourceMappingURL=path---resources-superhero-js-fc020de499d31648d596.js.map

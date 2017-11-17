@@ -1,0 +1,2 @@
+webpackJsonp([0x7adaf9bb3b34],{554:function(e,r){e.exports={data:{markdownRemark:{frontmatter:{title:"Learn CSS Layout",url:"https://thecssworkshop.com/",price:["99"],pricePerPeriod:["course"],format:["course","video"],subject:["css"]}}},pathContext:{slug:"/resources/learn-css-layout/"}}}});
+//# sourceMappingURL=path---resources-learn-css-layout-9bdccf6063ed87bd9959.js.map

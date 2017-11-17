@@ -1,0 +1,2 @@
+webpackJsonp([0x8d5e0a105648],{504:function(e,r){e.exports={data:{markdownRemark:{frontmatter:{title:"CSS Grid Playground",url:"https://mozilladevelopers.github.io/playground/",price:["0"],pricePerPeriod:["n/a"],format:["resource","example"],subject:["css","html"]}}},pathContext:{slug:"/resources/css-grid-playground/"}}}});
+//# sourceMappingURL=path---resources-css-grid-playground-e018cecd72e9f54e94aa.js.map

@@ -1,0 +1,2 @@
+webpackJsonp([0xcaef6cff8c95],{607:function(e,t){e.exports={data:{markdownRemark:{frontmatter:{title:"Snack",url:"https://snack.expo.io/",price:["0"],pricePerPeriod:["n/a"],format:["example","interactive"],subject:["react","native"]}}},pathContext:{slug:"/resources/snack/"}}}});
+//# sourceMappingURL=path---resources-snack-4e28cae14b4a8294e137.js.map

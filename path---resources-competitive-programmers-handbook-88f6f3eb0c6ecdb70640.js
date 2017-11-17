@@ -1,0 +1,2 @@
+webpackJsonp([0x7faf9c5de9b4],{497:function(e,o){e.exports={data:{markdownRemark:{frontmatter:{title:"Competitive Programmer's Handbook",url:"https://cses.fi/book.html",price:["0"],pricePerPeriod:["n/a"],format:["ebook"],subject:["programming"]}}},pathContext:{slug:"/resources/competitive-programmer's-handbook/"}}}});
+//# sourceMappingURL=path---resources-competitive-programmers-handbook-88f6f3eb0c6ecdb70640.js.map

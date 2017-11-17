@@ -1,0 +1,2 @@
+webpackJsonp([0xc4ebd0a46e51],{521:function(e,t){e.exports={data:{markdownRemark:{frontmatter:{title:"Exercism",url:"http://exercism.io/",price:["0"],pricePerPeriod:["n/a"],format:["project","challenge"],subject:["c","c++","java","python","go","swift","javascript"]}}},pathContext:{slug:"/resources/exercism/"}}}});
+//# sourceMappingURL=path---resources-exercism-026838756f0e965bade7.js.map

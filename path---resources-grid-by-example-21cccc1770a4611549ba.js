@@ -1,0 +1,2 @@
+webpackJsonp([0xa0a5db449449],{537:function(e,r){e.exports={data:{markdownRemark:{frontmatter:{title:"Grid by Example",url:"https://gridbyexample.com/",price:["0"],pricePerPeriod:["n/a"],format:["resource","example"],subject:["css","css grid"]}}},pathContext:{slug:"/resources/grid-by-example/"}}}});
+//# sourceMappingURL=path---resources-grid-by-example-21cccc1770a4611549ba.js.map

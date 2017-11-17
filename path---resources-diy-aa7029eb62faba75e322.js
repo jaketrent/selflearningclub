@@ -1,0 +1,2 @@
+webpackJsonp([0xeda0a4d346b7],{511:function(e,t){e.exports={data:{markdownRemark:{frontmatter:{title:"DIY",url:"https://diy.org/",price:["0"],pricePerPeriod:["n/a"],format:["interactive","project"],subject:["everything"]}}},pathContext:{slug:"/resources/diy/"}}}});
+//# sourceMappingURL=path---resources-diy-aa7029eb62faba75e322.js.map

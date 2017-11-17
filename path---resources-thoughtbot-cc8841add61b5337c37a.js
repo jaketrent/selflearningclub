@@ -1,0 +1,2 @@
+webpackJsonp([0xd9315d1c4f66],{627:function(t,o){t.exports={data:{markdownRemark:{frontmatter:{title:"ThoughtBot",url:"https://thoughtbot.com/upcase",price:["29"],pricePerPeriod:["monthly"],format:["course","video"],subject:["rails","ruby","git","vim","javascript"]}}},pathContext:{slug:"/resources/thoughtbot/"}}}});
+//# sourceMappingURL=path---resources-thoughtbot-cc8841add61b5337c37a.js.map

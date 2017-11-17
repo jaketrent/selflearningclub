@@ -1,0 +1,2 @@
+webpackJsonp([0x77c1277d7028],{531:function(e,t){e.exports={data:{markdownRemark:{frontmatter:{title:"GitHub Professional Services",url:"https://services.github.com/",price:["0"],pricePerPeriod:["n/a"],format:["blog","webcast","talks","course"],subject:["github","graphQL","electron"]}}},pathContext:{slug:"/resources/github-professional-services/"}}}});
+//# sourceMappingURL=path---resources-github-professional-services-8cad861698a0aa79061b.js.map

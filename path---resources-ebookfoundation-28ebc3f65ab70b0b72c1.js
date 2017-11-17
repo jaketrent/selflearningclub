@@ -1,0 +1,2 @@
+webpackJsonp([0x8fd778ceb9da],{513:function(o,r){o.exports={data:{markdownRemark:{frontmatter:{title:"EbookFoundation",url:"https://github.com/EbookFoundation/free-programming-books",price:["0"],pricePerPeriod:["n/a"],format:["ebook","resource"],subject:["library","programming"]}}},pathContext:{slug:"/resources/ebookfoundation/"}}}});
+//# sourceMappingURL=path---resources-ebookfoundation-28ebc3f65ab70b0b72c1.js.map

@@ -1,0 +1,2 @@
+webpackJsonp([97135442350766],{591:function(e,a){e.exports={data:{markdownRemark:{frontmatter:{title:"Rich Hickey Fanclub",url:"https://github.com/tallesl/Rich-Hickey-fanclub",price:["0"],pricePerPeriod:["n/a"],format:["video","resource"],subject:["database","java"]}}},pathContext:{slug:"/resources/rich-hickey-fanclub/"}}}});
+//# sourceMappingURL=path---resources-rich-hickey-fanclub-6e6519c8453821499f44.js.map

@@ -1,0 +1,2 @@
+webpackJsonp([1676422977783],{549:function(e,t){e.exports={data:{markdownRemark:{frontmatter:{title:"Jennifer Dewalt",url:"http://blog.jenniferdewalt.com/post/56319597560/im-learning-to-code-by-building-180-websites-in#_=_",price:["0"],pricePerPeriod:["n/a"],format:["blog"],subject:["html","css","javascript","rails"]}}},pathContext:{slug:"/resources/jennifer-dewalt/"}}}});
+//# sourceMappingURL=path---resources-jennifer-dewalt-bbc5333182407101afde.js.map

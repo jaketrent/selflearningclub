@@ -1,0 +1,2 @@
+webpackJsonp([0xc11e8aaf2f7c],{631:function(t,a){t.exports={data:{markdownRemark:{frontmatter:{title:"Udacity",url:"https://www.udacity.com/",price:["0-2000"],pricePerPeriod:["once"],format:["course","code"],subject:["data analytics","programming","react"]}}},pathContext:{slug:"/resources/udacity/"}}}});
+//# sourceMappingURL=path---resources-udacity-7fded6d8031c52d435b0.js.map

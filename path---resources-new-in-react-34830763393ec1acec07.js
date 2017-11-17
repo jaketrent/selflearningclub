@@ -1,0 +1,2 @@
+webpackJsonp([0xf33b687371e3],{574:function(e,t){e.exports={data:{markdownRemark:{frontmatter:{title:"New In React",url:"http://newinreact.com",price:["0"],pricePerPeriod:["n/a"],format:["blog","video"],subject:["react","javascript"]}}},pathContext:{slug:"/resources/new-in-react/"}}}});
+//# sourceMappingURL=path---resources-new-in-react-34830763393ec1acec07.js.map

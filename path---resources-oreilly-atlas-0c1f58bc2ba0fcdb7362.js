@@ -1,0 +1,2 @@
+webpackJsonp([24608706698901],{578:function(e,t){e.exports={data:{markdownRemark:{frontmatter:{title:"O'Reilly Atlas",url:"http://chimera.labs.oreilly.com/books",price:["0"],pricePerPeriod:["n/a"],format:["video","ebook"],subject:["javascript","html","python","node"]}}},pathContext:{slug:"/resources/o'reilly-atlas/"}}}});
+//# sourceMappingURL=path---resources-oreilly-atlas-0c1f58bc2ba0fcdb7362.js.map

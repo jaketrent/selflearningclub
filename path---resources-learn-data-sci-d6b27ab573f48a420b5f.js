@@ -1,0 +1,2 @@
+webpackJsonp([0x951f353b157c],{556:function(e,a){e.exports={data:{markdownRemark:{frontmatter:{title:"Learn Data Sci",url:"http://www.learndatasci.com/free-data-science-books",price:["0"],pricePerPeriod:["n/a"],format:["ebook"],subject:["data science"]}}},pathContext:{slug:"/resources/learn-data-sci/"}}}});
+//# sourceMappingURL=path---resources-learn-data-sci-d6b27ab573f48a420b5f.js.map

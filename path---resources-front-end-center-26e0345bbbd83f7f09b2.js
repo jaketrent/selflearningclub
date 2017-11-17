@@ -1,0 +1,2 @@
+webpackJsonp([0xc1a621188792],{526:function(t,e){t.exports={data:{markdownRemark:{frontmatter:{title:"Front End Center",url:"https://frontend.center/",price:["0","15"],pricePerPeriod:["n/a","monthly"],format:["video"],subject:["react","javascript"]}}},pathContext:{slug:"/resources/front-end-center/"}}}});
+//# sourceMappingURL=path---resources-front-end-center-26e0345bbbd83f7f09b2.js.map

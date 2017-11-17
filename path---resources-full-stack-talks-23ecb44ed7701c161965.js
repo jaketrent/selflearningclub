@@ -1,0 +1,2 @@
+webpackJsonp([0xe4da1c302033],{528:function(t,e){t.exports={data:{markdownRemark:{frontmatter:{title:"Full Stack Talks",url:"https://www.youtube.com/channel/UCpq2_V-9AYYUHSsjoJZPUTg",price:["0"],pricePerPeriod:["n/a"],format:["video"],subject:["full stack","css","react","polymer"]}}},pathContext:{slug:"/resources/full-stack-talks/"}}}});
+//# sourceMappingURL=path---resources-full-stack-talks-23ecb44ed7701c161965.js.map

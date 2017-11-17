@@ -1,0 +1,2 @@
+webpackJsonp([0x73f4edac9119],{624:function(e,t){e.exports={data:{markdownRemark:{frontmatter:{title:"The Magic of CSS",url:"http://adamschwartz.co/magic-of-css/",price:["0"],pricePerPeriod:["n/a"],format:["ebook"],subject:["css"]}}},pathContext:{slug:"/resources/the-magic-of-css/"}}}});
+//# sourceMappingURL=path---resources-the-magic-of-css-92234ca2a98e3d014b08.js.map

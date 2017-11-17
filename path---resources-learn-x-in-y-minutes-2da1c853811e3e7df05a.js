@@ -1,0 +1,2 @@
+webpackJsonp([0x6f711c9f5f60],{562:function(e,t){e.exports={data:{markdownRemark:{frontmatter:{title:"Learn X in Y minutes",url:"https://learnxinyminutes.com/",price:["0"],pricePerPeriod:["n/a"],format:["example"],subject:["c","elixir","elm","ruby","python","javascript"]}}},pathContext:{slug:"/resources/learn-x-in-y-minutes/"}}}});
+//# sourceMappingURL=path---resources-learn-x-in-y-minutes-2da1c853811e3e7df05a.js.map

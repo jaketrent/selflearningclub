@@ -1,0 +1,2 @@
+webpackJsonp([0x9f7287328a8a],{517:function(t,e){t.exports={data:{markdownRemark:{frontmatter:{title:"Elm Town",url:"https://elmtown.github.io/",price:["0"],pricePerPeriod:["n/a"],format:["podcast"],subject:["elm"]}}},pathContext:{slug:"/resources/elm-town/"}}}});
+//# sourceMappingURL=path---resources-elm-town-ddc516309220e91d02de.js.map

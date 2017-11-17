@@ -1,0 +1,2 @@
+webpackJsonp([0xe441244b83ef],{643:function(e,t){e.exports={data:{markdownRemark:{frontmatter:{title:"What The Flexbox?!",url:"https://flexbox.io/#/",price:["0"],pricePerPeriod:["n/a"],format:["email","video"],subject:["flexbox","css"]}}},pathContext:{slug:"/resources/what-the-flexbox?!/"}}}});
+//# sourceMappingURL=path---resources-what-the-flexbox-7239ccfd1aef10a36627.js.map

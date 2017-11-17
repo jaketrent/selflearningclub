@@ -1,0 +1,2 @@
+webpackJsonp([0xd0ffaf5a7113],{527:function(t,e){t.exports={data:{markdownRemark:{frontmatter:{title:"Front End TV",url:"https://www.youtube.com/user/OfficialFrontEndTV",price:["0"],pricePerPeriod:["n/a"],format:["video"],subject:["javascript","node"]}}},pathContext:{slug:"/resources/front-end-tv/"}}}});
+//# sourceMappingURL=path---resources-front-end-tv-9f8c56f4a8e458a7e327.js.map

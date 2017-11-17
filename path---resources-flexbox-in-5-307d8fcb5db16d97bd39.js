@@ -1,0 +1,2 @@
+webpackJsonp([0xe05e2f102a39],{524:function(e,t){e.exports={data:{markdownRemark:{frontmatter:{title:"Flexbox in 5",url:"https://cvan.io/flexboxin5/",price:["0"],pricePerPeriod:["n/a"],format:["interactive"],subject:["flexbox","css"]}}},pathContext:{slug:"/resources/flexbox-in-5/"}}}});
+//# sourceMappingURL=path---resources-flexbox-in-5-307d8fcb5db16d97bd39.js.map

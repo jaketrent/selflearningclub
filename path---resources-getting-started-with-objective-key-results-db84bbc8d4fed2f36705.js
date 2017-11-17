@@ -1,0 +1,2 @@
+webpackJsonp([59164695157372],{530:function(t,e){t.exports={data:{markdownRemark:{frontmatter:{title:"Getting Started with Objective & Key Results",url:"https://betterworks.app.box.com/s/gn2sd2ojkbk4d32bvjhz",price:["0"],pricePerPeriod:["n/a"],format:["ebook"],subject:["okrs"]}}},pathContext:{slug:"/resources/getting-started-with-objective-&-key-results/"}}}});
+//# sourceMappingURL=path---resources-getting-started-with-objective-key-results-db84bbc8d4fed2f36705.js.map

@@ -1,0 +1,2 @@
+webpackJsonp([0x9229fb2d6598],{571:function(e,t){e.exports={data:{markdownRemark:{frontmatter:{title:"Marksheet",url:"http://marksheet.io/",price:["0"],pricePerPeriod:["n/a"],format:["ebook","documentation"],subject:["css","html"]}}},pathContext:{slug:"/resources/marksheet/"}}}});
+//# sourceMappingURL=path---resources-marksheet-0c205a563eddb02962c0.js.map

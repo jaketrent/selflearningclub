@@ -1,0 +1,2 @@
+webpackJsonp([0x80312720a138],{641:function(e,t){e.exports={data:{markdownRemark:{frontmatter:{title:"Web Rebels 2016",url:"https://opbeat.com/community/events/web-rebels-2016/#change-the-world-with-the-peer-web-and-thali",price:["0"],pricePerPeriod:["n/a"],format:["video"],subject:["web","front-end","javascript"]}}},pathContext:{slug:"/resources/web-rebels-2016/"}}}});
+//# sourceMappingURL=path---resources-web-rebels-2016-b83c611e7931842d41de.js.map

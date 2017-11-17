@@ -1,0 +1,2 @@
+webpackJsonp([0xcf88ea5f918],{637:function(e,t){e.exports={data:{markdownRemark:{frontmatter:{title:"Video Copilot",url:"http://www.videocopilot.net/",price:["0"],pricePerPeriod:["n/a"],format:["video","tutorial","blog"],subject:["video editing","after effects"]}}},pathContext:{slug:"/resources/video-copilot/"}}}});
+//# sourceMappingURL=path---resources-video-copilot-9575520479eb43a35672.js.map

@@ -1,0 +1,2 @@
+webpackJsonp([31796688916138],{564:function(e,r){e.exports={data:{markdownRemark:{frontmatter:{title:"Learning threejs",url:"https://github.com/josdirksen/learning-threejs",price:["0"],pricePerPeriod:["n/a"],format:["ebook"],subject:["threejs"]}}},pathContext:{slug:"/resources/learning-threejs/"}}}});
+//# sourceMappingURL=path---resources-learning-threejs-e13c08b6c5bc09b287ea.js.map

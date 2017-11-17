@@ -1,0 +1,2 @@
+webpackJsonp([0x8397563af173],{545:function(e,a){e.exports={data:{markdownRemark:{frontmatter:{title:"InfoQ",url:"https://www.youtube.com/user/MarakanaTechTV/videos",price:["0"],pricePerPeriod:["n/a"],format:["video"],subject:["data science","machine learning","devops"]}}},pathContext:{slug:"/resources/infoq/"}}}});
+//# sourceMappingURL=path---resources-infoq-e11e9be29f526b4622d1.js.map

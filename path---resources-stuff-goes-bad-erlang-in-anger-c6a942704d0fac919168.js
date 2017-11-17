@@ -1,0 +1,2 @@
+webpackJsonp([0x95aae8f69718],{611:function(e,r){e.exports={data:{markdownRemark:{frontmatter:{title:"Stuff Goes Bad: Erlang in Anger",url:"http://www.erlang-in-anger.com/",price:["0"],pricePerPeriod:["n/a"],format:["ebook"],subject:["erlang"]}}},pathContext:{slug:"/resources/stuff-goes-bad:-erlang-in-anger/"}}}});
+//# sourceMappingURL=path---resources-stuff-goes-bad-erlang-in-anger-c6a942704d0fac919168.js.map

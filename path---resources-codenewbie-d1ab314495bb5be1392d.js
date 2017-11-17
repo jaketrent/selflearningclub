@@ -1,0 +1,2 @@
+webpackJsonp([7943358879618],{493:function(e,t){e.exports={data:{markdownRemark:{frontmatter:{title:"CodeNewbie",url:"https://www.codenewbie.org/",price:["0"],pricePerPeriod:["n/a"],format:["podcast","email"],subject:["javascript","code","creating"]}}},pathContext:{slug:"/resources/codenewbie/"}}}});
+//# sourceMappingURL=path---resources-codenewbie-d1ab314495bb5be1392d.js.map

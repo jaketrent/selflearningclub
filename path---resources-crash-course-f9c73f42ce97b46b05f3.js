@@ -1,0 +1,2 @@
+webpackJsonp([34943993053580],{502:function(o,r){o.exports={data:{markdownRemark:{frontmatter:{title:"Crash Course",url:"https://thecrashcourse.com/",price:["0"],pricePerPeriod:["n/a"],format:["video","interactive"],subject:["anatomy","astronomy","history","economics","psychology"]}}},pathContext:{slug:"/resources/crash-course/"}}}});
+//# sourceMappingURL=path---resources-crash-course-f9c73f42ce97b46b05f3.js.map

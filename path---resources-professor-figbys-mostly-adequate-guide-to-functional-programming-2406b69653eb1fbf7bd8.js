@@ -1,0 +1,2 @@
+webpackJsonp([55257825295775],{582:function(o,t){o.exports={data:{markdownRemark:{frontmatter:{title:"Professor Figby's Mostly Adequate Guide to  Functional Programming",url:"https://drboolean.gitbooks.io/mostly-adequate-guide/",price:["0"],pricePerPeriod:["n/a"],format:["ebook"],subject:["functional programming"]}}},pathContext:{slug:"/resources/professor-figby's-mostly-adequate-guide-to--functional-programming/"}}}});
+//# sourceMappingURL=path---resources-professor-figbys-mostly-adequate-guide-to-functional-programming-2406b69653eb1fbf7bd8.js.map

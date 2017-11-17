@@ -1,0 +1,2 @@
+webpackJsonp([0x982a5dbd811b],{625:function(e,o){e.exports={data:{markdownRemark:{frontmatter:{title:"The Node Beginner Book",url:"https://glitch.com/edit/#!/node-beginner?path=README.md:1:0",price:["0"],pricePerPeriod:["n/a"],format:["ebook"],subject:["node"]}}},pathContext:{slug:"/resources/the-node-beginner-book/"}}}});
+//# sourceMappingURL=path---resources-the-node-beginner-book-74d3dc53ed7271350bc5.js.map

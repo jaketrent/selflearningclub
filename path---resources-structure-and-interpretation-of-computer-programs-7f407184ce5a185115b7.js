@@ -1,0 +1,2 @@
+webpackJsonp([89059770062493],{610:function(t,r){t.exports={data:{markdownRemark:{frontmatter:{title:"Structure and Interpretation of Computer Programs",url:"http://web.mit.edu/alexmv/6.037/sicp.pdf",price:["0"],pricePerPeriod:["n/a"],format:["ebook"],subject:["software structure"]}}},pathContext:{slug:"/resources/structure-and-interpretation-of-computer-programs/"}}}});
+//# sourceMappingURL=path---resources-structure-and-interpretation-of-computer-programs-7f407184ce5a185115b7.js.map

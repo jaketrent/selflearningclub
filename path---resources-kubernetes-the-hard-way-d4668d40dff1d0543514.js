@@ -1,0 +1,2 @@
+webpackJsonp([0x820f2061b88a],{553:function(e,t){e.exports={data:{markdownRemark:{frontmatter:{title:"Kubernetes the Hard Way",url:"https://github.com/kelseyhightower/kubernetes-the-hard-way",price:["0"],pricePerPeriod:["n/a"],format:["ebook"],subject:["kubernetes"]}}},pathContext:{slug:"/resources/kubernetes-the-hard-way/"}}}});
+//# sourceMappingURL=path---resources-kubernetes-the-hard-way-d4668d40dff1d0543514.js.map

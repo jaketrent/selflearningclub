@@ -1,0 +1,2 @@
+webpackJsonp([98505186481130],{589:function(t,a){t.exports={data:{markdownRemark:{frontmatter:{title:"React's Most Basics",url:"https://reactarmory.com/guides/learn-react-by-itself/react-basics",price:["0"],pricePerPeriod:["n/a"],format:["tutorial","interactive"],subject:["react","javascript"]}}},pathContext:{slug:"/resources/react's-most-basics/"}}}});
+//# sourceMappingURL=path---resources-reacts-most-basics-84c8f605d2fc2dd87e4f.js.map

@@ -1,0 +1,2 @@
+webpackJsonp([0x78a53dd0b8b7],{523:function(e,t){e.exports={data:{markdownRemark:{frontmatter:{title:"Flexbox Defense",url:"http://www.flexboxdefense.com/",price:["0"],pricePerPeriod:["n/a"],format:["interactive"],subject:["flexbox","css"]}}},pathContext:{slug:"/resources/flexbox-defense/"}}}});
+//# sourceMappingURL=path---resources-flexbox-defense-5ce7ec52a9c219847550.js.map

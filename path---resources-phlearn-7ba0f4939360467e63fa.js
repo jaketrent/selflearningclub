@@ -1,0 +1,2 @@
+webpackJsonp([66147207382800],{581:function(e,r){e.exports={data:{markdownRemark:{frontmatter:{title:"Phlearn",url:"https://phlearn.com/free-tutorials",price:["0"],pricePerPeriod:["n/a"],format:["video","project"],subject:["photoshop"]}}},pathContext:{slug:"/resources/phlearn/"}}}});
+//# sourceMappingURL=path---resources-phlearn-7ba0f4939360467e63fa.js.map
