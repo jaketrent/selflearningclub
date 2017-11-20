@@ -8,28 +8,38 @@ import './index.css'
 const Header = ({ data }) => (
   <div
     style={{
-      background: 'purple',
       marginBottom: '1.45rem',
     }}
   >
     <div
       style={{
         margin: '0 auto',
-        maxWidth: 960,
+        height: '100%',
+        width: '100%',
         padding: '1.45rem 1.0875rem',
+        display: 'flex',
       }}
     >
-      <h1 style={{ margin: 0 }}>
+      <img src='../static/logoWhiteOpen.png' 
+        style={{
+          height: '300px',
+        }}
+      />
+      <h1 style={{ fontSize: '4em', margin: 'auto' }}>
         <Link
           to="/"
           style={{
-            color: 'white',
             textDecoration: 'none',
           }}
         >
           {data.site.siteMetadata.title}
         </Link>
       </h1>
+      <img src='../static/logoWhiteClose.png' 
+        style={{
+          height: '300px',
+        }}
+      />
     </div>
   </div>
 )

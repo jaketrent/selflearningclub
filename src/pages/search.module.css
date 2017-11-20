@@ -3,12 +3,14 @@
 }
 .rhCol {
   flex: 3;
+  margin-left: 1em;
 }
 .lhCol {
   flex: 1;
 }
 .lhColSection {
-  max-height: 250px;
-  overflow: scroll;
-  border: 2px solid black;
+  margin: 1em auto;
+}
+.link {
+  color: #35c3e3;
 }

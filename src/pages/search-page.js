@@ -15,7 +15,7 @@ class SearchPage extends React.Component {
     activeFormatNames: [],
     activePrices: [],
     activeSubjects: [],
-    searchValue: ''
+    searchValue: '',
   }
 
   toggleFormat = (isChecked, formatName) => {
@@ -60,8 +60,8 @@ class SearchPage extends React.Component {
     }
   }
 
-  handleChange = (event) => {
-    this.setState({searchValue: event.target.value.toLowerCase()})
+  handleChange = event => {
+    this.setState({ searchValue: event.target.value.toLowerCase() })
   }
 
   render() {
@@ -73,44 +73,40 @@ class SearchPage extends React.Component {
       )
     ).filter(f => f)
 
-    const countedSubjects = data.allMarkdownRemark.edges.reduce(
-      (acc, { node }) => acc.concat(node.frontmatter.subject),
-      []
-    ).reduce((allSubjects, subjectName) => {
-      if (subjectName in allSubjects) {
-        allSubjects[subjectName]++
-      }
-      else {
-        allSubjects[subjectName] = 1;
-      }
-      return allSubjects
-    }, {})
+    const countedSubjects = data.allMarkdownRemark.edges
+      .reduce((acc, { node }) => acc.concat(node.frontmatter.subject), [])
+      .reduce((allSubjects, subjectName) => {
+        if (subjectName in allSubjects) {
+          allSubjects[subjectName]++
+        } else {
+          allSubjects[subjectName] = 1
+        }
+        return allSubjects
+      }, {})
 
-    // const topTenSubjects = Object.keys(countedSubjects).map(subjectName => {
-    //   return [subjectName, countedSubjects[subjectName]]
-    // }).sort(function (a, b){
-    //   if (a[1] > b[1]) {
-    //     return -1
-    //   }
-    //   if (a[1] < b[1]) {
-    //     return 1
-    //   }
-    //   return 0
-    // })
-    //const test = topTenSubjects.reduce( a,b => {a.concat(b)}, [])
+    const topTenSubjects = Object.entries(countedSubjects)
+      .sort(function(a, b) {
+        return b[1] - a[1]
+      })
+      .splice(0, 10)
+      .reduce((a, b) => a.concat(b), [])
+      .filter(sub => typeof sub == 'string')
 
-    const topTenSubjects = Object.entries(countedSubjects).sort(function (a, b){ return b[1] - a[1]}).splice(0, 10
-    ).reduce((a, b) => a.concat(b), []).filter( sub => typeof sub == "string")
-
-    const subjects = this.state.searchValue !== "" ? uniq(
-      data.allMarkdownRemark.edges.reduce(
-        (acc, { node }) => acc.concat(node.frontmatter.subject),
-        []
-      )
-    ).filter(f => f.indexOf(this.state.searchValue) > -1 || this.state.activeSubjects.indexOf(f) > -1).splice(0, 10) :
-    topTenSubjects
-
-    
+    const subjects =
+      this.state.searchValue !== ''
+        ? uniq(
+            data.allMarkdownRemark.edges.reduce(
+              (acc, { node }) => acc.concat(node.frontmatter.subject),
+              []
+            )
+          )
+            .filter(
+              f =>
+                f.indexOf(this.state.searchValue) > -1 ||
+                this.state.activeSubjects.indexOf(f) > -1
+            )
+            .splice(0, 10)
+        : uniq(topTenSubjects.concat(this.state.activeSubjects))
 
     const nodes = data.allMarkdownRemark.edges
       .filter(
@@ -133,25 +129,24 @@ class SearchPage extends React.Component {
               : this.state.activePrices.indexOf('paid') > -1
                 ? node.frontmatter.price.some(price => price !== '0')
                 : true
-      ).filter(({ node }) => 
-      this.state.activeSubjects.length > 0
-      ? node.frontmatter.subject.some(
-         subjectName =>
-          this.state.activeSubjects.indexOf(subjectName) > -1
-       )
-       : true
       )
- 
-
-      
+      .filter(
+        ({ node }) =>
+          this.state.activeSubjects.length > 0
+            ? node.frontmatter.subject.some(
+                subjectName =>
+                  this.state.activeSubjects.indexOf(subjectName) > -1
+              )
+            : true
+      )
 
     return (
       <div>
-        {console.log(typeof topTenSubjects)}
         <h1>Hi people</h1>
         <div className={styles.cols}>
           <div className={styles.lhCol}>
             <div className={styles.lhColSection}>
+              <h3>Price</h3>
               <input
                 type="checkbox"
                 key="free"
@@ -167,16 +162,34 @@ class SearchPage extends React.Component {
               />{' '}
               Paid
             </div>
+
             <div className={styles.lhColSection}>
-              <input
-                type="search"
-                key="input"
-                placeholder="Search..."
-                onChange={this.handleChange}
-                value={this.state.searchValue}
-              />
+              <h3>Format</h3>
+              {formats.map(formatName => (
+                <div>
+                  <input
+                    key={formatName}
+                    type="checkbox"
+                    checked={
+                      this.state.activeFormatNames.indexOf(formatName) > -1
+                    }
+                    onClick={evt =>
+                      this.toggleFormat(evt.target.checked, formatName)}
+                  />
+                  {formatName}
+                </div>
+              ))}
             </div>
+            
             <div className={styles.lhColSection}>
+              <h3>Subject</h3>
+              <input
+                  type="search"
+                  key="input"
+                  placeholder="Search..."
+                  onChange={this.handleChange}
+                  value={this.state.searchValue}
+                />
               {subjects.map(subjectName => (
                 <div>
                   <input
@@ -193,35 +206,16 @@ class SearchPage extends React.Component {
               ))}
             </div>
 
-            <div className={styles.lhColSection}>
-              {formats.map(formatName => (
-                <div>
-                  <input
-                    key={formatName}
-                    type="checkbox"
-                    checked={
-                      this.state.activeFormatNames.indexOf(formatName) > -1
-                    }
-                    onClick={evt =>
-                      this.toggleFormat(evt.target.checked, formatName)}
-                  />
-                  {formatName}
-                </div>
-              ))}
-            </div>
-              
           </div>
           <div className={styles.rhCol}>
             {nodes.map(({ node }) => (
               <div key={node.fields.slug}>
-                <Link to={node.fields.slug}>
-                  {node.frontmatter.title}              
-                </Link>
+                <Link to={node.fields.slug} className={styles.link}>{node.frontmatter.title}</Link>
               </div>
             ))}
           </div>
-          </div>
         </div>
+      </div>
     )
   }
 }
