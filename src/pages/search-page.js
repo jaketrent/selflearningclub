@@ -174,22 +174,23 @@ class SearchPage extends React.Component {
                       this.state.activeFormatNames.indexOf(formatName) > -1
                     }
                     onClick={evt =>
-                      this.toggleFormat(evt.target.checked, formatName)}
+                      this.toggleFormat(evt.target.checked, formatName)
+                    }
                   />
                   {formatName}
                 </div>
               ))}
             </div>
-            
+
             <div className={styles.lhColSection}>
               <h3>Subject</h3>
               <input
-                  type="search"
-                  key="input"
-                  placeholder="Search..."
-                  onChange={this.handleChange}
-                  value={this.state.searchValue}
-                />
+                type="search"
+                key="input"
+                placeholder="Search..."
+                onChange={this.handleChange}
+                value={this.state.searchValue}
+              />
               {subjects.map(subjectName => (
                 <div>
                   <input
@@ -199,18 +200,20 @@ class SearchPage extends React.Component {
                       this.state.activeSubjects.indexOf(subjectName) > -1
                     }
                     onClick={evt =>
-                      this.toggleSubjects(evt.target.checked, subjectName)}
+                      this.toggleSubjects(evt.target.checked, subjectName)
+                    }
                   />
                   {subjectName}
                 </div>
               ))}
             </div>
-
           </div>
           <div className={styles.rhCol}>
             {nodes.map(({ node }) => (
               <div key={node.fields.slug}>
-                <Link to={node.fields.slug} className={styles.link}>{node.frontmatter.title}</Link>
+                <Link to={node.fields.slug} className={styles.link}>
+                  {node.frontmatter.title}
+                </Link>
               </div>
             ))}
           </div>
