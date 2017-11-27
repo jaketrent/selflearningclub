@@ -14,7 +14,7 @@ export default () =>
           to="/"
           className={style.link}
         >
-          Self-learning Club
+          Self-Learning Club
         </Link>
       </h1>
       <img

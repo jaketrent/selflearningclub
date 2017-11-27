@@ -8,9 +8,12 @@
 .lhCol {
   flex: 1;
 }
-.lhColSection {
-  margin: 1em auto;
-}
 .link {
   color: #35c3e3;
+}
+.sectionHeading {
+  margin: 0 0 5px 0;
+}
+.lhColSection {
+  margin-bottom: 25px;
 }

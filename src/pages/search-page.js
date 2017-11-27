@@ -142,11 +142,10 @@ class SearchPage extends React.Component {
 
     return (
       <div>
-        <h1>Hi people</h1>
         <div className={styles.cols}>
           <div className={styles.lhCol}>
             <div className={styles.lhColSection}>
-              <h3>Price</h3>
+              <h3 className={styles.sectionHeading}>Price</h3>
               <input
                 type="checkbox"
                 key="free"
@@ -164,7 +163,7 @@ class SearchPage extends React.Component {
             </div>
 
             <div className={styles.lhColSection}>
-              <h3>Format</h3>
+              <h3 className={styles.sectionHeading}>Format</h3>
               {formats.map(formatName => (
                 <div>
                   <input
@@ -183,7 +182,7 @@ class SearchPage extends React.Component {
             </div>
 
             <div className={styles.lhColSection}>
-              <h3>Subject</h3>
+              <h3 className={styles.sectionHeading}>Subject</h3>
               <input
                 type="search"
                 key="input"
