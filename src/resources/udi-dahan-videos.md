@@ -10,5 +10,5 @@ format:
 subject: 
 - "scalability"
 featured: "n"
-picture: "../../public/static/udi-dahan-videos.png"
+picture: "/static/udi-dahan-videos.png"
 ---

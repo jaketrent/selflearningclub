@@ -11,5 +11,5 @@ subject:
 - "javascript"
 - "purescript"
 featured: "n"
-picture: "../../public/static/purescript-by-example.png"
+picture: "/static/purescript-by-example.png"
 ---

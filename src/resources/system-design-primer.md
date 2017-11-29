@@ -11,5 +11,5 @@ format:
 subject: 
 - "system design"
 featured: "n"
-picture: "../../public/static/system-design-primer.png"
+picture: "/static/system-design-primer.png"
 ---

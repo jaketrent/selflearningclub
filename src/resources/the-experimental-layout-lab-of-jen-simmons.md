@@ -12,5 +12,5 @@ subject:
 - "css grid"
 - "css"
 featured: "n"
-picture: "../../public/static/the-experimental-layout-lab-of-jen-simmons.png"
+picture: "/static/the-experimental-layout-lab-of-jen-simmons.png"
 ---

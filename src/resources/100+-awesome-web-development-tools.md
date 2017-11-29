@@ -10,5 +10,5 @@ format:
 subject: 
 - "web development"
 featured: "n"
-picture: "../../public/static/100+-awesome-web-development-tools.png"
+picture: "/static/100+-awesome-web-development-tools.png"
 ---

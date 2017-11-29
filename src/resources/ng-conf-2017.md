@@ -10,5 +10,5 @@ format:
 subject: 
 - "angular"
 featured: "n"
-picture: "../../public/static/ng-conf-2017.png"
+picture: "/static/ng-conf-2017.png"
 ---

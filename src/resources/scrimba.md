@@ -11,5 +11,5 @@ format:
 subject: 
 - "screencast"
 featured: "n"
-picture: "../../public/static/scrimba.png"
+picture: "/static/scrimba.png"
 ---

@@ -12,5 +12,5 @@ subject:
 - "javascript"
 - "debugging"
 featured: "n"
-picture: "../../public/static/modern-devtools.png"
+picture: "/static/modern-devtools.png"
 ---

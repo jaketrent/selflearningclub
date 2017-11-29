@@ -10,5 +10,5 @@ format:
 subject: 
 - "software structure"
 featured: "n"
-picture: "../../public/static/structure-and-interpretation-of-computer-programs.png"
+picture: "/static/structure-and-interpretation-of-computer-programs.png"
 ---

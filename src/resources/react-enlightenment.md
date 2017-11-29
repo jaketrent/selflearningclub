@@ -10,5 +10,5 @@ format:
 subject: 
 - "react"
 featured: "n"
-picture: "../../public/static/react-enlightenment.png"
+picture: "/static/react-enlightenment.png"
 ---

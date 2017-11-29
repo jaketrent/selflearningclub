@@ -12,5 +12,5 @@ subject:
 - "database"
 - "java"
 featured: "n"
-picture: "../../public/static/rich-hickey-fanclub.png"
+picture: "/static/rich-hickey-fanclub.png"
 ---

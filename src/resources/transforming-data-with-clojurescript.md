@@ -10,5 +10,5 @@ format:
 subject: 
 - "clojurescript"
 featured: "n"
-picture: "../../public/static/transforming-data-with-clojurescript.png"
+picture: "/static/transforming-data-with-clojurescript.png"
 ---

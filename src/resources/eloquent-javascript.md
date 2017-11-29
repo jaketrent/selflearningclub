@@ -10,5 +10,5 @@ format:
 subject: 
 - "javascript"
 featured: "n"
-picture: "../../public/static/eloquent-javascript.png"
+picture: "/static/eloquent-javascript.png"
 ---

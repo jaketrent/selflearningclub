@@ -11,6 +11,6 @@ format:
 subject: 
 - "css"
 - "html"
-featured: "n"
-picture: "../../public/static/marksheet.png"
+featured: "y"
+picture: "/static/marksheet.png"
 ---

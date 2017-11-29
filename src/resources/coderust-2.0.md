@@ -18,5 +18,5 @@ subject:
 - "javascript"
 - "ruby"
 featured: "n"
-picture: "../../public/static/coderust-2.0.png"
+picture: "/static/coderust-2.0.png"
 ---

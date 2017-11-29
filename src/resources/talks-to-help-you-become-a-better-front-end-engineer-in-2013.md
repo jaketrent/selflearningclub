@@ -17,5 +17,5 @@ subject:
 - "css"
 - "javascript"
 featured: "n"
-picture: "../../public/static/talks-to-help-you-become-a-better-front-end-engineer-in-2013.png"
+picture: "/static/talks-to-help-you-become-a-better-front-end-engineer-in-2013.png"
 ---

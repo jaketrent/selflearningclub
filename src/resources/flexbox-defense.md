@@ -11,5 +11,5 @@ subject:
 - "flexbox"
 - "css"
 featured: "n"
-picture: "../../public/static/flexbox-defense.png"
+picture: "/static/flexbox-defense.png"
 ---

@@ -12,5 +12,5 @@ subject:
 - "science"
 - "english"
 featured: "n"
-picture: "../../public/static/lumen-.png"
+picture: "/static/lumen-.png"
 ---

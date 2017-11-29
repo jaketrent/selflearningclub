@@ -11,5 +11,5 @@ subject:
 - "flexbox"
 - "css"
 featured: "n"
-picture: "../../public/static/flexbox-in-5.png"
+picture: "/static/flexbox-in-5.png"
 ---

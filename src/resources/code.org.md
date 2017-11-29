@@ -13,5 +13,5 @@ subject:
 - "coding"
 - "computer science"
 featured: "n"
-picture: "../../public/static/code.org.png"
+picture: "/static/code.org.png"
 ---

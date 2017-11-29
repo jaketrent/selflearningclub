@@ -11,5 +11,5 @@ format:
 subject: 
 - "redux"
 featured: "n"
-picture: "../../public/static/idiomatic-redux:-the-tao-of-redux,-part-1---implementation-and-intent.png"
+picture: "/static/idiomatic-redux:-the-tao-of-redux,-part-1---implementation-and-intent.png"
 ---

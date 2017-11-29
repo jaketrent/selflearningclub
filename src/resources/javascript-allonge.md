@@ -11,5 +11,5 @@ subject:
 - "javascript"
 - "es6"
 featured: "n"
-picture: "../../public/static/javascript-allonge.png"
+picture: "/static/javascript-allonge.png"
 ---

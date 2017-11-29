@@ -11,5 +11,5 @@ format:
 subject: 
 - "storytelling"
 featured: "n"
-picture: "../../public/static/the-art-of-storytelling.png"
+picture: "/static/the-art-of-storytelling.png"
 ---

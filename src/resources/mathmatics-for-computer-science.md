@@ -11,5 +11,5 @@ subject:
 - "computer science"
 - "math"
 featured: "n"
-picture: "../../public/static/mathmatics-for-computer-science.png"
+picture: "/static/mathmatics-for-computer-science.png"
 ---

@@ -10,5 +10,5 @@ format:
 subject: 
 - "computer science"
 featured: "n"
-picture: "../../public/static/computer-science-unplugged.png"
+picture: "/static/computer-science-unplugged.png"
 ---

@@ -10,5 +10,5 @@ format:
 subject: 
 - "d3"
 featured: "n"
-picture: "../../public/static/learn-d3.js-in-5-days.png"
+picture: "/static/learn-d3.js-in-5-days.png"
 ---

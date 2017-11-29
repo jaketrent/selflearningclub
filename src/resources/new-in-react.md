@@ -12,5 +12,5 @@ subject:
 - "react"
 - "javascript"
 featured: "n"
-picture: "../../public/static/new-in-react.png"
+picture: "/static/new-in-react.png"
 ---

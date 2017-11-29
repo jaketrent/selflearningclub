@@ -14,5 +14,5 @@ subject:
 - "r"
 - "java"
 featured: "n"
-picture: "../../public/static/safari-books-online.png"
+picture: "/static/safari-books-online.png"
 ---

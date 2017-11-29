@@ -15,5 +15,5 @@ subject:
 - "economics"
 - "psychology"
 featured: "y"
-picture: "../../public/static/crash-course.png"
+picture: "/static/crash-course.png"
 ---

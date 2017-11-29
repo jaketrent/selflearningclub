@@ -11,5 +11,5 @@ format:
 subject: 
 - "react"
 featured: "n"
-picture: "../../public/static/under-the-hood:-reactjs.png"
+picture: "/static/under-the-hood:-reactjs.png"
 ---

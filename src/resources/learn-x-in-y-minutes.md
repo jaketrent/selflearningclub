@@ -14,6 +14,6 @@ subject:
 - "ruby"
 - "python"
 - "javascript"
-featured: "y"
-picture: "../../public/static/learn-x-in-y-minutes.png"
+featured: "n"
+picture: "/static/learn-x-in-y-minutes.png"
 ---

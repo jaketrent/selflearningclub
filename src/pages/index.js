@@ -1,4 +1,5 @@
 import Link from 'gatsby-link'
+import { withPrefix } from 'gatsby-link'
 import React from 'react'
 import styles from './index.module.css'
 import image from '../../public/static/exercism.png'
@@ -17,7 +18,6 @@ class IndexPage extends React.Component {
               <div key={node.fields.slug} className={styles.feature}>
                 <img className={styles.image} src={node.frontmatter.picture}/>
               </div>
-              {node.frontmatter.picture}
               {node.frontmatter.title}
             </Link>
           ))}

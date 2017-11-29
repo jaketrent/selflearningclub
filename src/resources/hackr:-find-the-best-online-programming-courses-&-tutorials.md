@@ -18,5 +18,5 @@ subject:
 - "photoshop"
 - "unity"
 featured: "n"
-picture: "../../public/static/hackr:-find-the-best-online-programming-courses-&-tutorials.png"
+picture: "/static/hackr:-find-the-best-online-programming-courses-&-tutorials.png"
 ---

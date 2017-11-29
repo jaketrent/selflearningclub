@@ -13,5 +13,5 @@ subject:
 - "ruby"
 - "database"
 featured: "n"
-picture: "../../public/static/free-programmin-books.png"
+picture: "/static/free-programmin-books.png"
 ---

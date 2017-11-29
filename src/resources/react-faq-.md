@@ -13,5 +13,5 @@ subject:
 - "javascript"
 - "jsx"
 featured: "n"
-picture: "../../public/static/react-faq-.png"
+picture: "/static/react-faq-.png"
 ---

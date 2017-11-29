@@ -13,5 +13,5 @@ format:
 subject: 
 - "clojure"
 featured: "n"
-picture: "../../public/static/clojure-newbie-guide.png"
+picture: "/static/clojure-newbie-guide.png"
 ---

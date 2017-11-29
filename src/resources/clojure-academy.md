@@ -11,5 +11,5 @@ format:
 subject: 
 - "clojure"
 featured: "n"
-picture: "../../public/static/clojure-academy.png"
+picture: "/static/clojure-academy.png"
 ---

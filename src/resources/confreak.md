@@ -14,5 +14,5 @@ subject:
 - "golang"
 - "elixir"
 featured: "n"
-picture: "../../public/static/confreak.png"
+picture: "/static/confreak.png"
 ---

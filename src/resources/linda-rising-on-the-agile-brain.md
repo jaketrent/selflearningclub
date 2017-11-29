@@ -10,5 +10,5 @@ format:
 subject: 
 - "agile"
 featured: "n"
-picture: "../../public/static/linda-rising-on-the-agile-brain.png"
+picture: "/static/linda-rising-on-the-agile-brain.png"
 ---

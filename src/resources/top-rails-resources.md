@@ -11,5 +11,5 @@ subject:
 - "rails"
 - "ruby"
 featured: "n"
-picture: "../../public/static/top-rails-resources.png"
+picture: "/static/top-rails-resources.png"
 ---

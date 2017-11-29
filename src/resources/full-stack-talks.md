@@ -13,5 +13,5 @@ subject:
 - "react"
 - "polymer"
 featured: "n"
-picture: "../../public/static/full-stack-talks.png"
+picture: "/static/full-stack-talks.png"
 ---

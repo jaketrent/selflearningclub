@@ -12,5 +12,5 @@ subject:
 - "sketch"
 - "design"
 featured: "n"
-picture: "../../public/static/sketch-for-designer.png"
+picture: "/static/sketch-for-designer.png"
 ---

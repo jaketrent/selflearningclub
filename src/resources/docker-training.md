@@ -12,5 +12,5 @@ format:
 subject: 
 - "docker"
 featured: "n"
-picture: "../../public/static/docker-training.png"
+picture: "/static/docker-training.png"
 ---

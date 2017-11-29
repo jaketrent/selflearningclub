@@ -10,5 +10,5 @@ format:
 subject: 
 - "gaming"
 featured: "n"
-picture: "../../public/static/craftstudio.png"
+picture: "/static/craftstudio.png"
 ---

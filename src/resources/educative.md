@@ -16,5 +16,5 @@ subject:
 - "javascript"
 - "python"
 featured: "n"
-picture: "../../public/static/educative.png"
+picture: "/static/educative.png"
 ---

@@ -14,5 +14,5 @@ subject:
 - "python"
 - "node"
 featured: "n"
-picture: "../../public/static/o'reilly-atlas.png"
+picture: "/static/o'reilly-atlas.png"
 ---

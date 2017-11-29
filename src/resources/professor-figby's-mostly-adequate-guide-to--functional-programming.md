@@ -10,5 +10,5 @@ format:
 subject: 
 - "functional programming"
 featured: "n"
-picture: "../../public/static/professor-figby's-mostly-adequate-guide-to--functional-programming.png"
+picture: "/static/professor-figby's-mostly-adequate-guide-to--functional-programming.png"
 ---

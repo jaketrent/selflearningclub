@@ -13,5 +13,5 @@ subject:
 - "css"
 - "animation"
 featured: "n"
-picture: "../../public/static/web-animation-essentials.png"
+picture: "/static/web-animation-essentials.png"
 ---

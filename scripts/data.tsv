@@ -36,7 +36,7 @@ Patterns of Software 	http://www.dreamsongs.com/Files/PatternsOfSoftware.pdf	0	n
 RubyMonk	https://rubymonk.com/	0	n/a	course	ruby	n
 Flexbox in 5	https://cvan.io/flexboxin5/	0	n/a	interactive	flexbox,css	n
 Ruby Hacking Guide	http://ruby-hacking-guide.github.io/	0	n/a	ebook	ruby	n
-Learn X in Y minutes	https://learnxinyminutes.com/	0	n/a	example	c,elixir,elm,ruby,python,javascript	y
+Learn X in Y minutes	https://learnxinyminutes.com/	0	n/a	example	c,elixir,elm,ruby,python,javascript	n
 React Primer Draft	https://github.com/mikechau/react-primer-draft	0	n/a	documentation,example	react	n
 Front End TV	https://www.youtube.com/user/OfficialFrontEndTV	0	n/a	video	javascript,node	n
 Why Racket? Why Lisp?	http://practicaltypography.com/why-racket-why-lisp.html	0	n/a	ebook	lisp	n
@@ -109,7 +109,7 @@ Syncfusion ebooks	https://www.syncfusion.com/resources/techportal/ebooks	0	n/a	e
 CSS Reference	http://cssreference.io/	0	n/a	interactive	css,flexbox,animation	n
 Secrets to Being Smarter	https://www.pluralsight.com/blog/career/smarter-secrets-podcasts	0	n/a	podcast	development,c++,.net,javascript	n
 Beginning to Elm: a gentle introduction	http://elmprogramming.com/	0	n/a	ebook,documentation	elm	n
-Marksheet	http://marksheet.io/	0	n/a	ebook,documentation	css,html	n
+Marksheet	http://marksheet.io/	0	n/a	ebook,documentation	css,html	y
 Elm Orlando	https://elmorlando.herokuapp.com/#/	0	n/a	ebook,video	elm	n
 Game Development	https://game-development.zeef.com/david.arcila	0	n/a	resource,project	game development	n
 Video Copilot	http://www.videocopilot.net/	0	n/a	video,tutorial,blog	video editing,after effects	n

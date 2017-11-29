@@ -17,7 +17,7 @@ const seperateParts = line => Object.assign({}, line, {
   diffPricePerPeriod: '\n- ' + line.pricePerPeriod.split(",").map(pricePerPeriod => `"${pricePerPeriod}"`).join('\n- '),
   diffFormat: '\n- ' + line.format.split(",").map(format => `"${format}"`).join('\n- '),
   tags: '\n- ' + line.subjects.split(",").map(subjects => `"${subjects.trim()}"`).join('\n- '),
-  picture: '../../public/static/' + line.title.split(' ').join('-').toLowerCase() + '.png'
+  picture: '/static/' + line.title.split(' ').join('-').toLowerCase() + '.png'
 })
 const nonEmptyColumns = line => line.id !== ''
 const deriveColumns = line => Object.assign({}, line, {

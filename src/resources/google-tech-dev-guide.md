@@ -11,5 +11,5 @@ format:
 subject: 
 - "java"
 featured: "n"
-picture: "../../public/static/google-tech-dev-guide.png"
+picture: "/static/google-tech-dev-guide.png"
 ---

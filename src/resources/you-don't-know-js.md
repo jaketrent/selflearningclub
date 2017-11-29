@@ -11,5 +11,5 @@ format:
 subject: 
 - "javascript"
 featured: "n"
-picture: "../../public/static/you-don't-know-js.png"
+picture: "/static/you-don't-know-js.png"
 ---

@@ -12,5 +12,5 @@ subject:
 - "react"
 - "react native"
 featured: "n"
-picture: "../../public/static/going-mobile-with-react-native.png"
+picture: "/static/going-mobile-with-react-native.png"
 ---

@@ -15,5 +15,5 @@ subject:
 - "ux"
 - "data science"
 featured: "n"
-picture: "../../public/static/springboard.png"
+picture: "/static/springboard.png"
 ---

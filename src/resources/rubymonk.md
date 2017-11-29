@@ -10,5 +10,5 @@ format:
 subject: 
 - "ruby"
 featured: "n"
-picture: "../../public/static/rubymonk.png"
+picture: "/static/rubymonk.png"
 ---

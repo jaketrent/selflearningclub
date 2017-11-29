@@ -11,5 +11,5 @@ format:
 subject: 
 - "lisp"
 featured: "n"
-picture: "../../public/static/the-common-lisp-cookbook.png"
+picture: "/static/the-common-lisp-cookbook.png"
 ---

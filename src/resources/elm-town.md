@@ -10,5 +10,5 @@ format:
 subject: 
 - "elm"
 featured: "n"
-picture: "../../public/static/elm-town.png"
+picture: "/static/elm-town.png"
 ---

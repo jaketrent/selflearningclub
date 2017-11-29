@@ -13,5 +13,5 @@ subject:
 - "video editing"
 - "after effects"
 featured: "n"
-picture: "../../public/static/video-copilot.png"
+picture: "/static/video-copilot.png"
 ---

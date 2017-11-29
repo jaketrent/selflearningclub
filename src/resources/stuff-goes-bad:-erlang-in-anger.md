@@ -10,5 +10,5 @@ format:
 subject: 
 - "erlang"
 featured: "n"
-picture: "../../public/static/stuff-goes-bad:-erlang-in-anger.png"
+picture: "/static/stuff-goes-bad:-erlang-in-anger.png"
 ---

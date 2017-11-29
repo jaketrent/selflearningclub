@@ -13,5 +13,5 @@ format:
 subject: 
 - "javascript"
 featured: "n"
-picture: "../../public/static/learn-javascript-with-eric-elliot.png"
+picture: "/static/learn-javascript-with-eric-elliot.png"
 ---

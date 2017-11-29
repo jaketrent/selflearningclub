@@ -10,5 +10,5 @@ format:
 subject: 
 - "rust"
 featured: "n"
-picture: "../../public/static/rust-by-example.png"
+picture: "/static/rust-by-example.png"
 ---

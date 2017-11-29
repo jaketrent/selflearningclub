@@ -17,5 +17,5 @@ subject:
 - "haskell"
 - "php"
 featured: "n"
-picture: "../../public/static/codewars.png"
+picture: "/static/codewars.png"
 ---

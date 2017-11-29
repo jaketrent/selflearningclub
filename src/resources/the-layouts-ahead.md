@@ -10,5 +10,5 @@ format:
 subject: 
 - "css"
 featured: "n"
-picture: "../../public/static/the-layouts-ahead.png"
+picture: "/static/the-layouts-ahead.png"
 ---

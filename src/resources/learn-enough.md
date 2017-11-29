@@ -13,5 +13,5 @@ subject:
 - "css"
 - "cl"
 featured: "n"
-picture: "../../public/static/learn-enough.png"
+picture: "/static/learn-enough.png"
 ---

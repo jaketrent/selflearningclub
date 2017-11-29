@@ -10,5 +10,5 @@ format:
 subject: 
 - "scala"
 featured: "n"
-picture: "../../public/static/scala-school.png"
+picture: "/static/scala-school.png"
 ---

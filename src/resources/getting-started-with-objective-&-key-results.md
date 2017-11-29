@@ -10,5 +10,5 @@ format:
 subject: 
 - "okrs"
 featured: "n"
-picture: "../../public/static/getting-started-with-objective-&-key-results.png"
+picture: "/static/getting-started-with-objective-&-key-results.png"
 ---

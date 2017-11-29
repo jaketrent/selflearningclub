@@ -11,5 +11,5 @@ format:
 subject: 
 - "human computer interaction"
 featured: "n"
-picture: "../../public/static/computer-science-field-guide.png"
+picture: "/static/computer-science-field-guide.png"
 ---

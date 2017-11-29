@@ -10,5 +10,5 @@ format:
 subject: 
 - "ruby"
 featured: "y"
-picture: "../../public/static/ruby-warrior.png"
+picture: "/static/ruby-warrior.png"
 ---

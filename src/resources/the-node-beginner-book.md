@@ -10,5 +10,5 @@ format:
 subject: 
 - "node"
 featured: "n"
-picture: "../../public/static/the-node-beginner-book.png"
+picture: "/static/the-node-beginner-book.png"
 ---

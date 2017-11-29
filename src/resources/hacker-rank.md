@@ -15,5 +15,5 @@ subject:
 - "ruby"
 - "functional"
 featured: "n"
-picture: "../../public/static/hacker-rank.png"
+picture: "/static/hacker-rank.png"
 ---

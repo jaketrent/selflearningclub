@@ -12,5 +12,5 @@ format:
 subject: 
 - "vue.js"
 featured: "n"
-picture: "../../public/static/awesome-vue.png"
+picture: "/static/awesome-vue.png"
 ---

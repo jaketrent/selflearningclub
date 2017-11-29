@@ -12,5 +12,5 @@ subject:
 - "security"
 - "hacking"
 featured: "n"
-picture: "../../public/static/cybrary.png"
+picture: "/static/cybrary.png"
 ---

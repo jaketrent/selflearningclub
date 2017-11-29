@@ -13,5 +13,5 @@ subject:
 - "programming"
 - "react"
 featured: "n"
-picture: "../../public/static/udacity.png"
+picture: "/static/udacity.png"
 ---

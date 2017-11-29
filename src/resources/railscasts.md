@@ -10,5 +10,5 @@ format:
 subject: 
 - "rails"
 featured: "n"
-picture: "../../public/static/railscasts.png"
+picture: "/static/railscasts.png"
 ---

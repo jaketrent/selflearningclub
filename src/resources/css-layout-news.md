@@ -11,5 +11,5 @@ format:
 subject: 
 - "css"
 featured: "n"
-picture: "../../public/static/css-layout-news.png"
+picture: "/static/css-layout-news.png"
 ---

@@ -10,5 +10,5 @@ format:
 subject: 
 - "programming"
 featured: "n"
-picture: "../../public/static/competitive-programmer's-handbook.png"
+picture: "/static/competitive-programmer's-handbook.png"
 ---

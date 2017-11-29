@@ -12,5 +12,5 @@ subject:
 - "ux"
 - "user experience"
 featured: "n"
-picture: "../../public/static/ux-designers:-here-are-the-56-best-websites-to-learn-something-new.png"
+picture: "/static/ux-designers:-here-are-the-56-best-websites-to-learn-something-new.png"
 ---

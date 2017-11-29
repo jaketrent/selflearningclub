@@ -17,5 +17,5 @@ subject:
 - "swift"
 - "javascript"
 featured: "y"
-picture: "../../public/static/exercism.png"
+picture: "/static/exercism.png"
 ---

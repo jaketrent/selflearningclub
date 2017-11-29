@@ -11,5 +11,5 @@ subject:
 - "lisp"
 - "logo"
 featured: "n"
-picture: "../../public/static/teaching-kids-to-program-in-their-native-language.png"
+picture: "/static/teaching-kids-to-program-in-their-native-language.png"
 ---

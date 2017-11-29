@@ -12,5 +12,5 @@ format:
 subject: 
 - "puzzle"
 featured: "n"
-picture: "../../public/static/advent-of-code-2016.png"
+picture: "/static/advent-of-code-2016.png"
 ---

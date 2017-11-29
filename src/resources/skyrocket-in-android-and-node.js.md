@@ -12,5 +12,5 @@ subject:
 - "android"
 - "node"
 featured: "n"
-picture: "../../public/static/skyrocket-in-android-and-node.js.png"
+picture: "/static/skyrocket-in-android-and-node.js.png"
 ---

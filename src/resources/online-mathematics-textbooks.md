@@ -10,5 +10,5 @@ format:
 subject: 
 - "math"
 featured: "n"
-picture: "../../public/static/online-mathematics-textbooks.png"
+picture: "/static/online-mathematics-textbooks.png"
 ---

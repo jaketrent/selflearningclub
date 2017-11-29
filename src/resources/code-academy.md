@@ -21,5 +21,5 @@ subject:
 - "javascript"
 - "angular"
 featured: "n"
-picture: "../../public/static/code-academy.png"
+picture: "/static/code-academy.png"
 ---

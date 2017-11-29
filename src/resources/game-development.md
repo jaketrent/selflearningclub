@@ -11,5 +11,5 @@ format:
 subject: 
 - "game development"
 featured: "n"
-picture: "../../public/static/game-development.png"
+picture: "/static/game-development.png"
 ---

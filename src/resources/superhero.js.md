@@ -11,5 +11,5 @@ subject:
 - "javascript"
 - "dom"
 featured: "n"
-picture: "../../public/static/superhero.js.png"
+picture: "/static/superhero.js.png"
 ---
