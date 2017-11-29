@@ -14,4 +14,5 @@ subject:
 - "php"
 - "swift"
 featured: "n"
+picture: "../../public/static/airpair.png"
 ---

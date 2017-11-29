@@ -11,4 +11,5 @@ format:
 subject: 
 - "photoshop"
 featured: "n"
+picture: "../../public/static/phlearn.png"
 ---

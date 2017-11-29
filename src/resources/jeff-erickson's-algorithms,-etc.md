@@ -10,4 +10,5 @@ format:
 subject: 
 - "algorithms"
 featured: "n"
+picture: "../../public/static/jeff-erickson's-algorithms,-etc.png"
 ---

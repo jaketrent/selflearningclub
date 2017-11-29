@@ -11,4 +11,5 @@ format:
 subject: 
 - "css"
 featured: "n"
+picture: "../../public/static/learn-css-layout.png"
 ---

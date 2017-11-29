@@ -13,4 +13,5 @@ subject:
 - ".net"
 - "javascript"
 featured: "n"
+picture: "../../public/static/secrets-to-being-smarter.png"
 ---

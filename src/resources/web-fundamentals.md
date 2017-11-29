@@ -15,4 +15,5 @@ subject:
 - "ui"
 - "architecture"
 featured: "n"
+picture: "../../public/static/web-fundamentals.png"
 ---

@@ -15,4 +15,5 @@ subject:
 - "javascript"
 - "ruby"
 featured: "n"
+picture: "../../public/static/teach-yourself-to-code.png"
 ---

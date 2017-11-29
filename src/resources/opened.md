@@ -14,4 +14,5 @@ subject:
 - "science"
 - "english"
 featured: "n"
+picture: "../../public/static/opened.png"
 ---

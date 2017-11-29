@@ -11,4 +11,5 @@ subject:
 - "java"
 - "tutorials"
 featured: "n"
+picture: "../../public/static/after-completing-40-pluralsight-courses.png"
 ---

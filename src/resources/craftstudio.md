@@ -10,4 +10,5 @@ format:
 subject: 
 - "gaming"
 featured: "n"
+picture: "../../public/static/craftstudio.png"
 ---

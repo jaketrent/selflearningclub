@@ -11,4 +11,5 @@ format:
 subject: 
 - "elixir"
 featured: "n"
+picture: "../../public/static/elixir-school.png"
 ---

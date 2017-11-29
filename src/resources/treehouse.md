@@ -17,4 +17,5 @@ subject:
 - "database"
 - "android"
 featured: "n"
+picture: "../../public/static/treehouse.png"
 ---

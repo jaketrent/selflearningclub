@@ -12,4 +12,5 @@ subject:
 - "css"
 - "css grid"
 featured: "n"
+picture: "../../public/static/grid-by-example.png"
 ---

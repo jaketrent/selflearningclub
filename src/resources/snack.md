@@ -12,4 +12,5 @@ subject:
 - "react"
 - "native"
 featured: "n"
+picture: "../../public/static/snack.png"
 ---

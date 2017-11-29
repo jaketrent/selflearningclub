@@ -13,4 +13,5 @@ subject:
 - "javascript"
 - "rails"
 featured: "n"
+picture: "../../public/static/jennifer-dewalt.png"
 ---

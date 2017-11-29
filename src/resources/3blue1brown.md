@@ -13,4 +13,5 @@ subject:
 - "calculus"
 - "algebra"
 featured: "n"
+picture: "../../public/static/3blue1brown.png"
 ---

@@ -10,4 +10,5 @@ format:
 subject: 
 - "haskell"
 featured: "n"
+picture: "../../public/static/real-world-haskell.png"
 ---

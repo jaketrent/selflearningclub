@@ -11,4 +11,5 @@ format:
 subject: 
 - "r"
 featured: "n"
+picture: "../../public/static/swirl:-learn-r-in-r.png"
 ---

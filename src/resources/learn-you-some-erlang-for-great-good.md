@@ -10,4 +10,5 @@ format:
 subject: 
 - "erlang"
 featured: "n"
+picture: "../../public/static/learn-you-some-erlang-for-great-good.png"
 ---

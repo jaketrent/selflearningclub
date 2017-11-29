@@ -11,4 +11,5 @@ subject:
 - "coding"
 - "kids"
 featured: "n"
+picture: "../../public/static/code:-course-1.png"
 ---

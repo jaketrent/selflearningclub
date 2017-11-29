@@ -11,4 +11,5 @@ format:
 subject: 
 - "algorithms"
 featured: "n"
+picture: "../../public/static/visualgo.png"
 ---

@@ -12,4 +12,5 @@ subject:
 - "machine learning"
 - "devops"
 featured: "n"
+picture: "../../public/static/infoq.png"
 ---

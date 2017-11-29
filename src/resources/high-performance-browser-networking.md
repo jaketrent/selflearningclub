@@ -10,4 +10,5 @@ format:
 subject: 
 - "networking"
 featured: "n"
+picture: "../../public/static/high-performance-browser-networking.png"
 ---

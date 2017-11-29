@@ -10,4 +10,5 @@ format:
 subject: 
 - "kubernetes"
 featured: "n"
+picture: "../../public/static/kubernetes-the-hard-way.png"
 ---

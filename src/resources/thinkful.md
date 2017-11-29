@@ -13,4 +13,5 @@ subject:
 - "full stack"
 - "web development"
 featured: "n"
+picture: "../../public/static/thinkful.png"
 ---

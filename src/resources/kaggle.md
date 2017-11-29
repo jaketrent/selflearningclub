@@ -11,4 +11,5 @@ subject:
 - "data science"
 - "machine learning"
 featured: "n"
+picture: "../../public/static/kaggle.png"
 ---

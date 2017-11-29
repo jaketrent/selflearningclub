@@ -11,4 +11,5 @@ format:
 subject: 
 - "everything"
 featured: "n"
+picture: "../../public/static/diy.png"
 ---

@@ -13,4 +13,5 @@ subject:
 - "code"
 - "creating"
 featured: "n"
+picture: "../../public/static/codenewbie.png"
 ---

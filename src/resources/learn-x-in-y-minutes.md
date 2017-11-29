@@ -15,4 +15,5 @@ subject:
 - "python"
 - "javascript"
 featured: "y"
+picture: "../../public/static/learn-x-in-y-minutes.png"
 ---

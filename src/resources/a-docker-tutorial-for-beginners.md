@@ -12,4 +12,5 @@ format:
 subject: 
 - "docker"
 featured: "n"
+picture: "../../public/static/a-docker-tutorial-for-beginners.png"
 ---

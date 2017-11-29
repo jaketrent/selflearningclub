@@ -11,4 +11,5 @@ format:
 subject: 
 - "webrtc"
 featured: "n"
+picture: "../../public/static/a-real-world-guide-to-webrtc.png"
 ---

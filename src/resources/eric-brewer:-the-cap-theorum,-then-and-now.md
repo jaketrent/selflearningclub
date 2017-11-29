@@ -10,4 +10,5 @@ format:
 subject: 
 - "cap theorum"
 featured: "n"
+picture: "../../public/static/eric-brewer:-the-cap-theorum,-then-and-now.png"
 ---

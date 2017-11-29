@@ -10,4 +10,5 @@ format:
 subject: 
 - "css"
 featured: "n"
+picture: "../../public/static/the-magic-of-css.png"
 ---

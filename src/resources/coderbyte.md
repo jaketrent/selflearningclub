@@ -15,4 +15,5 @@ subject:
 - "ruby"
 - "php"
 featured: "n"
+picture: "../../public/static/coderbyte.png"
 ---

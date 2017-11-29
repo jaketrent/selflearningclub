@@ -12,4 +12,5 @@ subject:
 - "flexbox"
 - "animation"
 featured: "n"
+picture: "../../public/static/css-reference.png"
 ---

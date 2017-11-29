@@ -1,0 +1,15 @@
+.title {
+  font-size: 1.7em;
+}
+.formatContainer, 
+.subjectContainer {
+  display: flex;
+  flex-wrap: wrap;
+}
+.button {
+  background: #35c3e3;
+  padding: .65em;
+}
+.subject {
+  padding-right: .8em;
+}

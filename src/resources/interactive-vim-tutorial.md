@@ -11,4 +11,5 @@ format:
 subject: 
 - "vim"
 featured: "n"
+picture: "../../public/static/interactive-vim-tutorial.png"
 ---

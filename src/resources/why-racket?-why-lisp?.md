@@ -10,4 +10,5 @@ format:
 subject: 
 - "lisp"
 featured: "n"
+picture: "../../public/static/why-racket?-why-lisp?.png"
 ---

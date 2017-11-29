@@ -14,4 +14,5 @@ subject:
 - "it security"
 - "amazon web services"
 featured: "n"
+picture: "../../public/static/cbt-nuggets.png"
 ---

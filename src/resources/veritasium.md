@@ -11,4 +11,5 @@ subject:
 - "science"
 - "physics"
 featured: "n"
+picture: "../../public/static/veritasium.png"
 ---

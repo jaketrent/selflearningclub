@@ -10,4 +10,5 @@ format:
 subject: 
 - "website"
 featured: "n"
+picture: "../../public/static/wix.png"
 ---

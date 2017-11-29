@@ -15,4 +15,5 @@ subject:
 - "vim"
 - "javascript"
 featured: "n"
+picture: "../../public/static/thoughtbot.png"
 ---

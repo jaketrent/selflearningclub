@@ -12,4 +12,5 @@ subject:
 - "python"
 - "angular"
 featured: "n"
+picture: "../../public/static/packt-free-learning.png"
 ---

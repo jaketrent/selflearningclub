@@ -12,4 +12,5 @@ subject:
 - "java"
 - "web development"
 featured: "n"
+picture: "../../public/static/udemy.png"
 ---

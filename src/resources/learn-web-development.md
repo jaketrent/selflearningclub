@@ -14,4 +14,5 @@ subject:
 - "css"
 - "javascript"
 featured: "n"
+picture: "../../public/static/learn-web-development.png"
 ---

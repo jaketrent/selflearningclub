@@ -14,4 +14,5 @@ subject:
 - "node"
 - "python"
 featured: "n"
+picture: "../../public/static/rithm-school.png"
 ---

@@ -11,4 +11,5 @@ subject:
 - "software"
 - "software architecture"
 featured: "n"
+picture: "../../public/static/saturn-2015.png"
 ---

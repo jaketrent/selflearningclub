@@ -10,4 +10,5 @@ format:
 subject: 
 - "software"
 featured: "n"
+picture: "../../public/static/patterns-of-software-.png"
 ---

@@ -10,4 +10,5 @@ format:
 subject: 
 - "webGL"
 featured: "n"
+picture: "../../public/static/webgl-fundamentals.png"
 ---

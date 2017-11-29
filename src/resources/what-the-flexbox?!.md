@@ -12,4 +12,5 @@ subject:
 - "flexbox"
 - "css"
 featured: "n"
+picture: "../../public/static/what-the-flexbox?!.png"
 ---

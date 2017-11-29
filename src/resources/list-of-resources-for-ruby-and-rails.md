@@ -11,4 +11,5 @@ subject:
 - "ruby"
 - "rails"
 featured: "n"
+picture: "../../public/static/list-of-resources-for-ruby-and-rails.png"
 ---

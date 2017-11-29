@@ -10,4 +10,5 @@ format:
 subject: 
 - "javascript"
 featured: "n"
+picture: "../../public/static/exploring-javascript.png"
 ---

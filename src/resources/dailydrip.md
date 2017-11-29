@@ -14,4 +14,5 @@ subject:
 - "swift"
 - "react"
 featured: "n"
+picture: "../../public/static/dailydrip.png"
 ---

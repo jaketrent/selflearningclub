@@ -23,7 +23,7 @@ Go Rails	https://gorails.com/	19	monthly	video,course	rails	n
 O'Reilly Atlas	http://chimera.labs.oreilly.com/books	0	n/a	video,ebook	javascript,html,python,node	n
 Eloquent JavaScript	http://eloquentjavascript.net/	0	n/a	ebook	javascript	n
 Gooru	http://www.gooru.org/welcome/	0	n/a	course	science,math,social science,english	n
-Springboard	https://www.springboard.com/resources/	0	n/a	course,video,email,ebook	user experience,ux,data science	y
+Springboard	https://www.springboard.com/resources/	0	n/a	course,video,email,ebook	user experience,ux,data science	n
 DIY	https://diy.org/	0	n/a	interactive,project	everything	n
 coderbyte	https://coderbyte.com/	0	n/a	challenge,interactive	javascript,python,c++, ruby,php	n
 DailyDrip	https://www.dailydrip.com/	22	monthly	video	elm,elixir,ember,swift,react	n
@@ -72,7 +72,7 @@ Ctrl + Paint	https://www.ctrlpaint.com/	0	n/a	video	painting	n
 A Docker Tutorial for Beginners	https://docker-curriculum.com/	0	n/a	tutorial,documentation,example	docker	n
 Docker Training	https://training.docker.com/	0	n/a	video,documentation,ebook	docker	n
 Computer Science Field Guide	http://www.csfieldguide.org.nz/	0	n/a	ebook,video	human computer interaction	n
-Learn Enough	https://www.learnenough.com/courses	0	n/a	ebook	git,html,css,cl	y
+Learn Enough	https://www.learnenough.com/courses	0	n/a	ebook	git,html,css,cl	n
 JSON Web Token Introduction	https://jwt.io/introduction/	0	n/a	documentation	json web token	n
 Packt Free Learning	https://www.packtpub.com/packt/offers/free-learning	0	n/a	ebook	java,python,angular	n
 Swirl: Learn R in R	http://swirlstats.com/	0	n/a	project,tutorial	r	n
@@ -95,9 +95,9 @@ Crash Course	https://thecrashcourse.com/	0	n/a	video,interactive	anatomy,astrono
 Web Rebels 2016	https://opbeat.com/community/events/web-rebels-2016/#change-the-world-with-the-peer-web-and-thali	0	n/a	video	web,front-end,javascript	n
 EbookFoundation	https://github.com/EbookFoundation/free-programming-books	0	n/a	ebook,resource	library,programming	n
 InfoQ	https://www.youtube.com/user/MarakanaTechTV/videos	0	n/a	video	data science,machine learning,devops	n
-Hacker Rank	https://www.hackerrank.com/dashboard	0	n/a	interactive,challenge	c++,java,python,ruby,functional	y
+Hacker Rank	https://www.hackerrank.com/dashboard	0	n/a	interactive,challenge	c++,java,python,ruby,functional	n
 LeetCode	https://leetcode.com/	0	n/a	interactive,challenge	c,c++,java,python,go,swift,javascript	n
-Codewars	https://www.codewars.com/	0	n/a	interactive,challenge	c++,javascript,python,go,swift,haskell,php	y
+Codewars	https://www.codewars.com/	0	n/a	interactive,challenge	c++,javascript,python,go,swift,haskell,php	n
 Exercism	http://exercism.io/	0	n/a	project,challenge	c,c++,java,python,go,swift,javascript	y
 React Enlightenment	https://www.reactenlightenment.com/	0	n/a	ebook	react	n
 The Node Beginner Book	https://glitch.com/edit/#!/node-beginner?path=README.md:1:0	0	n/a	ebook	node	n
@@ -109,10 +109,10 @@ Syncfusion ebooks	https://www.syncfusion.com/resources/techportal/ebooks	0	n/a	e
 CSS Reference	http://cssreference.io/	0	n/a	interactive	css,flexbox,animation	n
 Secrets to Being Smarter	https://www.pluralsight.com/blog/career/smarter-secrets-podcasts	0	n/a	podcast	development,c++,.net,javascript	n
 Beginning to Elm: a gentle introduction	http://elmprogramming.com/	0	n/a	ebook,documentation	elm	n
-Marksheet	http://marksheet.io/	0	n/a	ebook,documentation	css,html	y
+Marksheet	http://marksheet.io/	0	n/a	ebook,documentation	css,html	n
 Elm Orlando	https://elmorlando.herokuapp.com/#/	0	n/a	ebook,video	elm	n
 Game Development	https://game-development.zeef.com/david.arcila	0	n/a	resource,project	game development	n
-Video Copilot	http://www.videocopilot.net/	0	n/a	video,tutorial,blog	video editing,after effects	y
+Video Copilot	http://www.videocopilot.net/	0	n/a	video,tutorial,blog	video editing,after effects	n
 Brave Clojure	https://www.braveclojure.com/	0	n/a	ebook,email	clojure	n
 The art of storytelling	https://www.khanacademy.org/partner-content/pixar/storytelling	0	n/a	video,course	storytelling	n
 Mathmatics for Computer Science	https://courses.csail.mit.edu/6.042/spring17/mcs.pdf	0	n/a	ebook	computer science,math	n

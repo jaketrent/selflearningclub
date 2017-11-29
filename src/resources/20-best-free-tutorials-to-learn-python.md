@@ -10,4 +10,5 @@ format:
 subject: 
 - "python"
 featured: "n"
+picture: "../../public/static/20-best-free-tutorials-to-learn-python.png"
 ---

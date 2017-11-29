@@ -11,4 +11,5 @@ format:
 subject: 
 - "clojure"
 featured: "n"
+picture: "../../public/static/brave-clojure.png"
 ---

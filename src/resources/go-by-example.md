@@ -10,4 +10,5 @@ format:
 subject: 
 - "go"
 featured: "n"
+picture: "../../public/static/go-by-example.png"
 ---

@@ -12,5 +12,6 @@ format:
 subject: 
 - "video editing"
 - "after effects"
-featured: "y"
+featured: "n"
+picture: "../../public/static/video-copilot.png"
 ---

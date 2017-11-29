@@ -16,5 +16,6 @@ subject:
 - "swift"
 - "haskell"
 - "php"
-featured: "y"
+featured: "n"
+picture: "../../public/static/codewars.png"
 ---

@@ -10,4 +10,5 @@ format:
 subject: 
 - "data science"
 featured: "n"
+picture: "../../public/static/learn-data-sci.png"
 ---

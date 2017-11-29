@@ -11,4 +11,5 @@ subject:
 - "javascript"
 - "node"
 featured: "n"
+picture: "../../public/static/front-end-tv.png"
 ---

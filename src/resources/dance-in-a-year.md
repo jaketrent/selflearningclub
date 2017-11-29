@@ -10,4 +10,5 @@ format:
 subject: 
 - "dance"
 featured: "n"
+picture: "../../public/static/dance-in-a-year.png"
 ---

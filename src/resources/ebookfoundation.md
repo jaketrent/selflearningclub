@@ -12,4 +12,5 @@ subject:
 - "library"
 - "programming"
 featured: "n"
+picture: "../../public/static/ebookfoundation.png"
 ---

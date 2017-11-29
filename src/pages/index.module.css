@@ -1,0 +1,17 @@
+.featureContainer {
+  display: flex;
+  flex-wrap: wrap;
+}
+.feature {
+  text-align: center;
+}
+.featureLink {
+  width: 250px;
+  height: 100px;
+  margin: 1em auto;
+}
+.image {
+  display: block;
+  border: 2px solid white;
+  max-width: 100%;
+}

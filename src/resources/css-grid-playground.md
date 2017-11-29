@@ -12,4 +12,5 @@ subject:
 - "css"
 - "html"
 featured: "n"
+picture: "../../public/static/css-grid-playground.png"
 ---

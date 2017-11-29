@@ -11,4 +11,5 @@ format:
 subject: 
 - "elm"
 featured: "n"
+picture: "../../public/static/beginning-to-elm:-a-gentle-introduction.png"
 ---

@@ -11,4 +11,5 @@ format:
 subject: 
 - "react"
 featured: "n"
+picture: "../../public/static/learn-react.png"
 ---

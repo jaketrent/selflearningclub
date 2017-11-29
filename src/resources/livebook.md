@@ -14,4 +14,5 @@ subject:
 - "electron"
 - "angular"
 featured: "n"
+picture: "../../public/static/livebook.png"
 ---

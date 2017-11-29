@@ -16,4 +16,5 @@ subject:
 - "seo"
 - "php"
 featured: "n"
+picture: "../../public/static/a-complete-web-developer-reading-list.png"
 ---

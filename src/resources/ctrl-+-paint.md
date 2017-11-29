@@ -10,4 +10,5 @@ format:
 subject: 
 - "painting"
 featured: "n"
+picture: "../../public/static/ctrl-+-paint.png"
 ---

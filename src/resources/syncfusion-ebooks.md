@@ -13,4 +13,5 @@ subject:
 - "go"
 - ".net"
 featured: "n"
+picture: "../../public/static/syncfusion-ebooks.png"
 ---

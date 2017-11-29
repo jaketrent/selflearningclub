@@ -13,4 +13,5 @@ subject:
 - "c"
 - "game"
 featured: "n"
+picture: "../../public/static/how-to-program-a-nes-game-in-c.png"
 ---

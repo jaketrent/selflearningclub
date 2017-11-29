@@ -12,4 +12,5 @@ subject:
 - "front-end"
 - "javascript"
 featured: "n"
+picture: "../../public/static/web-rebels-2016.png"
 ---

@@ -12,5 +12,6 @@ subject:
 - "html"
 - "css"
 - "cl"
-featured: "y"
+featured: "n"
+picture: "../../public/static/learn-enough.png"
 ---

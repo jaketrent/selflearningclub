@@ -12,4 +12,5 @@ subject:
 - "git"
 - "api"
 featured: "n"
+picture: "../../public/static/a-set-of-best-practices-for-javascript-projects.png"
 ---

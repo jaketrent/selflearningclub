@@ -14,4 +14,5 @@ subject:
 - "architecture"
 - "algorithms"
 featured: "n"
+picture: "../../public/static/teach-yourself-computer-science.png"
 ---

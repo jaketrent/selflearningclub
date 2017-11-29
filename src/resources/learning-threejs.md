@@ -10,4 +10,5 @@ format:
 subject: 
 - "threejs"
 featured: "n"
+picture: "../../public/static/learning-threejs.png"
 ---

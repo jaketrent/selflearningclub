@@ -10,4 +10,5 @@ format:
 subject: 
 - "pluralsight"
 featured: "n"
+picture: "../../public/static/how-to-use-pluralsight-training-for-free.png"
 ---

@@ -11,4 +11,5 @@ format:
 subject: 
 - "rails"
 featured: "n"
+picture: "../../public/static/go-rails.png"
 ---

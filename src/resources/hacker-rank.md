@@ -14,5 +14,6 @@ subject:
 - "python"
 - "ruby"
 - "functional"
-featured: "y"
+featured: "n"
+picture: "../../public/static/hacker-rank.png"
 ---

@@ -12,4 +12,5 @@ subject:
 - "javascript"
 - "ruby"
 featured: "n"
+picture: "../../public/static/7-ways-to-learn-to-code-for-free.png"
 ---

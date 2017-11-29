@@ -10,4 +10,5 @@ format:
 subject: 
 - "regex"
 featured: "n"
+picture: "../../public/static/learn-regex-the-easy-way.png"
 ---

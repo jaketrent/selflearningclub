@@ -10,4 +10,5 @@ format:
 subject: 
 - "language"
 featured: "n"
+picture: "../../public/static/make-a-language-in-one-hour:-stacker.png"
 ---

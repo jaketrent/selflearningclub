@@ -12,4 +12,5 @@ subject:
 - "pythin"
 - "c++"
 featured: "n"
+picture: "../../public/static/karan's-mega-projects-list.png"
 ---

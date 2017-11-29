@@ -10,4 +10,5 @@ format:
 subject: 
 - "json web token"
 featured: "n"
+picture: "../../public/static/json-web-token-introduction.png"
 ---

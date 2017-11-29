@@ -3,7 +3,7 @@
 }
 .rhCol {
   flex: 3;
-  margin-left: 1em;
+  margin: auto;
 }
 .lhCol {
   flex: 1;
@@ -16,4 +16,7 @@
 }
 .lhColSection {
   margin-bottom: 25px;
+}
+.resourceLink {
+  margin: .4em 0;
 }

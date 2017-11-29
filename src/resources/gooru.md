@@ -13,4 +13,5 @@ subject:
 - "social science"
 - "english"
 featured: "n"
+picture: "../../public/static/gooru.png"
 ---

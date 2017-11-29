@@ -14,7 +14,7 @@
   height: 7.5rem;
 }
 .title {
-  font-size: 1.85em;
+  font-size: 1.936em;
   padding: 0 0 0 8px;
   line-height: 2.6rem;
   letter-spacing: 2.2px;
@@ -23,7 +23,7 @@
 .link {
   text-decoration: none;
 }
-@media screen and (min-width: 370px) {
+@media screen and (min-width: 420px) {
   .logo {
     height: 10rem;
   }

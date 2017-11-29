@@ -17,4 +17,5 @@ subject:
 - "swift"
 - "javascript"
 featured: "n"
+picture: "../../public/static/leetcode.png"
 ---

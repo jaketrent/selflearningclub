@@ -1,5 +1,7 @@
 import Link from 'gatsby-link'
 import React from 'react'
+import styles from './index.module.css'
+import image from '../../public/static/exercism.png'
 
 class IndexPage extends React.Component {
   render() {
@@ -9,13 +11,15 @@ class IndexPage extends React.Component {
     )
     return (
       <div>
-        <h1>Hi from the home page</h1>
-        <p>Welcome to the landing page</p>
-        <div>
+        <div className={styles.featureContainer}>
           {featurettes.map(({ node }) => (
-            <div key={node.fields.slug}>
-              <Link to={node.fields.slug}>{node.frontmatter.title}</Link>
-            </div>
+            <Link to={node.fields.slug} className={styles.featureLink}>
+              <div key={node.fields.slug} className={styles.feature}>
+                <img className={styles.image} src={node.frontmatter.picture}/>
+              </div>
+              {node.frontmatter.picture}
+              {node.frontmatter.title}
+            </Link>
           ))}
         </div>
         <Link to="/search-page">Go to the search</Link>
@@ -41,6 +45,7 @@ export const query = graphql`
             format
             subject
             featured
+            picture
           }
         }
       }

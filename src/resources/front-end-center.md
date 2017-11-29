@@ -13,4 +13,5 @@ subject:
 - "react"
 - "javascript"
 featured: "n"
+picture: "../../public/static/front-end-center.png"
 ---

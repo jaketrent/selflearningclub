@@ -12,4 +12,5 @@ subject:
 - "node"
 - "next"
 featured: "n"
+picture: "../../public/static/spellbook-of-modern-web-dev.png"
 ---
