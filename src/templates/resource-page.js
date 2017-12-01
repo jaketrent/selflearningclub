@@ -23,13 +23,10 @@ export default ({ data }) => {
       </div>
       <div>
         {post.frontmatter.pricePerPeriod.map(function(pricePerPeriod) {
-          return
-          /*post.frontmatter.pricePerPeriod.indexOf("n/a") > -1
+          return /*post.frontmatter.pricePerPeriod.indexOf("n/a") > -1
           ? <p>free</p>
-          : */ ;<p
-          >
-            {pricePerPeriod}
-          </p>
+          : */
+          ;<p>{pricePerPeriod}</p>
         })}
       </div>
       <div className={styles.subjectContainer}>

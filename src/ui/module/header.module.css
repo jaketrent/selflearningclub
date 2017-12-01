@@ -1,24 +1,23 @@
-.header {
-  margin-bottom: 1.45rem;
-}
 .headerContainer{
-  margin: auto 0;
+  margin: 0 auto;
   height: 100%;
   width: 100%;
-  padding: 1.45rem .8rem;
+  padding: 1rem .1rem;
   display: flex;
   max-height: 500px;
   justify-content: center;
 }
 .logo {
-  height: 7.5rem;
+  height: 3.2rem;
+  order: -1;
 }
 .title {
-  font-size: 1.936em;
-  padding: 0 0 0 8px;
-  line-height: 2.6rem;
+  font-size: 1.45em;
+  padding: 0 0 0 1px;
+  line-height: 2rem;
   letter-spacing: 2.2px;
   margin: auto 0;
+  order: 10;
 }
 .link {
   text-decoration: none;
@@ -33,4 +32,7 @@
     line-height: 2.6rem;
     letter-spacing: 2.2px;
   }
+}
+@media screen and (min-width: 669px) {
+  
 }

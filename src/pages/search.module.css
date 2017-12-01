@@ -1,22 +1,52 @@
+.sideMenu {
+  flex: 1;
+  position: fixed;
+  left: 0;
+  background: hsl(190,14%,43%);
+  box-shadow: 5px 2px 5px hsl(190,4%, 3%, .6);
+  transform: translateX(-500px);
+}
 .cols {
   display: flex;
+  line-height: 1.8em;
 }
 .rhCol {
   flex: 3;
   margin: auto;
-}
-.lhCol {
-  flex: 1;
 }
 .link {
   color: #35c3e3;
 }
 .sectionHeading {
   margin: 0 0 5px 0;
+  display: flex;
+  justify-content: space-between;
 }
 .lhColSection {
-  margin-bottom: 25px;
+  margin: 6px 10px 20px 10px;
+  
 }
 .resourceLink {
   margin: .4em 0;
+}
+.open {
+  transform: translateX(0)
+}
+.priceTitle {
+  margin-bottom: 0;
+}
+.hamburger {
+  margin-bottom: 0;
+}
+@media screen and (min-width: 669px) {
+  .sideMenu {
+    flex: 1;
+    position: inherit;
+    left: 0;
+    background: inherit;
+    box-shadow: none;
+  }
+  .hamburger {
+    visibility: hidden;
+  }
 }

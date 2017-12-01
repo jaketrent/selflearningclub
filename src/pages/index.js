@@ -16,9 +16,9 @@ class IndexPage extends React.Component {
           {featurettes.map(({ node }) => (
             <Link to={node.fields.slug} className={styles.featureLink}>
               <div key={node.fields.slug} className={styles.feature}>
-                <img className={styles.image} src={node.frontmatter.picture}/>
+                <img className={styles.image} src={node.frontmatter.picture} />
               </div>
-              {node.frontmatter.title}
+              <p className={styles.title}> {node.frontmatter.title} </p>
             </Link>
           ))}
         </div>

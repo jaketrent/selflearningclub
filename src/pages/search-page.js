@@ -2,6 +2,19 @@ import React from 'react'
 import Link from 'gatsby-link'
 import styles from './search.module.css'
 
+const Hamburger = _ => (
+  <svg
+    width="20"
+    height="20"
+    viewBox="0 0 10 10"
+    xmlns="http://www.w3.org/2000/svg"
+  >
+    <line x1="0" y1="1" x2="12" y2="1" strokeWidth="1" stroke="white" />
+    <line x1="0" y1="5" x2="34" y2="5" strokeWidth="1" stroke="white" />
+    <line x1="0" y1="9" x2="34" y2="9" strokeWidth="1" stroke="white" />
+  </svg>
+)
+
 const uniq = arr =>
   arr
     .reduce(
@@ -10,12 +23,23 @@ const uniq = arr =>
     )
     .sort()
 
+const drawerClasses =
+  console.log() && true ? styles.sideMenu + ' ' + styles.open : styles.sideMenu
+
 class SearchPage extends React.Component {
   state = {
     activeFormatNames: [],
     activePrices: [],
     activeSubjects: [],
     searchValue: '',
+    openDrawer: true,
+  }
+
+  toggleDrawer = event => {
+    this.setState({
+      openDrawer: !this.state.openDrawer,
+    })
+    console.log('hi')
   }
 
   toggleFormat = (isChecked, formatName) => {
@@ -143,9 +167,14 @@ class SearchPage extends React.Component {
     return (
       <div>
         <div className={styles.cols}>
-          <div className={styles.lhCol}>
+          <div className={this.state.openDrawer === true ? styles.sideMenu + ' ' + styles.open : styles.sideMenu}>
             <div className={styles.lhColSection}>
-              <h3 className={styles.sectionHeading}>Price</h3>
+              <h3 className={styles.sectionHeading}>
+                <p className={styles.priceTitle}>Price</p>
+                <div className={styles.hamburger} onClick={evt => this.toggleDrawer(evt.target)}>
+                  <Hamburger />
+                </div>
+              </h3>
               <input
                 type="checkbox"
                 key="free"
@@ -207,6 +236,7 @@ class SearchPage extends React.Component {
               ))}
             </div>
           </div>
+          <div className={styles.hamburger} onClick={evt => this.toggleDrawer(evt.target)}><Hamburger /></div>
           <div className={styles.rhCol}>
             {nodes.map(({ node }) => (
               <div key={node.fields.slug}>
