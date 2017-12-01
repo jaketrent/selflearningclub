@@ -1,2 +1,2 @@
-webpackJsonp([85710277322071],{645:function(t,e){t.exports={data:{markdownRemark:{frontmatter:{title:"Wix",url:"http://www.wix.com/showyourart/photography?experiment_id=%5Econtrastlake%5E%5E&utm_campaign=bd_pocket_us_photographers",price:["0"],pricePerPeriod:["n/a"],format:["website"],subject:["website"]}}},pathContext:{slug:"/resources/wix/"}}}});
+webpackJsonp([85710277322071],{643:function(t,e){t.exports={data:{markdownRemark:{frontmatter:{title:"Wix",url:"http://www.wix.com/showyourart/photography?experiment_id=%5Econtrastlake%5E%5E&utm_campaign=bd_pocket_us_photographers",price:["0"],pricePerPeriod:["n/a"],format:["website"],subject:["website"]}}},pathContext:{slug:"/resources/wix/"}}}});
 //# sourceMappingURL=path---resources-wix-631f586775253c7c831f.js.map

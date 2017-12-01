@@ -1,2 +1,2 @@
-webpackJsonp([0x83ff4483abd7],{550:function(t,o){t.exports={data:{markdownRemark:{frontmatter:{title:"JSON Web Token Introduction",url:"https://jwt.io/introduction/",price:["0"],pricePerPeriod:["n/a"],format:["documentation"],subject:["json web token"]}}},pathContext:{slug:"/resources/json-web-token-introduction/"}}}});
+webpackJsonp([0x83ff4483abd7],{549:function(t,o){t.exports={data:{markdownRemark:{frontmatter:{title:"JSON Web Token Introduction",url:"https://jwt.io/introduction/",price:["0"],pricePerPeriod:["n/a"],format:["documentation"],subject:["json web token"]}}},pathContext:{slug:"/resources/json-web-token-introduction/"}}}});
 //# sourceMappingURL=path---resources-json-web-token-introduction-a4f3a2765e2809b5b302.js.map

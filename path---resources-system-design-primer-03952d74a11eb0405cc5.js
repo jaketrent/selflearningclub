@@ -1,2 +1,2 @@
-webpackJsonp([26631394666784],{615:function(e,t){e.exports={data:{markdownRemark:{frontmatter:{title:"System Design Primer",url:"https://github.com/donnemartin/system-design-primer",price:["0"],pricePerPeriod:["n/a"],format:["documentation","ebook"],subject:["system design"]}}},pathContext:{slug:"/resources/system-design-primer/"}}}});
+webpackJsonp([26631394666784],{613:function(e,t){e.exports={data:{markdownRemark:{frontmatter:{title:"System Design Primer",url:"https://github.com/donnemartin/system-design-primer",price:["0"],pricePerPeriod:["n/a"],format:["documentation","ebook"],subject:["system design"]}}},pathContext:{slug:"/resources/system-design-primer/"}}}});
 //# sourceMappingURL=path---resources-system-design-primer-03952d74a11eb0405cc5.js.map

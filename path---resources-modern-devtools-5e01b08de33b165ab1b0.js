@@ -1,2 +1,2 @@
-webpackJsonp([0x6ac83c684626],{573:function(o,e){o.exports={data:{markdownRemark:{frontmatter:{title:"Modern DevTools",url:"https://moderndevtools.com/",price:["93"],pricePerPeriod:["once"],format:["video","tool"],subject:["javascript","debugging"]}}},pathContext:{slug:"/resources/modern-devtools/"}}}});
+webpackJsonp([0x6ac83c684626],{572:function(o,e){o.exports={data:{markdownRemark:{frontmatter:{title:"Modern DevTools",url:"https://moderndevtools.com/",price:["93"],pricePerPeriod:["once"],format:["video","tool"],subject:["javascript","debugging"]}}},pathContext:{slug:"/resources/modern-devtools/"}}}});
 //# sourceMappingURL=path---resources-modern-devtools-5e01b08de33b165ab1b0.js.map

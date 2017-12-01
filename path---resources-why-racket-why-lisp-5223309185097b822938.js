@@ -1,2 +1,2 @@
-webpackJsonp([0xe87cff270467],{644:function(t,e){t.exports={data:{markdownRemark:{frontmatter:{title:"Why Racket? Why Lisp?",url:"http://practicaltypography.com/why-racket-why-lisp.html",price:["0"],pricePerPeriod:["n/a"],format:["ebook"],subject:["lisp"]}}},pathContext:{slug:"/resources/why-racket?-why-lisp?/"}}}});
+webpackJsonp([0xe87cff270467],{642:function(t,e){t.exports={data:{markdownRemark:{frontmatter:{title:"Why Racket? Why Lisp?",url:"http://practicaltypography.com/why-racket-why-lisp.html",price:["0"],pricePerPeriod:["n/a"],format:["ebook"],subject:["lisp"]}}},pathContext:{slug:"/resources/why-racket?-why-lisp?/"}}}});
 //# sourceMappingURL=path---resources-why-racket-why-lisp-5223309185097b822938.js.map

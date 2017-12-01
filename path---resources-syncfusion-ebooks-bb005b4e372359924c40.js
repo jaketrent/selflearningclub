@@ -1,2 +1,2 @@
-webpackJsonp([33468620165979],{614:function(o,e){o.exports={data:{markdownRemark:{frontmatter:{title:"Syncfusion ebooks",url:"https://www.syncfusion.com/resources/techportal/ebooks",price:["0"],pricePerPeriod:["n/a"],format:["ebook"],subject:["java","php","go",".net"]}}},pathContext:{slug:"/resources/syncfusion-ebooks/"}}}});
+webpackJsonp([33468620165979],{612:function(o,e){o.exports={data:{markdownRemark:{frontmatter:{title:"Syncfusion ebooks",url:"https://www.syncfusion.com/resources/techportal/ebooks",price:["0"],pricePerPeriod:["n/a"],format:["ebook"],subject:["java","php","go",".net"]}}},pathContext:{slug:"/resources/syncfusion-ebooks/"}}}});
 //# sourceMappingURL=path---resources-syncfusion-ebooks-bb005b4e372359924c40.js.map

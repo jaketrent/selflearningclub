@@ -1,2 +1,2 @@
-webpackJsonp([0xe5dab2dde06d],{575:function(t,e){t.exports={data:{markdownRemark:{frontmatter:{title:"ng-conf 2017",url:"https://www.youtube.com/playlist?list=PLOETEcp3DkCoS_2cW205cfRGl-Xp5jw4K",price:["0"],pricePerPeriod:["n/a"],format:["video"],subject:["angular"]}}},pathContext:{slug:"/resources/ng-conf-2017/"}}}});
+webpackJsonp([0xe5dab2dde06d],{574:function(t,e){t.exports={data:{markdownRemark:{frontmatter:{title:"ng-conf 2017",url:"https://www.youtube.com/playlist?list=PLOETEcp3DkCoS_2cW205cfRGl-Xp5jw4K",price:["0"],pricePerPeriod:["n/a"],format:["video"],subject:["angular"]}}},pathContext:{slug:"/resources/ng-conf-2017/"}}}});
 //# sourceMappingURL=path---resources-ng-conf-2017-2cff6231b7cc9a43f541.js.map

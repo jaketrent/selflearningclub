@@ -1,2 +1,2 @@
-webpackJsonp([0x65cddfb58685],{585:function(e,t){e.exports={data:{markdownRemark:{frontmatter:{title:"React Enlightenment",url:"https://www.reactenlightenment.com/",price:["0"],pricePerPeriod:["n/a"],format:["ebook"],subject:["react"]}}},pathContext:{slug:"/resources/react-enlightenment/"}}}});
+webpackJsonp([0x65cddfb58685],{584:function(e,t){e.exports={data:{markdownRemark:{frontmatter:{title:"React Enlightenment",url:"https://www.reactenlightenment.com/",price:["0"],pricePerPeriod:["n/a"],format:["ebook"],subject:["react"]}}},pathContext:{slug:"/resources/react-enlightenment/"}}}});
 //# sourceMappingURL=path---resources-react-enlightenment-8446b746f6ffb084582f.js.map

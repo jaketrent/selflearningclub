@@ -1,2 +1,2 @@
-webpackJsonp([0x87885b39b397],{546:function(t,e){t.exports={data:{markdownRemark:{frontmatter:{title:"Interactive Vim Tutorial",url:"http://www.openvim.com/",price:["0"],pricePerPeriod:["n/a"],format:["interactive","tutorial"],subject:["vim"]}}},pathContext:{slug:"/resources/interactive-vim-tutorial/"}}}});
+webpackJsonp([0x87885b39b397],{545:function(t,e){t.exports={data:{markdownRemark:{frontmatter:{title:"Interactive Vim Tutorial",url:"http://www.openvim.com/",price:["0"],pricePerPeriod:["n/a"],format:["interactive","tutorial"],subject:["vim"]}}},pathContext:{slug:"/resources/interactive-vim-tutorial/"}}}});
 //# sourceMappingURL=path---resources-interactive-vim-tutorial-79cac41bdf8926df280f.js.map

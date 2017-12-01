@@ -1,2 +1,2 @@
-webpackJsonp([0x5d39c2272bc4],{594:function(t,r){t.exports={data:{markdownRemark:{frontmatter:{title:"Ruby Tapes",url:"https://www.rubytapas.com/",price:["18"],pricePerPeriod:["monthly"],format:["video"],subject:["ruby","rails"]}}},pathContext:{slug:"/resources/ruby-tapes/"}}}});
+webpackJsonp([0x5d39c2272bc4],{593:function(t,r){t.exports={data:{markdownRemark:{frontmatter:{title:"Ruby Tapes",url:"https://www.rubytapas.com/",price:["18"],pricePerPeriod:["monthly"],format:["video"],subject:["ruby","rails"]}}},pathContext:{slug:"/resources/ruby-tapes/"}}}});
 //# sourceMappingURL=path---resources-ruby-tapes-539bcde54f85683cf5df.js.map

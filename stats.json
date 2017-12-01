@@ -101,8 +101,8 @@
       "path---resources-purescript-by-example-709347e99230316b2945.js.map"
     ],
     "component---src-pages-index-js": [
-      "component---src-pages-index-js-60861ffbaa3c360780a0.js",
-      "component---src-pages-index-js-60861ffbaa3c360780a0.js.map"
+      "component---src-pages-index-js-bb8333233b4fcc4519f3.js",
+      "component---src-pages-index-js-bb8333233b4fcc4519f3.js.map"
     ],
     "path---resources-how-to-program-a-nes-game-in-c": [
       "path---resources-how-to-program-a-nes-game-in-c-002099b6fd2094236ce0.js",
@@ -173,8 +173,8 @@
       "path---resources-clojure-by-example-3c3613636bc724a808d0.js.map"
     ],
     "path---search-page": [
-      "path---search-page-d7be6482ca10bb38022b.js",
-      "path---search-page-d7be6482ca10bb38022b.js.map"
+      "path---search-page-3b96005a5f23cd184630.js",
+      "path---search-page-3b96005a5f23cd184630.js.map"
     ],
     "path---resources-phlearn": [
       "path---resources-phlearn-7ba0f4939360467e63fa.js",
@@ -217,8 +217,8 @@
       "path---resources-wix-631f586775253c7c831f.js.map"
     ],
     "component---src-pages-search-page-js": [
-      "component---src-pages-search-page-js-03cb7a46adfec16cf99e.js",
-      "component---src-pages-search-page-js-03cb7a46adfec16cf99e.js.map"
+      "component---src-pages-search-page-js-4544ee0cdeedf4b97146.js",
+      "component---src-pages-search-page-js-4544ee0cdeedf4b97146.js.map"
     ],
     "path---resources-eric-brewer-the-cap-theorum-then-and-now": [
       "path---resources-eric-brewer-the-cap-theorum-then-and-now-cb6ed4d2f9765b338a3a.js",
@@ -285,8 +285,8 @@
       "path---resources-list-of-resources-for-ruby-and-rails-9e12a252b81244745936.js.map"
     ],
     "component---src-layouts-index-js": [
-      "component---src-layouts-index-js-21b7bc8c1e4a247cac6c.js",
-      "component---src-layouts-index-js-21b7bc8c1e4a247cac6c.js.map"
+      "component---src-layouts-index-js-0807da73beab396a8d44.js",
+      "component---src-layouts-index-js-0807da73beab396a8d44.js.map"
     ],
     "path---resources-7-ways-to-learn-to-code-for-free": [
       "path---resources-7-ways-to-learn-to-code-for-free-69bb93bb0b2dd1055ec2.js",
@@ -340,10 +340,6 @@
       "path---resources-coderbyte-32cfff6e14879f502d1a.js",
       "path---resources-coderbyte-32cfff6e14879f502d1a.js.map"
     ],
-    "path---resources-github-professional-services": [
-      "path---resources-github-professional-services-8cad861698a0aa79061b.js",
-      "path---resources-github-professional-services-8cad861698a0aa79061b.js.map"
-    ],
     "path---resources-web-fundamentals": [
       "path---resources-web-fundamentals-03013128ef82e664c5d0.js",
       "path---resources-web-fundamentals-03013128ef82e664c5d0.js.map"
@@ -385,8 +381,8 @@
       "path---resources-web-rebels-2016-b83c611e7931842d41de.js.map"
     ],
     "path---index": [
-      "path---index-d7be6482ca10bb38022b.js",
-      "path---index-d7be6482ca10bb38022b.js.map"
+      "path---index-17e9ff4a0555429fe1ae.js",
+      "path---index-17e9ff4a0555429fe1ae.js.map"
     ],
     "path---resources-kubernetes-the-hard-way": [
       "path---resources-kubernetes-the-hard-way-d4668d40dff1d0543514.js",
@@ -419,10 +415,6 @@
     "path---resources-safari-books-online": [
       "path---resources-safari-books-online-889ea0771252e06c4a01.js",
       "path---resources-safari-books-online-889ea0771252e06c4a01.js.map"
-    ],
-    "path---resources-schoology": [
-      "path---resources-schoology-04f21dbd775a78692aa2.js",
-      "path---resources-schoology-04f21dbd775a78692aa2.js.map"
     ],
     "path---resources-lumen": [
       "path---resources-lumen-343d79b4c633431ede0e.js",
@@ -531,8 +523,8 @@
       "path---resources-the-art-of-storytelling-3cde155be021be51419e.js.map"
     ],
     "component---src-templates-resource-page-js": [
-      "component---src-templates-resource-page-js-ad8f5b3e72c2b676edc1.js",
-      "component---src-templates-resource-page-js-ad8f5b3e72c2b676edc1.js.map"
+      "component---src-templates-resource-page-js-1d69d233569c35553291.js",
+      "component---src-templates-resource-page-js-1d69d233569c35553291.js.map"
     ],
     "path---resources-eloquent-javascript": [
       "path---resources-eloquent-javascript-4ccb27d9f19fa61b952f.js",
@@ -611,9 +603,9 @@
       "path---resources-front-end-tv-9f8c56f4a8e458a7e327.js.map"
     ],
     "app": [
-      "app-2149a3acd0301dfcf857.js",
+      "app-6a187fc63add37a240cf.js",
       "build-js-styles.css",
-      "app-2149a3acd0301dfcf857.js.map",
+      "app-6a187fc63add37a240cf.js.map",
       "build-js-styles.css.map"
     ],
     "path---resources-hackr-find-the-best-online-programming-courses-tutorials": [
@@ -747,10 +739,6 @@
     "path---resources-airpair": [
       "path---resources-airpair-eaac389f24da4150b801.js",
       "path---resources-airpair-eaac389f24da4150b801.js.map"
-    ],
-    "path---resources-clojure-academmy": [
-      "path---resources-clojure-academmy-ef9b24f48350b1f892cc.js",
-      "path---resources-clojure-academmy-ef9b24f48350b1f892cc.js.map"
     ],
     "path---resources-rust-by-example": [
       "path---resources-rust-by-example-bb8ab49165e825b0bba9.js",

@@ -1,2 +1,2 @@
-webpackJsonp([46728161180652],{595:function(r,t){r.exports={data:{markdownRemark:{frontmatter:{title:"Ruby Warrior",url:"https://www.bloc.io/ruby-warrior#/",price:["0"],pricePerPeriod:["n/a"],format:["interactive"],subject:["ruby"]}}},pathContext:{slug:"/resources/ruby-warrior/"}}}});
+webpackJsonp([46728161180652],{594:function(r,t){r.exports={data:{markdownRemark:{frontmatter:{title:"Ruby Warrior",url:"https://www.bloc.io/ruby-warrior#/",price:["0"],pricePerPeriod:["n/a"],format:["interactive"],subject:["ruby"]}}},pathContext:{slug:"/resources/ruby-warrior/"}}}});
 //# sourceMappingURL=path---resources-ruby-warrior-4a29e089938c0dfa4556.js.map

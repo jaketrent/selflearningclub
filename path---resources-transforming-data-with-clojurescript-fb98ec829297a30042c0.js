@@ -1,2 +1,2 @@
-webpackJsonp([22083704526249],{629:function(r,t){r.exports={data:{markdownRemark:{frontmatter:{title:"Transforming Data with ClojureScript",url:"http://langintro.com/cljsbook/",price:["0"],pricePerPeriod:["n/a"],format:["ebook"],subject:["clojurescript"]}}},pathContext:{slug:"/resources/transforming-data-with-clojurescript/"}}}});
+webpackJsonp([22083704526249],{627:function(r,t){r.exports={data:{markdownRemark:{frontmatter:{title:"Transforming Data with ClojureScript",url:"http://langintro.com/cljsbook/",price:["0"],pricePerPeriod:["n/a"],format:["ebook"],subject:["clojurescript"]}}},pathContext:{slug:"/resources/transforming-data-with-clojurescript/"}}}});
 //# sourceMappingURL=path---resources-transforming-data-with-clojurescript-fb98ec829297a30042c0.js.map

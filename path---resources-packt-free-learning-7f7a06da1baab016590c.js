@@ -1,2 +1,2 @@
-webpackJsonp([0x5ebb33e8b0c7],{579:function(e,r){e.exports={data:{markdownRemark:{frontmatter:{title:"Packt Free Learning",url:"https://www.packtpub.com/packt/offers/free-learning",price:["0"],pricePerPeriod:["n/a"],format:["ebook"],subject:["java","python","angular"]}}},pathContext:{slug:"/resources/packt-free-learning/"}}}});
+webpackJsonp([0x5ebb33e8b0c7],{578:function(e,r){e.exports={data:{markdownRemark:{frontmatter:{title:"Packt Free Learning",url:"https://www.packtpub.com/packt/offers/free-learning",price:["0"],pricePerPeriod:["n/a"],format:["ebook"],subject:["java","python","angular"]}}},pathContext:{slug:"/resources/packt-free-learning/"}}}});
 //# sourceMappingURL=path---resources-packt-free-learning-7f7a06da1baab016590c.js.map

@@ -1,2 +1,2 @@
-webpackJsonp([0x986ccdd77334],{576:function(t,e){t.exports={data:{markdownRemark:{frontmatter:{title:"Online Mathematics Textbooks",url:"http://people.math.gatech.edu/~cain/textbooks/onlinebooks.html",price:["0"],pricePerPeriod:["n/a"],format:["ebook"],subject:["math"]}}},pathContext:{slug:"/resources/online-mathematics-textbooks/"}}}});
+webpackJsonp([0x986ccdd77334],{575:function(t,e){t.exports={data:{markdownRemark:{frontmatter:{title:"Online Mathematics Textbooks",url:"http://people.math.gatech.edu/~cain/textbooks/onlinebooks.html",price:["0"],pricePerPeriod:["n/a"],format:["ebook"],subject:["math"]}}},pathContext:{slug:"/resources/online-mathematics-textbooks/"}}}});
 //# sourceMappingURL=path---resources-online-mathematics-textbooks-ddb102aa9d4a553b7d21.js.map

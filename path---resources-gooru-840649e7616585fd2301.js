@@ -1,2 +1,2 @@
-webpackJsonp([0xce97680ea983],{536:function(e,o){e.exports={data:{markdownRemark:{frontmatter:{title:"Gooru",url:"http://www.gooru.org/welcome/",price:["0"],pricePerPeriod:["n/a"],format:["course"],subject:["science","math","social science","english"]}}},pathContext:{slug:"/resources/gooru/"}}}});
+webpackJsonp([0xce97680ea983],{535:function(e,o){e.exports={data:{markdownRemark:{frontmatter:{title:"Gooru",url:"http://www.gooru.org/welcome/",price:["0"],pricePerPeriod:["n/a"],format:["course"],subject:["science","math","social science","english"]}}},pathContext:{slug:"/resources/gooru/"}}}});
 //# sourceMappingURL=path---resources-gooru-840649e7616585fd2301.js.map

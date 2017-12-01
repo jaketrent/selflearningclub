@@ -1,2 +1,2 @@
-webpackJsonp([21985045508270],{600:function(t,a){t.exports={data:{markdownRemark:{frontmatter:{title:"Scala School",url:"http://twitter.github.io/scala_school/",price:["0"],pricePerPeriod:["n/a"],format:["example"],subject:["scala"]}}},pathContext:{slug:"/resources/scala-school/"}}}});
+webpackJsonp([21985045508270],{599:function(t,a){t.exports={data:{markdownRemark:{frontmatter:{title:"Scala School",url:"http://twitter.github.io/scala_school/",price:["0"],pricePerPeriod:["n/a"],format:["example"],subject:["scala"]}}},pathContext:{slug:"/resources/scala-school/"}}}});
 //# sourceMappingURL=path---resources-scala-school-6fd90713d7f42e0993d0.js.map

@@ -1,2 +1,2 @@
-webpackJsonp([52990662320337],{532:function(e,t){e.exports={data:{markdownRemark:{frontmatter:{title:"Go By Example",url:"https://gobyexample.com/",price:["0"],pricePerPeriod:["n/a"],format:["example"],subject:["go"]}}},pathContext:{slug:"/resources/go-by-example/"}}}});
+webpackJsonp([52990662320337],{531:function(e,t){e.exports={data:{markdownRemark:{frontmatter:{title:"Go By Example",url:"https://gobyexample.com/",price:["0"],pricePerPeriod:["n/a"],format:["example"],subject:["go"]}}},pathContext:{slug:"/resources/go-by-example/"}}}});
 //# sourceMappingURL=path---resources-go-by-example-c9c66305e893c92d6aa3.js.map

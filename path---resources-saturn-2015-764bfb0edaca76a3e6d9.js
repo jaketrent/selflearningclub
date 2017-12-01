@@ -1,2 +1,2 @@
-webpackJsonp([0xdbf8c9623c9e],{599:function(e,t){e.exports={data:{markdownRemark:{frontmatter:{title:"Saturn 2015",url:"http://www.sei.cmu.edu/saturn/2015/video.cfm",price:["0"],pricePerPeriod:["n/a"],format:["video"],subject:["software","software architecture"]}}},pathContext:{slug:"/resources/saturn-2015/"}}}});
+webpackJsonp([0xdbf8c9623c9e],{598:function(e,t){e.exports={data:{markdownRemark:{frontmatter:{title:"Saturn 2015",url:"http://www.sei.cmu.edu/saturn/2015/video.cfm",price:["0"],pricePerPeriod:["n/a"],format:["video"],subject:["software","software architecture"]}}},pathContext:{slug:"/resources/saturn-2015/"}}}});
 //# sourceMappingURL=path---resources-saturn-2015-764bfb0edaca76a3e6d9.js.map

@@ -1,2 +1,2 @@
-webpackJsonp([78933333623866],{547:function(a,e){a.exports={data:{markdownRemark:{frontmatter:{title:"JavaScript Allonge",url:"https://leanpub.com/javascriptallongesix/read",price:["0"],pricePerPeriod:["n/a"],format:["ebook"],subject:["javascript","es6"]}}},pathContext:{slug:"/resources/javascript-allonge/"}}}});
+webpackJsonp([78933333623866],{546:function(a,e){a.exports={data:{markdownRemark:{frontmatter:{title:"JavaScript Allonge",url:"https://leanpub.com/javascriptallongesix/read",price:["0"],pricePerPeriod:["n/a"],format:["ebook"],subject:["javascript","es6"]}}},pathContext:{slug:"/resources/javascript-allonge/"}}}});
 //# sourceMappingURL=path---resources-javascript-allonge-2e87cb5e5e2dc0aa06d7.js.map

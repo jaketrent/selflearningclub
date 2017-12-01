@@ -1,2 +1,2 @@
-webpackJsonp([0xe00b5280b2cd],{551:function(e,a){e.exports={data:{markdownRemark:{frontmatter:{title:"Kaggle",url:"https://www.kaggle.com/",price:["0"],pricePerPeriod:["n/a"],format:["challenge"],subject:["data science","machine learning"]}}},pathContext:{slug:"/resources/kaggle/"}}}});
+webpackJsonp([0xe00b5280b2cd],{550:function(e,a){e.exports={data:{markdownRemark:{frontmatter:{title:"Kaggle",url:"https://www.kaggle.com/",price:["0"],pricePerPeriod:["n/a"],format:["challenge"],subject:["data science","machine learning"]}}},pathContext:{slug:"/resources/kaggle/"}}}});
 //# sourceMappingURL=path---resources-kaggle-fc06c53bb4a0abd683c7.js.map

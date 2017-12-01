@@ -1,2 +1,2 @@
-webpackJsonp([48393432642584],{482:function(e,t){e.exports={data:{markdownRemark:{frontmatter:{title:"Awesome Vue",url:"https://github.com/vuejs/awesome-vue",price:["0"],pricePerPeriod:["n/a"],format:["resource","podcast","tutorial"],subject:["vue.js"]}}},pathContext:{slug:"/resources/awesome-vue/"}}}});
+webpackJsonp([48393432642584],{483:function(e,t){e.exports={data:{markdownRemark:{frontmatter:{title:"Awesome Vue",url:"https://github.com/vuejs/awesome-vue",price:["0"],pricePerPeriod:["n/a"],format:["resource","podcast","tutorial"],subject:["vue.js"]}}},pathContext:{slug:"/resources/awesome-vue/"}}}});
 //# sourceMappingURL=path---resources-awesome-vue-1a2c200e787df5ad1192.js.map

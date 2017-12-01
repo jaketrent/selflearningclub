@@ -1,2 +1,0 @@
-webpackJsonp([0x88fabaf75e7a],{601:function(o,t){o.exports={data:{markdownRemark:{frontmatter:{title:"Schoology",url:"https://www.schoology.com/",price:[""],pricePerPeriod:[""],format:[""],subject:[""]}}},pathContext:{slug:"/resources/schoology/"}}}});
-//# sourceMappingURL=path---resources-schoology-04f21dbd775a78692aa2.js.map

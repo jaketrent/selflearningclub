@@ -1,2 +1,2 @@
-webpackJsonp([0xb43aec340c91],{484:function(e,r){e.exports={data:{markdownRemark:{frontmatter:{title:"Brave Clojure",url:"https://www.braveclojure.com/",price:["0"],pricePerPeriod:["n/a"],format:["ebook","email"],subject:["clojure"]}}},pathContext:{slug:"/resources/brave-clojure/"}}}});
+webpackJsonp([0xb43aec340c91],{485:function(e,r){e.exports={data:{markdownRemark:{frontmatter:{title:"Brave Clojure",url:"https://www.braveclojure.com/",price:["0"],pricePerPeriod:["n/a"],format:["ebook","email"],subject:["clojure"]}}},pathContext:{slug:"/resources/brave-clojure/"}}}});
 //# sourceMappingURL=path---resources-brave-clojure-814226e6e3d848f46ddf.js.map

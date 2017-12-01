@@ -1,2 +1,2 @@
-webpackJsonp([0xd87b3955022],{479:function(e,t){e.exports={data:{markdownRemark:{frontmatter:{title:"Advent of Code 2016",url:"http://adventofcode.com/",price:["0"],pricePerPeriod:["n/a"],format:["interactive","code","challenge"],subject:["puzzle"]}}},pathContext:{slug:"/resources/advent-of-code-2016/"}}}});
+webpackJsonp([0xd87b3955022],{480:function(e,t){e.exports={data:{markdownRemark:{frontmatter:{title:"Advent of Code 2016",url:"http://adventofcode.com/",price:["0"],pricePerPeriod:["n/a"],format:["interactive","code","challenge"],subject:["puzzle"]}}},pathContext:{slug:"/resources/advent-of-code-2016/"}}}});
 //# sourceMappingURL=path---resources-advent-of-code-2016-6282d15f4fc29341009d.js.map

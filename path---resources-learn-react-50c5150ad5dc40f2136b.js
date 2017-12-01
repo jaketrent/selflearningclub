@@ -1,2 +1,2 @@
-webpackJsonp([0xf4e3fb87a2e5],{559:function(e,r){e.exports={data:{markdownRemark:{frontmatter:{title:"Learn React",url:"https://learnreact.com/",price:["4"],pricePerPeriod:["course"],format:["course","video"],subject:["react"]}}},pathContext:{slug:"/resources/learn-react/"}}}});
+webpackJsonp([0xf4e3fb87a2e5],{558:function(e,r){e.exports={data:{markdownRemark:{frontmatter:{title:"Learn React",url:"https://learnreact.com/",price:["4"],pricePerPeriod:["course"],format:["course","video"],subject:["react"]}}},pathContext:{slug:"/resources/learn-react/"}}}});
 //# sourceMappingURL=path---resources-learn-react-50c5150ad5dc40f2136b.js.map

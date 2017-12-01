@@ -1,2 +1,2 @@
-webpackJsonp([0xa354a98e80d],{630:function(e,t){e.exports={data:{markdownRemark:{frontmatter:{title:"Treehouse",url:"https://teamtreehouse.com/",price:["25","49"],pricePerPeriod:["monthly"],format:["course","video"],subject:["javascript","c#","ruby","design","database","android"]}}},pathContext:{slug:"/resources/treehouse/"}}}});
+webpackJsonp([0xa354a98e80d],{628:function(e,t){e.exports={data:{markdownRemark:{frontmatter:{title:"Treehouse",url:"https://teamtreehouse.com/",price:["25","49"],pricePerPeriod:["monthly"],format:["course","video"],subject:["javascript","c#","ruby","design","database","android"]}}},pathContext:{slug:"/resources/treehouse/"}}}});
 //# sourceMappingURL=path---resources-treehouse-53dc4ebf1914fd348dad.js.map

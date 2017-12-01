@@ -1,2 +1,2 @@
-webpackJsonp([0xe33e9fb313a6],{609:function(e,r){e.exports={data:{markdownRemark:{frontmatter:{title:"Springboard",url:"https://www.springboard.com/resources/",price:["0"],pricePerPeriod:["n/a"],format:["course","video","email","ebook"],subject:["user experience","ux","data science"]}}},pathContext:{slug:"/resources/springboard/"}}}});
+webpackJsonp([0xe33e9fb313a6],{607:function(e,r){e.exports={data:{markdownRemark:{frontmatter:{title:"Springboard",url:"https://www.springboard.com/resources/",price:["0"],pricePerPeriod:["n/a"],format:["course","video","email","ebook"],subject:["user experience","ux","data science"]}}},pathContext:{slug:"/resources/springboard/"}}}});
 //# sourceMappingURL=path---resources-springboard-cd18f461cca42f174ab5.js.map

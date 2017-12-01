@@ -1,2 +1,2 @@
-webpackJsonp([0xd951d5ade66d],{533:function(r,e){r.exports={data:{markdownRemark:{frontmatter:{title:"Go Rails",url:"https://gorails.com/",price:["19"],pricePerPeriod:["monthly"],format:["video","course"],subject:["rails"]}}},pathContext:{slug:"/resources/go-rails/"}}}});
+webpackJsonp([0xd951d5ade66d],{532:function(r,e){r.exports={data:{markdownRemark:{frontmatter:{title:"Go Rails",url:"https://gorails.com/",price:["19"],pricePerPeriod:["monthly"],format:["video","course"],subject:["rails"]}}},pathContext:{slug:"/resources/go-rails/"}}}});
 //# sourceMappingURL=path---resources-go-rails-531963eb5d83ca505cc5.js.map
