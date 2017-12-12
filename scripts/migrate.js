@@ -1,4 +1,3 @@
-console.log('hi anne')
 const fs = require('fs')
 
 const separateColumns = line => line.split('\t')

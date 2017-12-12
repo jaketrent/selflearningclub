@@ -12,7 +12,7 @@
   order: -1;
 }
 .title {
-  font-size: 1.45em;
+  font-size: 1.47em;
   padding: 0 0 0 1px;
   line-height: 2rem;
   letter-spacing: 2.2px;
@@ -21,18 +21,64 @@
 }
 .link {
   text-decoration: none;
+  display: flex;
+}
+.words {
+  margin: auto 0 auto 3px;
+  padding: auto;
+  line-height: 1;
+}
+@media screen and (min-width: 370px) {
+  .title {
+    font-size: 1.8em;
+  }
+  .logo {
+    height: 3.6rem;
+  }
 }
 @media screen and (min-width: 420px) {
   .logo {
-    height: 10rem;
+    height: 8.9rem;
+    order: 0;
   }
   .title {
-    font-size: 2.95em;
+    font-size: 2.9em;
     padding: 0 0 0 8px;
     line-height: 2.6rem;
     letter-spacing: 2.2px;
+    order: 0;
+  }
+  .headerContainer {
+    justify-content: center;
+  }
+  .link {
+    flex-direction: column;
   }
 }
 @media screen and (min-width: 669px) {
-  
+  .link {
+    flex-direction: row;
+  }
+  .title {
+    font-size: 3.125em;
+  }
+  .words {
+    margin-left: 6px;
+  }
+  .headerContainer {
+    margin-bottom: 1.3em;
+  }
+}
+
+@media screen and (min-width: 1024px) {
+  .logo {
+    height: 10rem;
+    margin: auto 2.2em;
+  }
+  .title {
+    font-size: 3.8em;
+  }
+  .words {
+    margin-left: 15px;
+  }
 }

@@ -10,7 +10,9 @@ export default () => (
       <img src={openLogo} className={style.logo} />
       <h1 className={style.title}>
         <Link to="/" className={style.link}>
-          Self-Learning Club
+          <p className={style.words}>Self-</p>
+          <p className={style.words}>Learning</p>
+          <p className={style.words}>Club</p>
         </Link>
       </h1>
       <img src={closeLogo} className={style.logo} />

@@ -3,9 +3,6 @@ import styles from './resource-page.module.css'
 
 export default ({ data }) => {
   const post = data.markdownRemark
-  console.log(typeof post.frontmatter.pricePerPeriod)
-  console.log(Array.isArray(post.frontmatter.pricePerPeriod))
-  console.log(post.frontmatter.pricePerPeriod)
   return (
     <div>
       <h1 className={styles.title}>

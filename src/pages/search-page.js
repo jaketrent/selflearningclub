@@ -2,16 +2,43 @@ import React from 'react'
 import Link from 'gatsby-link'
 import styles from './search.module.css'
 
-const Hamburger = _ => (
+const Search = _ => (
+  <svg viewBox="0 0 39 36" width="25" height="25">
+    <path
+      transform="rotate(90 16 18)"
+      stroke="white"
+      fill="white"
+      d="M31.008 27.231l-7.58-6.447c-0.784-0.705-1.622-1.029-2.299-0.998 1.789-2.096 2.87-4.815 2.87-7.787 0-6.627-5.373-12-12-12s-12 5.373-12 12 5.373 12 12 12c2.972 0 5.691-1.081 7.787-2.87-0.031 0.677 0.293 1.515 0.998 2.299l6.447 7.58c1.104 1.226 2.907 1.33 4.007 0.23s0.997-2.903-0.23-4.007zM12 20c-4.418 0-8-3.582-8-8s3.582-8 8-8 8 3.582 8 8-3.582 8-8 8z"
+    />
+  </svg>
+)
+
+const X = _ => (
   <svg
     width="20"
     height="20"
     viewBox="0 0 10 10"
     xmlns="http://www.w3.org/2000/svg"
+    style={{ filter: 'drop-shadow(1px 2px 2px rgba(0,0,0,0.5))' }}
   >
-    <line x1="0" y1="1" x2="12" y2="1" strokeWidth="1" stroke="white" />
-    <line x1="0" y1="5" x2="34" y2="5" strokeWidth="1" stroke="white" />
-    <line x1="0" y1="9" x2="34" y2="9" strokeWidth="1" stroke="white" />
+    <line
+      x1="0"
+      y1="5"
+      x2="10"
+      y2="5"
+      strokeWidth="1"
+      stroke="white"
+      transform="rotate(45 5 5)"
+    />
+    <line
+      x1="0"
+      y1="5"
+      x2="10"
+      y2="5"
+      strokeWidth="1"
+      stroke="white"
+      transform="rotate(-45 5 5)"
+    />
   </svg>
 )
 
@@ -23,23 +50,19 @@ const uniq = arr =>
     )
     .sort()
 
-const drawerClasses =
-  console.log() && true ? styles.sideMenu + ' ' + styles.open : styles.sideMenu
-
 class SearchPage extends React.Component {
   state = {
     activeFormatNames: [],
     activePrices: [],
     activeSubjects: [],
     searchValue: '',
-    openDrawer: true,
+    openDrawer: false,
   }
 
   toggleDrawer = event => {
     this.setState({
       openDrawer: !this.state.openDrawer,
     })
-    console.log('hi')
   }
 
   toggleFormat = (isChecked, formatName) => {
@@ -166,13 +189,28 @@ class SearchPage extends React.Component {
 
     return (
       <div>
+        <div
+          className={styles.searchButton}
+          onClick={evt => this.toggleDrawer(evt.target)}
+        >
+          <Search />
+        </div>
         <div className={styles.cols}>
-          <div className={this.state.openDrawer === true ? styles.sideMenu + ' ' + styles.open : styles.sideMenu}>
+          <div
+            className={
+              this.state.openDrawer === true
+                ? styles.sideMenu + ' ' + styles.open
+                : styles.sideMenu
+            }
+          >
             <div className={styles.lhColSection}>
               <h3 className={styles.sectionHeading}>
                 <p className={styles.priceTitle}>Price</p>
-                <div className={styles.hamburger} onClick={evt => this.toggleDrawer(evt.target)}>
-                  <Hamburger />
+                <div
+                  className={styles.x}
+                  onClick={evt => this.toggleDrawer(evt.target)}
+                >
+                  <X />
                 </div>
               </h3>
               <input
@@ -236,7 +274,6 @@ class SearchPage extends React.Component {
               ))}
             </div>
           </div>
-          <div className={styles.hamburger} onClick={evt => this.toggleDrawer(evt.target)}><Hamburger /></div>
           <div className={styles.rhCol}>
             {nodes.map(({ node }) => (
               <div key={node.fields.slug}>
