@@ -1,10 +1,10 @@
 New In React	http://newinreact.com	0	n/a	blog,video	react,javascript	n
 Talks to Help You Become a Better Front-End Engineer IN 2013	https://www.smashingmagazine.com/2012/12/talks-to-help-you-become-a-better-front-end-engineer-in-2013/	0	n/a	blog,video	frontend devolpment,workflow,web design,mobile,debugging,css,javascript	n
 Code.org	https://code.org/	0	n/a	blog,course,interactive	coding,computer science	n
-Code Academy	https://www.codecademy.com/	0,19.99	n/a,month	course,interactive	html,css,responsive design,sass,python,java,ruby,javascript,angular	n
+Codecademy	https://www.codecademy.com/	0,19.99	n/a,monthly	course,interactive	html,css,responsive design,sass,python,java,ruby,javascript,angular	n
 Confreak	http://www.confreaks.com/	0	n/a	video,blog	ruby,ember,golang,elixir	n
 CraftStudio	https://sparklinlabs.itch.io/craftstudio	0	n/a	tool	gaming	n
-Udacity	https://www.udacity.com/	0-2000	once	course,code	data analytics,programming,react	n
+Udacity	https://www.udacity.com/	0,2000	once	course,code	data analytics,programming,react	n
 Teach Yourself To Code	http://teachyourselftocode.com/	0	n/a	resource	rails,backbone,node,python,javascript,ruby	n
 Treehouse	https://teamtreehouse.com/	25,49	monthly	course,video	javascript,c#,ruby,design,database,android	n
 Dance In A Year	danceinayear.com	0	n/a	video	dance	n
@@ -43,7 +43,7 @@ Why Racket? Why Lisp?	http://practicaltypography.com/why-racket-why-lisp.html	0	
 After Completing 40 Pluralsight courses	https://simpleprogrammer.com/2013/06/02/after-completing-40-online-training-courses-for-pluralsight-what-have-i-learned	0	n/a	blog	java,tutorials	n
 CBT Nuggets	https://www.cbtnuggets.com/	84	monthly	video,interactive,lab	microsoft,it security,amazon web services	n
 WebGL Fundamentals	https://webglfundamentals.org/	0	n/a	example	webGL	n
-Hackr: Find the best online programming courses & tutorials	https://hackr.io/	0	n/a	course,video,ebook	c,react,angular,css,javascript,photoshop,unity	n
+Hackr	https://hackr.io/	0	n/a	resource	c,react,angular,css,javascript,photoshop,unity	n
 Code: Course 1	https://studio.code.org/s/course1	0	n/a	interactive	coding,kids	n
 Google Tech Dev Guide	https://techdevguide.withgoogle.com/	0	n/a	challenge,example	java	n
 Udi Dahan Videos	https://drive.google.com/drive/folders/0B9A2jsCBZYBFfmtYWmJwNGZzaEQ3d2xqTzBiWTFhZTFGSmlDbUowLUJmbXgxX2RiWGNDR2c	0	n/a	video	scalability	n
@@ -108,7 +108,7 @@ Elm Town	https://elmtown.github.io/	0	n/a	podcast	elm	n
 Syncfusion ebooks	https://www.syncfusion.com/resources/techportal/ebooks	0	n/a	ebook	java,php,go,.net	n
 CSS Reference	http://cssreference.io/	0	n/a	interactive	css,flexbox,animation	n
 Secrets to Being Smarter	https://www.pluralsight.com/blog/career/smarter-secrets-podcasts	0	n/a	podcast	development,c++,.net,javascript	n
-Beginning to Elm: a gentle introduction	http://elmprogramming.com/	0	n/a	ebook,documentation	elm	n
+Beginning to Elm	http://elmprogramming.com/	0	n/a	ebook,documentation	elm	n
 Marksheet	http://marksheet.io/	0	n/a	ebook,documentation	css,html	y
 Elm Orlando	https://elmorlando.herokuapp.com/#/	0	n/a	ebook,video	elm	n
 Game Development	https://game-development.zeef.com/david.arcila	0	n/a	resource,project	game development	n
@@ -126,7 +126,7 @@ Competitive Programmer's Handbook	https://cses.fi/book.html	0	n/a	ebook	programm
 Learn React	https://learnreact.com/	4	course	course,video	react	n
 Full Stack Talks	https://www.youtube.com/channel/UCpq2_V-9AYYUHSsjoJZPUTg	0	n/a	video	full stack,css,react,polymer	n
 Front End Center	https://frontend.center/	0,15	n/a,monthly	video	react,javascript	n
-UX Designers: Here are the 56 Best Websites To Learn Something New	https://uxplanet.org/ux-designers-here-are-the-50-best-online-courses-to-learn-something-new-d6e65024274f	0	n/a	blog,resource	ux,user experience	n
+UX Designers	https://uxplanet.org/ux-designers-here-are-the-50-best-online-courses-to-learn-something-new-d6e65024274f	0	n/a	blog,resource	ux,user experience	n
 Learn CSS Layout	https://thecssworkshop.com/	99	course	course,video	css	n
 A Complete Web Developer Reading List	http://thenewcode.com/1188/A-Complete-Web-Developer-Reading-List	0	n/a	course,example	css,html,javascript,mysql,seo,php	n
 Online Mathematics Textbooks	http://people.math.gatech.edu/~cain/textbooks/onlinebooks.html	0	n/a	ebook	math	n
@@ -141,11 +141,11 @@ Under The Hood: ReactJS	https://bogdan-lyashenko.github.io/Under-the-hood-ReactJ
 A set of best practices for JavaScript projects	https://github.com/wearehive/project-guidelines	0	n/a	example,tutorial	git,api	n
 Skyrocket in Android and Node.js	https://futurestud.io/	60	semiannually	tutorial,video	android,node	n
 Going Mobile With React Native	https://blog.clubhouse.io/going-mobile-with-react-native-891e1a602465	0	n/a	article,example	react,react native	n
-Idiomatic Redux: The Tao of Redux, Part 1 - Implementation and Intent	http://blog.isquaredsoftware.com/2017/05/idiomatic-redux-tao-of-redux-part-1/	0	n/a	blog,resource	redux	n
+Idiomatic Redux	http://blog.isquaredsoftware.com/2017/05/idiomatic-redux-tao-of-redux-part-1/	0	n/a	blog,resource	redux	n
 Learn JavaScript with Eric Elliot	https://ericelliottjs.com/product/lifetime-access-pass/	495	once	ebook,course,video,example	javascript	n
 A Real World Guide to WebRTC	https://deepstreamhub.com/tutorials/protocols/webrtc-intro/	0	n/a	tutorial,example	webrtc	n
 CS233 Schedule	https://www.classes.cs.uchicago.edu/archive/2017/spring/22300-1/schedule.html	0	n/a	tutorial,example	elm	n
-liveBook	https://livebook.manning.com/?trk_msg=OSRODFD7NHCKB4P5R9R1J2NIVS&trk_contact=QM717KMFFAHTI7SDGRV1FLKDFK&trk_sid=KKRHDUI0OT4RS1S48S1DV9BCJ4&utm_source=Listrak&utm_medium=Email&utm_term=https%3a%2f%2flivebook.manning.com%2f&utm_campaign=Meet+liveBook%2c+Manning%E2%80%99s+FREE+online+reading+platform	39.99	book	ebook,tutorial	python,javascript,electron,angular	n
+liveBook	https://livebook.manning.com/?trk_msg=OSRODFD7NHCKB4P5R9R1J2NIVS&trk_contact=QM717KMFFAHTI7SDGRV1FLKDFK&trk_sid=KKRHDUI0OT4RS1S48S1DV9BCJ4&utm_source=Listrak&utm_medium=Email&utm_term=https%3a%2f%2flivebook.manning.com%2f&utm_campaign=Meet+liveBook%2c+Manning%E2%80%99s+FREE+online+reading+platform	39.99	once	ebook,tutorial	python,javascript,electron,angular	n
 Elixir School	https://elixirschool.com/	0	n/a	example,ebook	elixir	n
 React Workshop	https://github.com/ReactTraining/react-workshop	0	n/a	download	react	n
 Learn Web Development	https://developer.mozilla.org/en-US/docs/Learn	0	n/a	tutorial,example,documentation	html,css,javascript	n

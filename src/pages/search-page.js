@@ -188,7 +188,7 @@ class SearchPage extends React.Component {
       )
 
     return (
-      <div>
+      <div className={styles.wrapper}>
         <div
           className={styles.searchButton}
           onClick={evt => this.toggleDrawer(evt.target)}

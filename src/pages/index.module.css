@@ -17,4 +17,8 @@
   border: 4px solid white;
   max-width: 100%;
 }
+.wrapper {
+  max-width: 900px;
+  margin: 0 auto;
+}
 

@@ -2,7 +2,8 @@
 title: "Udacity"
 url: "https://www.udacity.com/"
 price: 
-- "0-2000"
+- "0"
+- "2000"
 pricePerPeriod: 
 - "once"
 format: 

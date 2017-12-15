@@ -3,29 +3,30 @@ import styles from './resource-page.module.css'
 
 export default ({ data }) => {
   const post = data.markdownRemark
+  const short = post.frontmatter
+  const formatList = short.format
+    .map(format => format[0].toUpperCase() + format.substr(1))
+    .join(', ')
+  const priceList =
+    short.price.length > 1 && short.price.includes('0')
+      ? 'Freemium'
+      : short.price.length > 1
+        ? 'Price Varies'
+        : short.price.includes('0') ? 'Free' : short.price
+
+  const pricePerPeriodList = priceList === 'Freemium' || priceList === 'Free' || priceList === 'Price Varies' ?
+        "n/a" : short.pricePerPeriod
+  const hasPicture = short.featured === 'y' ? true : false
   return (
-    <div>
+    <div className={styles.wrap}>
       <h1 className={styles.title}>
         <a href={post.frontmatter.url}>{post.frontmatter.title}</a>
       </h1>
-      <div className={styles.formatContainer}>
-        {post.frontmatter.format.map(function(format) {
-          return <p>{format}</p>
-        })}
-      </div>
-      <div className={styles.priceContainer}>
-        {post.frontmatter.price.map(function(price) {
-          return <p>{price}</p>
-        })}
-      </div>
-      <div>
-        {post.frontmatter.pricePerPeriod.map(function(pricePerPeriod) {
-          return /*post.frontmatter.pricePerPeriod.indexOf("n/a") > -1
-          ? <p>free</p>
-          : */
-          ;<p>{pricePerPeriod}</p>
-        })}
-      </div>
+      {hasPicture ? <img src={short.picture} className={styles.picture}/> : ""}
+      <p className={styles.formatContainer}>{formatList}</p>
+      <p className={styles.price}>{priceList}</p>
+      {pricePerPeriodList != "n/a" ?  <p className={styles.pricePerPeriodContainer}>{pricePerPeriodList}</p>
+        : ""}
       <div className={styles.subjectContainer}>
         {post.frontmatter.subject.map(function(subject) {
           return <p className={styles.subject}>{subject}</p>
@@ -48,6 +49,8 @@ export const query = graphql`
         pricePerPeriod
         format
         subject
+        featured
+        picture
       }
     }
   }

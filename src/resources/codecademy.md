@@ -1,12 +1,12 @@
 ---
-title: "Code Academy"
+title: "Codecademy"
 url: "https://www.codecademy.com/"
 price: 
 - "0"
 - "19.99"
 pricePerPeriod: 
 - "n/a"
-- "month"
+- "monthly"
 format: 
 - "course"
 - "interactive"
@@ -21,5 +21,5 @@ subject:
 - "javascript"
 - "angular"
 featured: "n"
-picture: "/static/code-academy.png"
+picture: "/static/codecademy.png"
 ---

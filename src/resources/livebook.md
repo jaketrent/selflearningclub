@@ -4,7 +4,7 @@ url: "https://livebook.manning.com/?trk_msg=OSRODFD7NHCKB4P5R9R1J2NIVS&trk_conta
 price: 
 - "39.99"
 pricePerPeriod: 
-- "book"
+- "once"
 format: 
 - "ebook"
 - "tutorial"

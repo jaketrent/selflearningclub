@@ -11,7 +11,7 @@ class IndexPage extends React.Component {
       f => f.node.frontmatter.featured === 'y'
     )
     return (
-      <div>
+      <div className={styles.wrapper}>
         <div className={styles.featureContainer}>
           {featurettes.map(({ node }) => (
             <Link to={node.fields.slug} className={styles.featureLink}>
