@@ -219,7 +219,7 @@ class SearchPage extends React.Component {
                 checked={this.state.activePrices.indexOf('free') > -1}
                 onClick={evt => this.togglePrice(evt.target.checked, 'free')}
               />{' '}
-              Free
+              Free{" "}
               <input
                 type="checkbox"
                 key="paid"

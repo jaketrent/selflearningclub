@@ -15,7 +15,7 @@ export default ({ data }) => {
         : short.price.includes('0') ? 'Free' : short.price
 
   const pricePerPeriodList = priceList === 'Freemium' || priceList === 'Free' || priceList === 'Price Varies' ?
-        "n/a" : short.pricePerPeriod
+        "n/a" : short.pricePerPeriod.map(format => format[0].toUpperCase() + format.substr(1))
   const hasPicture = short.featured === 'y' ? true : false
   return (
     <div className={styles.wrap}>
@@ -24,9 +24,9 @@ export default ({ data }) => {
       </h1>
       {hasPicture ? <img src={short.picture} className={styles.picture}/> : ""}
       <p className={styles.formatContainer}>{formatList}</p>
-      <p className={styles.price}>{priceList}</p>
-      {pricePerPeriodList != "n/a" ?  <p className={styles.pricePerPeriodContainer}>{pricePerPeriodList}</p>
-        : ""}
+      <p className={styles.price}>
+      {pricePerPeriodList != "n/a" ?  pricePerPeriodList + " - $" + priceList
+        : priceList}</p>
       <div className={styles.subjectContainer}>
         {post.frontmatter.subject.map(function(subject) {
           return <p className={styles.subject}>{subject}</p>
